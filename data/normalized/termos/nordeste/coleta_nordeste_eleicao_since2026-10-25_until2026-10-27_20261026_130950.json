@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste eleicao",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "9933c531-6122-4ea0-bcb4-6f88d8b323d2",
+    "collected_at": "2026-10-26T13:09:50-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 1,
+      "records_total": 1,
+      "skipped_duplicate": 44
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114721070314119393",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114721070314119393",
+      "post_id": "2114706294523244898",
+      "parent_comment_id": "2114706294523244898",
+      "thread_root_id": "2114706294523244898",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "onedboyz",
+        "username": "onedboyz",
+        "profile_url": null
+      },
+      "text": "já chegaram ontem kkkk",
+      "created_at": "2026-10-26T14:09:00+00:00",
+      "collected_at": "2026-10-26T13:09:50-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/onedboyz/status/2114721070314119393#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "9933c531-6122-4ea0-bcb4-6f88d8b323d2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114721070314119393",
+        "text": "já chegaram ontem kkkk",
+        "author_username": "onedboyz",
+        "author_name": "onedboyz",
+        "created_at": "2026-10-26T14:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/onedboyz/status/2114721070314119393#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114706294523244898",
+        "parent_comment_id": "2114706294523244898",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 22,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}

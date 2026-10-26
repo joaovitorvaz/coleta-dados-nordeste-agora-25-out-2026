@@ -1,0 +1,796 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste eleicao",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "9933c531-6122-4ea0-bcb4-6f88d8b323d2",
+    "collected_at": "2026-10-26T13:09:50-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 0,
+      "comments": 1,
+      "records_total": 1,
+      "skipped_duplicate": 44
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114706294523244898",
+            "text": "E já já Fred, chegarão aqui um monte de imbecis, construindo 1001 teorias para dizer que a eleição foi roubada e que o nordeste não sabe votar e bla bla bla.\n\nE não percebem o simples que está estampado na sua cara.",
+            "author_username": "Andersalizando",
+            "author_name": "Andersalizando",
+            "created_at": "2026-10-26T13:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Andersalizando/status/2114706294523244898#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 120
+            }
+          },
+          {
+            "id": "2114560746075959738",
+            "text": "Vimos duas coisas no primeiro turno:\n1- O norte e o nordeste estão acordando.\n2- O Brasil quer mudança e não aguenta mais o PT.\nQuem ganhou a eleição para o Lula foi o algoritmo do TSE. Não culpem os nordestinos.",
+            "author_username": "DavidFerraz",
+            "author_name": "DavidFerraz",
+            "created_at": "2026-10-26T03:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DavidFerraz/status/2114560746075959738#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114534280739033326",
+            "text": "E foi o meu nordeste, minha região, que deu a eleição pra ele, aqui os nove estados votaram pelo Lula.",
+            "author_username": "filtersofjimin_",
+            "author_name": "filtersofjimin_",
+            "created_at": "2026-10-26T01:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/filtersofjimin_/status/2114534280739033326#m",
+            "metrics": {
+              "like_count": 44,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114524364922073146",
+            "text": "Se tu acredita que o Lula, sabe nem o que fala. Envolvido até os dentes, perdeu pro Flávio com quase 3 milhões de voto. Lula crescer tudo isso de voto e prorrogando 2h de eleição no Nordeste. Sim, vou entender que foi democrático kkkkk",
+            "author_username": "Wendelzito",
+            "author_name": "Wendelzito",
+            "created_at": "2026-10-26T01:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Wendelzito/status/2114524364922073146#m",
+            "metrics": {
+              "like_count": 47,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114517482773917803",
+            "text": "Minas foi sensacional nessa eleição \n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chokko14071548/status/2114517482773917803#m",
+            "metrics": {
+              "like_count": 495,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114514567485350323",
+            "text": "Seu cu, flemenguista otário. \nQuem manda em toda eleição é o NORDESTE",
+            "author_username": "lokodobaheaBBMP",
+            "author_name": "lokodobaheaBBMP",
+            "created_at": "2026-10-26T00:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lokodobaheaBBMP/status/2114514567485350323#m",
+            "metrics": {
+              "like_count": 52,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114512692039807035",
+            "text": "Irmão como Nordestino não tem nada haver isso ,eles só usam nosso nordeste para dá um ar de legalidade na fraude que eles promove desde da última eleição",
+            "author_username": "Juliano23053827",
+            "author_name": "Juliano23053827",
+            "created_at": "2026-10-26T00:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Juliano23053827/status/2114512692039807035#m",
+            "metrics": {
+              "like_count": 286,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114502720061116778",
+            "text": "O veio vai ganhar só no Nordeste e no Exterior e vai copar essa eleição. Manda o Nikolas fazer vídeo do NE lá no caraio, porra!",
+            "author_username": "enzzrs",
+            "author_name": "enzzrs",
+            "created_at": "2026-10-25T23:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/enzzrs/status/2114502720061116778#m",
+            "metrics": {
+              "like_count": 153,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114478225913241790",
+            "text": "Que nojo, boicotar a eleição cancelando vôos para o nordeste, impedindo ônibus de circularem, náo permitindo acessibilidade.....Apesar de vc , amanhã há de ser outro dia! #BoraLula, não queremos milicianos no poder!",
+            "author_username": "mochachaves",
+            "author_name": "mochachaves",
+            "created_at": "2026-10-25T22:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mochachaves/status/2114478225913241790#m",
+            "metrics": {
+              "like_count": 79,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114468386088333739",
+            "text": "Lula foi mto mais prejudicado q o Flávio Bolsonaro. Essa eleição tem q ser anulada. O nordeste foi prejudicado onde Lula é mais forte",
+            "author_username": "Fabrici70242229",
+            "author_name": "Fabrici70242229",
+            "created_at": "2026-10-25T21:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2114468386088333739#m",
+            "metrics": {
+              "like_count": 57,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114455421549515182",
+            "text": "A campanha de Flávio também pediu para prorrogar a eleição, vai ser tenso, acho que Flávio vai ser desfavorecida com essa decisão, pqp. Sou de salvador e aqui a roubalheira é escancarada, o que deve acontecer em todo o nordeste e parte do norte",
+            "author_username": "carlossouz59412",
+            "author_name": "carlossouz59412",
+            "created_at": "2026-10-25T20:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/carlossouz59412/status/2114455421549515182#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114409245898629614",
+            "text": "É revoltante a quantidade de forças tentando interferir na nossa eleição. E tudo só no Nordeste. \n#DeixemONordesteVotar",
+            "author_username": "LucasMirandaLM",
+            "author_name": "LucasMirandaLM",
+            "created_at": "2026-10-25T17:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LucasMirandaLM/status/2114409245898629614#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114407438271062032",
+            "text": "É absurdo e criminoso que, em mais uma eleição, agentes públicos estejam agindo para impedir a circulação de ônibus e dificultar que eleitores do Nordeste exerçam seu direito democrático ao voto.\n\n#DeixemONordesteVotar\n#LulaPelaDemocracia\n#DeixemABahiaVotar\n#HojeEuVotoLula",
+            "author_username": "fabiofelixdf",
+            "author_name": "fabiofelixdf",
+            "created_at": "2026-10-25T17:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fabiofelixdf/status/2114407438271062032#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 49,
+              "retweet_count": 339,
+              "quote_count": 768
+            }
+          },
+          {
+            "id": "2114340009033527591",
+            "text": "Lula pode perder essa eleição mas ele vai ser sempre nosso melhor Presidente eu te amo Luli o Nordeste te ama Luli você ganhando o perdendo você vai ser sempre amado por nós, nosso guerreiro sobrevivendo Luli 💜❤️🙏✋🙌👏🫂",
+            "author_username": "JosimarRam32059",
+            "author_name": "JosimarRam32059",
+            "created_at": "2026-10-25T12:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JosimarRam32059/status/2114340009033527591#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114328201375662286",
+            "text": "Na ultima eleição o governo fechou as estradas para que o nordeste não pudesse votar. \n\nEsse ano as empresas aereas estão cancelando voos para o nordeste. \n\nVocês conseguem perceber que a democracia morreu nas mãos dos poderosos?",
+            "author_username": "danielborja",
+            "author_name": "danielborja",
+            "created_at": "2026-10-25T12:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/danielborja/status/2114328201375662286#m",
+            "metrics": {
+              "like_count": 214,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 10
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114721070314119393",
+            "text": "já chegaram ontem kkkk",
+            "author_username": "onedboyz",
+            "author_name": "onedboyz",
+            "created_at": "2026-10-26T14:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/onedboyz/status/2114721070314119393#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114706294523244898",
+            "parent_comment_id": "2114706294523244898",
+            "depth": 1
+          },
+          {
+            "id": "2114730354166644752",
+            "text": "Tem um negócio engraçado que acontece, quando você é muito próximo de um grupo e percebe que eles são um rebanho de idiota, e você se sente \"disperso\" muitas vezes você se afasta aos poucos, e eles nem percebem, isso resume essa campanha deles no 2° turno",
+            "author_username": "Gust4h_Silva",
+            "author_name": "Gust4h_Silva",
+            "created_at": "2026-10-26T14:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Gust4h_Silva/status/2114730354166644752#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114706294523244898",
+            "parent_comment_id": "2114706294523244898",
+            "depth": 1
+          },
+          {
+            "id": "2114541770214425026",
+            "text": "ohhh estuvo demasiado reñidooo, en mi casa estábamos sufriendo como si fuera nuestra propia elección jajajs",
+            "author_username": "jjkhs94",
+            "author_name": "jjkhs94",
+            "created_at": "2026-10-26T02:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jjkhs94/status/2114541770214425026#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114534280739033326",
+            "parent_comment_id": "2114534280739033326",
+            "depth": 1
+          },
+          {
+            "id": "2114412066828132686",
+            "text": "#LulaPresidente\n\n#LulaPelaDemocracia\n\n#DeixemONordesteVotar",
+            "author_username": "partesdajupiter",
+            "author_name": "partesdajupiter",
+            "created_at": "2026-10-25T17:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/partesdajupiter/status/2114412066828132686#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114425324867899624",
+            "text": "#DeixemONordesteVotar\n#DeixemABahiaVotar",
+            "author_username": "LucasVi07542952",
+            "author_name": "LucasVi07542952",
+            "created_at": "2026-10-25T18:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LucasVi07542952/status/2114425324867899624#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114429314695319801",
+            "text": "#LutaPelaDemocracia",
+            "author_username": "camilasum",
+            "author_name": "camilasum",
+            "created_at": "2026-10-25T18:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/camilasum/status/2114429314695319801#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114436474187702433",
+            "text": "🚨@TSEjusbr, pedimos a prorrogação do horário de votação diante dos atrasos no transporte público em diversas cidades do Brasil. Nenhum eleitor pode ser prejudicado ou impedido de exercer seu direito ao voto por dificuldades de deslocamento. Votar é um direito! #DeixemOPovoVotar",
+            "author_username": "Dramah014",
+            "author_name": "Dramah014",
+            "created_at": "2026-10-25T19:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Dramah014/status/2114436474187702433#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114416854982881460",
+            "text": "Deixem o Nordeste Votar!!",
+            "author_username": "Lilocah1",
+            "author_name": "Lilocah1",
+            "created_at": "2026-10-25T18:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Lilocah1/status/2114416854982881460#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114411329033306419",
+            "text": "#DeixemABahiaVotar",
+            "author_username": "fatmendes",
+            "author_name": "fatmendes",
+            "created_at": "2026-10-25T17:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fatmendes/status/2114411329033306419#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114430644612628783",
+            "text": "NÃO LIBERARAM EMBARCAÇÕES NO PARA #DeixemONorteVotar",
+            "author_username": "areyoucoolman_",
+            "author_name": "areyoucoolman_",
+            "created_at": "2026-10-25T18:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/areyoucoolman_/status/2114430644612628783#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114424514364789207",
+            "text": "Ridículo! 🚨 @TSEjusbr, pedimos a extensão do horário de votação diante dos atrasos no transporte público em diversas cidades do Brasil. Nenhum eleitor pode ser prejudicado e impedido de exercer seu direito ao voto por dificuldades de deslocamento. Votar é um direito!",
+            "author_username": "bestboyjini",
+            "author_name": "bestboyjini",
+            "created_at": "2026-10-25T18:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bestboyjini/status/2114424514364789207#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114427310065791433",
+            "text": "GOLPISTAS!\n#DeixemONordesteVotar\n#HojeEuVotoLula\n#DeixemABahiaVotar\n#LulaPelaDemocracia\n#DeixemOsNordestinosVotarem",
+            "author_username": "queirogamanu",
+            "author_name": "queirogamanu",
+            "created_at": "2026-10-25T18:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/queirogamanu/status/2114427310065791433#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114415477787140364",
+            "text": "E sobre as pessoas impedidas de pegar ônibus e avião? Cadê o posicionamento?? @TSEjusbr \n\n#votacaoate19horas\n\n#DeixemONordesteVotar\n#LulaPelaDemocracia\n#DeixemABahiaVotar\n#HojeEuVotoLula",
+            "author_username": "DeboraTorres",
+            "author_name": "DeboraTorres",
+            "created_at": "2026-10-25T17:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DeboraTorres/status/2114415477787140364#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114417652974190994",
+            "text": "@TSEjusbr pedimos a extensão do horário de votação diante dos atrasos no transporte público em diversas cidades do Brasil. Nenhum eleitor pode ser prejudicado e impedido de exercer seu direito ao voto por dificuldades de deslocamento. Votar é um direito!\n#DeixemONordesteVotar",
+            "author_username": "folkjulim",
+            "author_name": "folkjulim",
+            "created_at": "2026-10-25T18:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/folkjulim/status/2114417652974190994#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114436717696385055",
+            "text": "#VotacaoAte19Horas\n🚨 @TSEjusbr, pedimos a extensão do horário de votação diante dos atrasos no transporte público em diversas cidades do Brasil. Nenhum eleitor pode ser prejudicado e impedido de exercer seu direito ao voto por dificuldades de deslocamento. Votar é um direito!",
+            "author_username": "AzuisJesus",
+            "author_name": "AzuisJesus",
+            "created_at": "2026-10-25T19:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AzuisJesus/status/2114436717696385055#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114471996729749928",
+            "text": "KASSIO NUNES MARQUES PRECISA SER PRESO",
+            "author_username": "Thalita_rdq",
+            "author_name": "Thalita_rdq",
+            "created_at": "2026-10-25T21:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Thalita_rdq/status/2114471996729749928#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114445718530248945",
+            "text": "TSE tem a obrigação de apurar os fatos e prorrogar o horário",
+            "author_username": "Crisjuniordf",
+            "author_name": "Crisjuniordf",
+            "created_at": "2026-10-25T19:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Crisjuniordf/status/2114445718530248945#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114414335741030521",
+            "text": "@Jeronimoba13 Solicite a prorrogação do tempo de votação.\n\n@tsejus PRORROGA AS ELEIÇÕES NO NORDESTE\n\n#DeixemONordesteVotar\n#DeixemABahiaVotar\n#AmpliarTempodeVotacaonaBahia\nmetro1.com.br/noticias/eleic…",
+            "author_username": "oncebytwice_",
+            "author_name": "oncebytwice_",
+            "created_at": "2026-10-25T17:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/oncebytwice_/status/2114414335741030521#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114421848289022152",
+            "text": "🚨\n@TSEjusbr, pedimos a extensão do horário de votação diante dos atrasos no transporte público em diversas cidades do Brasil. Nenhum eleitor pode ser prejudicado e impedido de exercer seu direito ao voto por dificuldades de deslocamento. Votar é um direito! #DeixemONordesteVotar",
+            "author_username": "zecudasso",
+            "author_name": "zecudasso",
+            "created_at": "2026-10-25T18:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/zecudasso/status/2114421848289022152#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114416354006622400",
+            "text": "🚨 @TSEjusbr, pedimos a extensão do horário de votação diante dos atrasos no transporte público em diversas cidades do Brasil. Nenhum eleitor pode ser prejudicado e impedido de exercer seu direito ao voto por dificuldades de deslocamento. Votar é um direito!",
+            "author_username": "jan_smoraes",
+            "author_name": "jan_smoraes",
+            "created_at": "2026-10-25T17:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jan_smoraes/status/2114416354006622400#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114408362754413009",
+            "text": "Meu Deus, é impressionante como essa gente tenta roubar a eleição toda vez. E ainda alegam que a democracia não está em risco. Não nos dão um segundo de paz!! Livrai-nos, Deus, dessa família!! 🙏🏻🙌🏻✨\n\n#DeixemABahiaVotar \n#DeixemONordesteVotar \n#DeixemOsIndigenasVotarem",
+            "author_username": "samuell_dias",
+            "author_name": "samuell_dias",
+            "created_at": "2026-10-25T17:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/samuell_dias/status/2114408362754413009#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114412512166674691",
+            "text": "Fábio no Brasil todo e principalmente contra a população mais pobre há relatos de diminuição e até de retirada da frota de ônibus!!\nIsso é Fraude eleitoral. O direito de ir e vir foi violado, ora isso quem decide é p STF porque é a violação da Constituição.",
+            "author_username": "kissimagarcia",
+            "author_name": "kissimagarcia",
+            "created_at": "2026-10-25T17:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/kissimagarcia/status/2114412512166674691#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114413626409005485",
+            "text": "🚨 @TSEjusbr, pedimos a extensão do horário de votação diante dos atrasos no transporte público em diversas cidades do Brasil. Nenhum eleitor pode ser prejudicado e impedido de exercer seu direito ao voto por dificuldades de deslocamento. Votar é um direito!",
+            "author_username": "jieuncoeur",
+            "author_name": "jieuncoeur",
+            "created_at": "2026-10-25T17:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jieuncoeur/status/2114413626409005485#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114416022111293770",
+            "text": "aqui está acontecendo o mesmo na rodoviária, fábio!!! tem que investigar e denunciar! circulação terrível",
+            "author_username": "zerok_prod",
+            "author_name": "zerok_prod",
+            "created_at": "2026-10-25T17:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/zerok_prod/status/2114416022111293770#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114417460438876304",
+            "text": "#DeixemONordesteVotar",
+            "author_username": "andreacosta2509",
+            "author_name": "andreacosta2509",
+            "created_at": "2026-10-25T18:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/andreacosta2509/status/2114417460438876304#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114413533576438248",
+            "text": "É impressionante🤌\n\n#DeixemONordesteVotar\n#LulaPelaDemocracia\n#DeixemABahiaVotar\n#HojeEuVotoLula",
+            "author_username": "Grace5115",
+            "author_name": "Grace5115",
+            "created_at": "2026-10-25T17:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Grace5115/status/2114413533576438248#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114428751278977118",
+            "text": "#HojeEuVoto13\n#LulaVaiVencer\n#LulaéTetra\n#LulaOMelhorPresidenteDaHistoriaDoBrasil\n#LulaOMaiorDeTodos\n#TentativaDeGolpeComTransportePublico\n#IssoÉGolpe\n#IssoÉCrime",
+            "author_username": "leaodaisy",
+            "author_name": "leaodaisy",
+            "created_at": "2026-10-25T18:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/leaodaisy/status/2114428751278977118#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114415186572366042",
+            "text": "#VotacaoAte19Horas",
+            "author_username": "Fabiana85510533",
+            "author_name": "Fabiana85510533",
+            "created_at": "2026-10-25T17:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabiana85510533/status/2114415186572366042#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114419783315652646",
+            "text": "#DeixemONordesteVotar #LulaPelaDemocracia #DeixemABahiaVotar #HojeEuVotoLula",
+            "author_username": "puppyks",
+            "author_name": "puppyks",
+            "created_at": "2026-10-25T18:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/puppyks/status/2114419783315652646#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          },
+          {
+            "id": "2114414449272742141",
+            "text": "#DeixemONordesteVotar\n#LulaPelaDemocracia\n#DeixemABahiaVotar\n#HojeEuVotoLula",
+            "author_username": "jefferson_cas1",
+            "author_name": "jefferson_cas1",
+            "created_at": "2026-10-25T17:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jefferson_cas1/status/2114414449272742141#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114407438271062032",
+            "parent_comment_id": "2114407438271062032",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 26,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "nordeste_agora_20261025"
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:raw:comment:2114721070314119393",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114721070314119393",
+      "post_id": "2114706294523244898",
+      "collected_at": "2026-10-26T13:09:50-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "9933c531-6122-4ea0-bcb4-6f88d8b323d2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114721070314119393",
+        "text": "já chegaram ontem kkkk",
+        "author_username": "onedboyz",
+        "author_name": "onedboyz",
+        "created_at": "2026-10-26T14:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/onedboyz/status/2114721070314119393#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114706294523244898",
+        "parent_comment_id": "2114706294523244898",
+        "depth": 1
+      }
+    }
+  ]
+}
