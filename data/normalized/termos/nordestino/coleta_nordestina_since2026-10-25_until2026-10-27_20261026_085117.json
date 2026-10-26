@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "67f61ccc-46ce-4627-9e28-88a30a87e6a4",
+    "collected_at": "2026-10-26T08:51:17-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 17
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114682245382361449",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114682245382361449",
+      "parent_post_id": null,
+      "thread_root_id": "2114682245382361449",
+      "author": {
+        "platform_id": null,
+        "display_name": "MauricioViana26",
+        "username": "MauricioViana26",
+        "profile_url": "https://x.com/MauricioViana26"
+      },
+      "text": "Esperando minha irmã falar como ta a expressão na cara da colega de trabalho, que é nordestina, evangélica, Maconheira e Bolsonarista ferrenha. Kkkkkkkk qui diliça",
+      "created_at": "2026-10-26T11:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T08:51:17-03:00",
+      "permalink": "https://nitter.meowing.monster/MauricioViana26/status/2114682245382361449#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "67f61ccc-46ce-4627-9e28-88a30a87e6a4",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114682245382361449",
+        "text": "Esperando minha irmã falar como ta a expressão na cara da colega de trabalho, que é nordestina, evangélica, Maconheira e Bolsonarista ferrenha. Kkkkkkkk qui diliça",
+        "author_username": "MauricioViana26",
+        "author_name": "MauricioViana26",
+        "created_at": "2026-10-26T11:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MauricioViana26/status/2114682245382361449#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 163,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
