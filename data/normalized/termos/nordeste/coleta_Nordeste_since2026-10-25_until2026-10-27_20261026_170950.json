@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "19cc3c88-25af-4f14-a6dc-454567f565c2",
+    "collected_at": "2026-10-26T17:09:50-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 519
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114808318590062771",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114808318590062771",
+      "parent_post_id": null,
+      "thread_root_id": "2114808318590062771",
+      "author": {
+        "platform_id": null,
+        "display_name": "SanBolts23",
+        "username": "SanBolts23",
+        "profile_url": "https://x.com/SanBolts23"
+      },
+      "text": "O Nordeste não sai do mapa da fome pra perder pra basculho.",
+      "created_at": "2026-10-26T19:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:09:49-03:00",
+      "permalink": "https://nitter.meowing.monster/SanBolts23/status/2114808318590062771#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "19cc3c88-25af-4f14-a6dc-454567f565c2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114808318590062771",
+        "text": "O Nordeste não sai do mapa da fome pra perder pra basculho.",
+        "author_username": "SanBolts23",
+        "author_name": "SanBolts23",
+        "created_at": "2026-10-26T19:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/SanBolts23/status/2114808318590062771#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 59,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114807947838546354",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114807947838546354",
+      "parent_post_id": null,
+      "thread_root_id": "2114807947838546354",
+      "author": {
+        "platform_id": null,
+        "display_name": "SanBolts23",
+        "username": "SanBolts23",
+        "profile_url": "https://x.com/SanBolts23"
+      },
+      "text": "A arma secreta, seus maravilhosos, a melhor idade🙏🌟 não contavam com sua astúcia. Parece que jogo virou, não é msm? Valeu MG RJ SP Brasil Nordeste, o elemento Elemento X. O Experimento 626.O quinto elemento#Aarmasecreta#Amelhoridade#OExperimento626#ElementoX#Oquintoelemento#",
+      "created_at": "2026-10-26T19:54:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:09:49-03:00",
+      "permalink": "https://nitter.meowing.monster/SanBolts23/status/2114807947838546354#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "19cc3c88-25af-4f14-a6dc-454567f565c2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114807947838546354",
+        "text": "A arma secreta, seus maravilhosos, a melhor idade🙏🌟 não contavam com sua astúcia. Parece que jogo virou, não é msm? Valeu MG RJ SP Brasil Nordeste, o elemento Elemento X. O Experimento 626.O quinto elemento#Aarmasecreta#Amelhoridade#OExperimento626#ElementoX#Oquintoelemento#",
+        "author_username": "SanBolts23",
+        "author_name": "SanBolts23",
+        "created_at": "2026-10-26T19:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/SanBolts23/status/2114807947838546354#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 275,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114807459378303369",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114807459378303369",
+      "parent_post_id": null,
+      "thread_root_id": "2114807459378303369",
+      "author": {
+        "platform_id": null,
+        "display_name": "JosejrSimoes",
+        "username": "JosejrSimoes",
+        "profile_url": "https://x.com/JosejrSimoes"
+      },
+      "text": "@nikolas_dm obrigado pelo vídeo #Zambelli aquele que vocês fez no nordeste!",
+      "created_at": "2026-10-26T19:52:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:09:49-03:00",
+      "permalink": "https://nitter.meowing.monster/JosejrSimoes/status/2114807459378303369#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "19cc3c88-25af-4f14-a6dc-454567f565c2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114807459378303369",
+        "text": "@nikolas_dm obrigado pelo vídeo #Zambelli aquele que vocês fez no nordeste!",
+        "author_username": "JosejrSimoes",
+        "author_name": "JosejrSimoes",
+        "created_at": "2026-10-26T19:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/JosejrSimoes/status/2114807459378303369#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 75,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114806750259916988",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114806750259916988",
+      "parent_post_id": null,
+      "thread_root_id": "2114806750259916988",
+      "author": {
+        "platform_id": null,
+        "display_name": "faugustorcosta",
+        "username": "faugustorcosta",
+        "profile_url": "https://x.com/faugustorcosta"
+      },
+      "text": "Penso que seja a hora de o MDB passar a ser comandado pela galera do Norte/Nordeste e parar de flertar com a extrema direita!",
+      "created_at": "2026-10-26T19:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:09:49-03:00",
+      "permalink": "https://nitter.meowing.monster/faugustorcosta/status/2114806750259916988#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "19cc3c88-25af-4f14-a6dc-454567f565c2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114806750259916988",
+        "text": "Penso que seja a hora de o MDB passar a ser comandado pela galera do Norte/Nordeste e parar de flertar com a extrema direita!",
+        "author_username": "faugustorcosta",
+        "author_name": "faugustorcosta",
+        "created_at": "2026-10-26T19:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/faugustorcosta/status/2114806750259916988#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 125,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
