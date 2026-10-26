@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste voto",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "9933c531-6122-4ea0-bcb4-6f88d8b323d2",
+    "collected_at": "2026-10-26T13:21:30-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 40
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114743007480062112",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114743007480062112",
+      "parent_post_id": null,
+      "thread_root_id": "2114743007480062112",
+      "author": {
+        "platform_id": null,
+        "display_name": "christianreoli",
+        "username": "christianreoli",
+        "profile_url": "https://x.com/christianreoli"
+      },
+      "text": "Lá os corruptos e bandidos mandam... O PCC e CV invadiram o Nordeste e os caras dão voto para quem abriu as portas do Nordeste para os Narcotraficantes",
+      "created_at": "2026-10-26T15:36:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T13:21:30-03:00",
+      "permalink": "https://nitter.meowing.monster/christianreoli/status/2114743007480062112#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste voto",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "9933c531-6122-4ea0-bcb4-6f88d8b323d2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114743007480062112",
+        "text": "Lá os corruptos e bandidos mandam... O PCC e CV invadiram o Nordeste e os caras dão voto para quem abriu as portas do Nordeste para os Narcotraficantes",
+        "author_username": "christianreoli",
+        "author_name": "christianreoli",
+        "created_at": "2026-10-26T15:36:00+00:00",
+        "permalink": "https://nitter.meowing.monster/christianreoli/status/2114743007480062112#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 151,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
