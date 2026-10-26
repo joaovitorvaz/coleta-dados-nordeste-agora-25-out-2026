@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "4679b092-edc5-4752-8086-2e67ac364050",
+    "collected_at": "2026-10-26T16:14:52-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 60
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114786486956572989",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114786486956572989",
+      "parent_post_id": null,
+      "thread_root_id": "2114786486956572989",
+      "author": {
+        "platform_id": null,
+        "display_name": "angilbertoas",
+        "username": "angilbertoas",
+        "profile_url": "https://x.com/angilbertoas"
+      },
+      "text": "SOU NORDESTINO LULA NÃO É MEU PRESIDENTE",
+      "created_at": "2026-10-26T18:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:14:52-03:00",
+      "permalink": "https://nitter.meowing.monster/angilbertoas/status/2114786486956572989#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4679b092-edc5-4752-8086-2e67ac364050",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114786486956572989",
+        "text": "SOU NORDESTINO LULA NÃO É MEU PRESIDENTE",
+        "author_username": "angilbertoas",
+        "author_name": "angilbertoas",
+        "created_at": "2026-10-26T18:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/angilbertoas/status/2114786486956572989#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 40,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114786001633898991",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114786001633898991",
+      "parent_post_id": null,
+      "thread_root_id": "2114786001633898991",
+      "author": {
+        "platform_id": null,
+        "display_name": "LeTeilor",
+        "username": "LeTeilor",
+        "profile_url": "https://x.com/LeTeilor"
+      },
+      "text": "Alguém sabe se vai ter nordestino no GTAVI?",
+      "created_at": "2026-10-26T18:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:14:52-03:00",
+      "permalink": "https://nitter.meowing.monster/LeTeilor/status/2114786001633898991#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4679b092-edc5-4752-8086-2e67ac364050",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114786001633898991",
+        "text": "Alguém sabe se vai ter nordestino no GTAVI?",
+        "author_username": "LeTeilor",
+        "author_name": "LeTeilor",
+        "created_at": "2026-10-26T18:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LeTeilor/status/2114786001633898991#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 43,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114772495425311051",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114772495425311051",
+      "parent_post_id": null,
+      "thread_root_id": "2114772495425311051",
+      "author": {
+        "platform_id": null,
+        "display_name": "Wendelzito",
+        "username": "Wendelzito",
+        "profile_url": "https://x.com/Wendelzito"
+      },
+      "text": "Nem todo nordestino merece isso, só petista vagabundo mesmo",
+      "created_at": "2026-10-26T17:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:14:52-03:00",
+      "permalink": "https://nitter.meowing.monster/Wendelzito/status/2114772495425311051#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4679b092-edc5-4752-8086-2e67ac364050",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114772495425311051",
+        "text": "Nem todo nordestino merece isso, só petista vagabundo mesmo",
+        "author_username": "Wendelzito",
+        "author_name": "Wendelzito",
+        "created_at": "2026-10-26T17:33:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Wendelzito/status/2114772495425311051#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 59,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114765081812570235",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114765081812570235",
+      "parent_post_id": null,
+      "thread_root_id": "2114765081812570235",
+      "author": {
+        "platform_id": null,
+        "display_name": "lima88564",
+        "username": "lima88564",
+        "profile_url": "https://x.com/lima88564"
+      },
+      "text": "@tvglobo @globo @jornalnacional @JornalOGlobo @jornalhoje Quando vocês vão falar sobre o problema com a dos voos da  @voeGoloficial @azulinhasaereas desde ontem e até agora não vi uma matéria sobre esse problema com os nordestino que queriam votar",
+      "created_at": "2026-10-26T17:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T16:14:52-03:00",
+      "permalink": "https://nitter.meowing.monster/lima88564/status/2114765081812570235#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4679b092-edc5-4752-8086-2e67ac364050",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114765081812570235",
+        "text": "@tvglobo @globo @jornalnacional @JornalOGlobo @jornalhoje Quando vocês vão falar sobre o problema com a dos voos da  @voeGoloficial @azulinhasaereas desde ontem e até agora não vi uma matéria sobre esse problema com os nordestino que queriam votar",
+        "author_username": "lima88564",
+        "author_name": "lima88564",
+        "created_at": "2026-10-26T17:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/lima88564/status/2114765081812570235#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 247,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
