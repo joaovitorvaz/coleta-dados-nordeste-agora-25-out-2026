@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "9933c531-6122-4ea0-bcb4-6f88d8b323d2",
+    "collected_at": "2026-10-26T14:09:34-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 17
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114749811182166502",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114749811182166502",
+      "parent_post_id": null,
+      "thread_root_id": "2114749811182166502",
+      "author": {
+        "platform_id": null,
+        "display_name": "ManoloDoca",
+        "username": "ManoloDoca",
+        "profile_url": "https://x.com/ManoloDoca"
+      },
+      "text": "A esquerda sudestina tem 4 anos pra se tornar nordestina",
+      "created_at": "2026-10-26T16:03:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T14:09:34-03:00",
+      "permalink": "https://nitter.netbub.com/ManoloDoca/status/2114749811182166502#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "esquerda",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9933c531-6122-4ea0-bcb4-6f88d8b323d2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114749811182166502",
+        "text": "A esquerda sudestina tem 4 anos pra se tornar nordestina",
+        "author_username": "ManoloDoca",
+        "author_name": "ManoloDoca",
+        "created_at": "2026-10-26T16:03:00+00:00",
+        "permalink": "https://nitter.netbub.com/ManoloDoca/status/2114749811182166502#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 56,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114714847883514236",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114714847883514236",
+      "parent_post_id": null,
+      "thread_root_id": "2114714847883514236",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fernand65622019",
+        "username": "Fernand65622019",
+        "profile_url": "https://x.com/Fernand65622019"
+      },
+      "text": "É nessa época que sinto VERGONHA de ser Nordestina, Baiana e Soteropolitana.",
+      "created_at": "2026-10-26T13:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T14:09:34-03:00",
+      "permalink": "https://nitter.netbub.com/Fernand65622019/status/2114714847883514236#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9933c531-6122-4ea0-bcb4-6f88d8b323d2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114714847883514236",
+        "text": "É nessa época que sinto VERGONHA de ser Nordestina, Baiana e Soteropolitana.",
+        "author_username": "Fernand65622019",
+        "author_name": "Fernand65622019",
+        "created_at": "2026-10-26T13:44:00+00:00",
+        "permalink": "https://nitter.netbub.com/Fernand65622019/status/2114714847883514236#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 76,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
