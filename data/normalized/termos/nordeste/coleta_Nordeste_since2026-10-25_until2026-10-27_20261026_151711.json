@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "4679b092-edc5-4752-8086-2e67ac364050",
+    "collected_at": "2026-10-26T15:17:11-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 1,
+      "records_total": 2,
+      "skipped_duplicate": 519
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114779793019248978",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114779793019248978",
+      "parent_post_id": null,
+      "thread_root_id": "2114779793019248978",
+      "author": {
+        "platform_id": null,
+        "display_name": "Dessastrada",
+        "username": "Dessastrada",
+        "profile_url": "https://x.com/Dessastrada"
+      },
+      "text": "Vivi pra ver professor, nordestino criticando o nordeste. Aceita a derrota, divo.",
+      "created_at": "2026-10-26T18:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T15:17:11-03:00",
+      "permalink": "https://nitter.meowing.monster/Dessastrada/status/2114779793019248978#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "4679b092-edc5-4752-8086-2e67ac364050",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114779793019248978",
+        "text": "Vivi pra ver professor, nordestino criticando o nordeste. Aceita a derrota, divo.",
+        "author_username": "Dessastrada",
+        "author_name": "Dessastrada",
+        "created_at": "2026-10-26T18:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Dessastrada/status/2114779793019248978#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 81,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114775940685549696",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114775940685549696",
+      "post_id": "2114773151787933883",
+      "parent_comment_id": "2114773151787933883",
+      "thread_root_id": "2114773151787933883",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "sycasy",
+        "username": "sycasy",
+        "profile_url": null
+      },
+      "text": "Ele n queria q \"fizesse\" nada por aqui. Só mais um q se acha europeu e quer explorar mesmo",
+      "created_at": "2026-10-26T17:47:00+00:00",
+      "collected_at": "2026-10-26T15:17:11-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/sycasy/status/2114775940685549696#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "4679b092-edc5-4752-8086-2e67ac364050",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114775940685549696",
+        "text": "Ele n queria q \"fizesse\" nada por aqui. Só mais um q se acha europeu e quer explorar mesmo",
+        "author_username": "sycasy",
+        "author_name": "sycasy",
+        "created_at": "2026-10-26T17:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/sycasy/status/2114775940685549696#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114773151787933883",
+        "parent_comment_id": "2114773151787933883",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 90,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
