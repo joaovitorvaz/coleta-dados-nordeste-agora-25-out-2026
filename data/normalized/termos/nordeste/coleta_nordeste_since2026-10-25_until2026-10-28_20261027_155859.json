@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "f02e8c56-33bf-46d7-8627-d84c36f0db5e",
+    "collected_at": "2026-10-27T15:58:59-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 517
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115152514366472666",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115152514366472666",
+      "parent_post_id": null,
+      "thread_root_id": "2115152514366472666",
+      "author": {
+        "platform_id": null,
+        "display_name": "chicotejp",
+        "username": "chicotejp",
+        "profile_url": "https://x.com/chicotejp"
+      },
+      "text": "O Nordeste entrega demais!!!",
+      "created_at": "2026-10-27T18:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T15:58:59-03:00",
+      "permalink": "https://nitter.meowing.monster/chicotejp/status/2115152514366472666#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f02e8c56-33bf-46d7-8627-d84c36f0db5e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115152514366472666",
+        "text": "O Nordeste entrega demais!!!",
+        "author_username": "chicotejp",
+        "author_name": "chicotejp",
+        "created_at": "2026-10-27T18:43:00+00:00",
+        "permalink": "https://nitter.meowing.monster/chicotejp/status/2115152514366472666#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 28,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115151162437439538",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115151162437439538",
+      "parent_post_id": null,
+      "thread_root_id": "2115151162437439538",
+      "author": {
+        "platform_id": null,
+        "display_name": "biaonca",
+        "username": "biaonca",
+        "profile_url": "https://x.com/biaonca"
+      },
+      "text": "O nordeste brasileiro  tem gênios formados em áreas matemática, física e química  e engenharias. Fora que as escolas oficiais ITA, i.e tá tudo lá e jndo pra lá!",
+      "created_at": "2026-10-27T18:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T15:58:59-03:00",
+      "permalink": "https://nitter.meowing.monster/biaonca/status/2115151162437439538#m",
+      "metrics": {
+        "like_count": 37,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f02e8c56-33bf-46d7-8627-d84c36f0db5e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115151162437439538",
+        "text": "O nordeste brasileiro  tem gênios formados em áreas matemática, física e química  e engenharias. Fora que as escolas oficiais ITA, i.e tá tudo lá e jndo pra lá!",
+        "author_username": "biaonca",
+        "author_name": "biaonca",
+        "created_at": "2026-10-27T18:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/biaonca/status/2115151162437439538#m",
+        "metrics": {
+          "like_count": 37,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 160,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115146728756162903",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115146728756162903",
+      "parent_post_id": null,
+      "thread_root_id": "2115146728756162903",
+      "author": {
+        "platform_id": null,
+        "display_name": "cecpedro2025",
+        "username": "cecpedro2025",
+        "profile_url": "https://x.com/cecpedro2025"
+      },
+      "text": "A direita se escora no governo do FHC mas em 8 anos não fez nada pelo nordeste, o Lula foi o primeiro por isso votam nele até hoje. Acredita mesmo que a região ia prosperar sem que ninguém investisse lá?",
+      "created_at": "2026-10-27T18:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T15:58:59-03:00",
+      "permalink": "https://nitter.meowing.monster/cecpedro2025/status/2115146728756162903#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f02e8c56-33bf-46d7-8627-d84c36f0db5e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115146728756162903",
+        "text": "A direita se escora no governo do FHC mas em 8 anos não fez nada pelo nordeste, o Lula foi o primeiro por isso votam nele até hoje. Acredita mesmo que a região ia prosperar sem que ninguém investisse lá?",
+        "author_username": "cecpedro2025",
+        "author_name": "cecpedro2025",
+        "created_at": "2026-10-27T18:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/cecpedro2025/status/2115146728756162903#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 203,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
