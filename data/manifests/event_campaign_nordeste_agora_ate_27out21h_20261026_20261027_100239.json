@@ -1,0 +1,19 @@
+{
+  "event_id": "8f2dda77-5457-4180-a340-a8a5ed00bda2",
+  "event_type": "campaign_nordeste_agora_ate_27out21h_20261026",
+  "started_at": "2026-10-27T08:48:33-03:00",
+  "finished_at": "2026-10-27T10:02:39-03:00",
+  "status": "partial",
+  "since": "2026-10-25",
+  "until": "2026-10-28",
+  "records_written": 3,
+  "records_skipped_duplicate": 658,
+  "json_files_written": 3,
+  "errors": [
+    {
+      "query": "nordestinos",
+      "message": "Todas as instâncias falharam. Último erro: Error('Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nitter.xitter.cc/search?f=tweets&q=nordestinos+lang%3Apt+place_country%3ABR+since%3A2026-10-25+until%3A2026-10-28&e-nativeretweets=on\\nCall log:\\n  - navigating to \"https://nitter.xitter.cc/search?f=tweets&q=nordestinos+lang%3Apt+place_country%3ABR+since%3A2026-10-25+until%3A2026-10-28&e-nativeretweets=on\", waiting until \"networkidle\"\\n')"
+    }
+  ],
+  "twitee_trends": []
+}
