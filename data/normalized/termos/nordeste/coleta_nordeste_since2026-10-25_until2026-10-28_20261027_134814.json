@@ -1,0 +1,417 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "df30992f-0058-4617-88cb-4883300a2967",
+    "collected_at": "2026-10-27T13:48:14-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 6,
+      "comments": 0,
+      "records_total": 6,
+      "skipped_duplicate": 514
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115119454048673807",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115119454048673807",
+      "parent_post_id": null,
+      "thread_root_id": "2115119454048673807",
+      "author": {
+        "platform_id": null,
+        "display_name": "ecm_foim",
+        "username": "ecm_foim",
+        "profile_url": "https://x.com/ecm_foim"
+      },
+      "text": "Tebet e Marina, com todo respeito, não ganharam porra nenhuma. Foram engolidas pelos bolsominions de SP.\nOnde estão Camilo Santana, Rafael Fonteles, Jerônimo...\nNa hora do aperto clamam pelo Nordeste, mas nos louros da vitória nos colocam de lado, como sempre fazem. Vão se foder.",
+      "created_at": "2026-10-27T16:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:48:14-03:00",
+      "permalink": "https://nitter.meowing.monster/ecm_foim/status/2115119454048673807#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "df30992f-0058-4617-88cb-4883300a2967",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115119454048673807",
+        "text": "Tebet e Marina, com todo respeito, não ganharam porra nenhuma. Foram engolidas pelos bolsominions de SP.\nOnde estão Camilo Santana, Rafael Fonteles, Jerônimo...\nNa hora do aperto clamam pelo Nordeste, mas nos louros da vitória nos colocam de lado, como sempre fazem. Vão se foder.",
+        "author_username": "ecm_foim",
+        "author_name": "ecm_foim",
+        "created_at": "2026-10-27T16:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ecm_foim/status/2115119454048673807#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115115344402825530",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115115344402825530",
+      "parent_post_id": null,
+      "thread_root_id": "2115115344402825530",
+      "author": {
+        "platform_id": null,
+        "display_name": "WellynaS_",
+        "username": "WellynaS_",
+        "profile_url": "https://x.com/WellynaS_"
+      },
+      "text": "#TapeteVermelhoProAniversariante \ntapete vermelho pro filho do Nordeste\ntapete vermelho pra quem o povo elege \nenquanto houver um brasileiro sonhando\nvai ter Lula no peito, vai ter o Brasil sonhando \nLula, Lula, o Brasil te ama de verdade ❤️",
+      "created_at": "2026-10-27T16:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:48:14-03:00",
+      "permalink": "https://nitter.meowing.monster/WellynaS_/status/2115115344402825530#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "df30992f-0058-4617-88cb-4883300a2967",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115115344402825530",
+        "text": "#TapeteVermelhoProAniversariante \ntapete vermelho pro filho do Nordeste\ntapete vermelho pra quem o povo elege \nenquanto houver um brasileiro sonhando\nvai ter Lula no peito, vai ter o Brasil sonhando \nLula, Lula, o Brasil te ama de verdade ❤️",
+        "author_username": "WellynaS_",
+        "author_name": "WellynaS_",
+        "created_at": "2026-10-27T16:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/WellynaS_/status/2115115344402825530#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 241,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115113018841276515",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115113018841276515",
+      "parent_post_id": null,
+      "thread_root_id": "2115113018841276515",
+      "author": {
+        "platform_id": null,
+        "display_name": "tathylane",
+        "username": "tathylane",
+        "profile_url": "https://x.com/tathylane"
+      },
+      "text": "O filho do Nordeste #FelizAniversarioPresidente #TapeteVermeloProAniversariante",
+      "created_at": "2026-10-27T16:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:48:14-03:00",
+      "permalink": "https://nitter.meowing.monster/tathylane/status/2115113018841276515#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "df30992f-0058-4617-88cb-4883300a2967",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115113018841276515",
+        "text": "O filho do Nordeste #FelizAniversarioPresidente #TapeteVermeloProAniversariante",
+        "author_username": "tathylane",
+        "author_name": "tathylane",
+        "created_at": "2026-10-27T16:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tathylane/status/2115113018841276515#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 79,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115111648146882646",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115111648146882646",
+      "parent_post_id": null,
+      "thread_root_id": "2115111648146882646",
+      "author": {
+        "platform_id": null,
+        "display_name": "TeresaF44143318",
+        "username": "TeresaF44143318",
+        "profile_url": "https://x.com/TeresaF44143318"
+      },
+      "text": "TB, NORDESTE MAIOR PRODUTOR DE CASTANHA, PESCADO E FRUTAS TROPICAIS.Vao ficar sem comer.\nA INTERNET DE VCS IRAO SUMIR POIS OS CABOS SUBMARINOS ENTRAM PELO CEARA. KKKKKKKKKK",
+      "created_at": "2026-10-27T16:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:48:14-03:00",
+      "permalink": "https://nitter.meowing.monster/TeresaF44143318/status/2115111648146882646#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "df30992f-0058-4617-88cb-4883300a2967",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115111648146882646",
+        "text": "TB, NORDESTE MAIOR PRODUTOR DE CASTANHA, PESCADO E FRUTAS TROPICAIS.Vao ficar sem comer.\nA INTERNET DE VCS IRAO SUMIR POIS OS CABOS SUBMARINOS ENTRAM PELO CEARA. KKKKKKKKKK",
+        "author_username": "TeresaF44143318",
+        "author_name": "TeresaF44143318",
+        "created_at": "2026-10-27T16:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TeresaF44143318/status/2115111648146882646#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 172,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115111616786186634",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115111616786186634",
+      "parent_post_id": null,
+      "thread_root_id": "2115111616786186634",
+      "author": {
+        "platform_id": null,
+        "display_name": "drogueirinha",
+        "username": "drogueirinha",
+        "profile_url": "https://x.com/drogueirinha"
+      },
+      "text": "E cabe ao povo do Norte e nordeste deixar de seguir essa lindona, bloquear ela de tudo e não dar nossa suada audiência a esses imundos e porcos",
+      "created_at": "2026-10-27T16:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:48:14-03:00",
+      "permalink": "https://nitter.meowing.monster/drogueirinha/status/2115111616786186634#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "df30992f-0058-4617-88cb-4883300a2967",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115111616786186634",
+        "text": "E cabe ao povo do Norte e nordeste deixar de seguir essa lindona, bloquear ela de tudo e não dar nossa suada audiência a esses imundos e porcos",
+        "author_username": "drogueirinha",
+        "author_name": "drogueirinha",
+        "created_at": "2026-10-27T16:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/drogueirinha/status/2115111616786186634#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 143,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114504542381596687",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114504542381596687",
+      "parent_post_id": null,
+      "thread_root_id": "2114504542381596687",
+      "author": {
+        "platform_id": null,
+        "display_name": "tonjteodoro",
+        "username": "tonjteodoro",
+        "profile_url": "https://x.com/tonjteodoro"
+      },
+      "text": "RJ foi um prazer ter nascido aqui, estou indo para o Nordeste!\n#LulaVaiVencer",
+      "created_at": "2026-10-25T23:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:48:14-03:00",
+      "permalink": "https://nitter.meowing.monster/tonjteodoro/status/2114504542381596687#m",
+      "metrics": {
+        "like_count": 35,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "df30992f-0058-4617-88cb-4883300a2967",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114504542381596687",
+        "text": "RJ foi um prazer ter nascido aqui, estou indo para o Nordeste!\n#LulaVaiVencer",
+        "author_username": "tonjteodoro",
+        "author_name": "tonjteodoro",
+        "created_at": "2026-10-25T23:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tonjteodoro/status/2114504542381596687#m",
+        "metrics": {
+          "like_count": 35,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 77,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
