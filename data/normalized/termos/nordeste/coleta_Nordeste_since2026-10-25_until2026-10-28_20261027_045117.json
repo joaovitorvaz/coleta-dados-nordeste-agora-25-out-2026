@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "ae830a43-6abc-4354-9e2a-7e17a15794ad",
+    "collected_at": "2026-10-27T04:51:17-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 160
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114987908847513905",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114987908847513905",
+      "parent_post_id": null,
+      "thread_root_id": "2114987908847513905",
+      "author": {
+        "platform_id": null,
+        "display_name": "ciridospampas",
+        "username": "ciridospampas",
+        "profile_url": "https://x.com/ciridospampas"
+      },
+      "text": "Não façam turismo no nordeste!",
+      "created_at": "2026-10-27T07:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T04:51:17-03:00",
+      "permalink": "https://nitter.netbub.com/ciridospampas/status/2114987908847513905#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae830a43-6abc-4354-9e2a-7e17a15794ad",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 13,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114987908847513905",
+        "text": "Não façam turismo no nordeste!",
+        "author_username": "ciridospampas",
+        "author_name": "ciridospampas",
+        "created_at": "2026-10-27T07:49:00+00:00",
+        "permalink": "https://nitter.netbub.com/ciridospampas/status/2114987908847513905#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 30,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
