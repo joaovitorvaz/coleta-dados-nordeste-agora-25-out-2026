@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "244f75bd-c58c-447d-b7db-4ee09410c77d",
+    "collected_at": "2026-10-27T12:22:44-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 519
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115095606758699478",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115095606758699478",
+      "parent_post_id": null,
+      "thread_root_id": "2115095606758699478",
+      "author": {
+        "platform_id": null,
+        "display_name": "wander_berna",
+        "username": "wander_berna",
+        "profile_url": "https://x.com/wander_berna"
+      },
+      "text": "eu nao entro em comercio de petista e não gasto um centavo principalmente se eu sentir que o cara e de esquerda...alias ha muito anos nao fui mais para o norte e nordeste gastar meu dinheiro por la e NAO IREI NUNCA MAIS!!!Eles que chamem os petistas duros p/ irem la",
+      "created_at": "2026-10-27T14:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:22:44-03:00",
+      "permalink": "https://nitter.mie.foundation/wander_berna/status/2115095606758699478#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "244f75bd-c58c-447d-b7db-4ee09410c77d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 26,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115095606758699478",
+        "text": "eu nao entro em comercio de petista e não gasto um centavo principalmente se eu sentir que o cara e de esquerda...alias ha muito anos nao fui mais para o norte e nordeste gastar meu dinheiro por la e NAO IREI NUNCA MAIS!!!Eles que chamem os petistas duros p/ irem la",
+        "author_username": "wander_berna",
+        "author_name": "wander_berna",
+        "created_at": "2026-10-27T14:57:00+00:00",
+        "permalink": "https://nitter.mie.foundation/wander_berna/status/2115095606758699478#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 266,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
