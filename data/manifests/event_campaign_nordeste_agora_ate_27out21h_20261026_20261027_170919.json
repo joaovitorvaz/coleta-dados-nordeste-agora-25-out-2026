@@ -1,0 +1,14 @@
+{
+  "event_id": "f02e8c56-33bf-46d7-8627-d84c36f0db5e",
+  "event_type": "campaign_nordeste_agora_ate_27out21h_20261026",
+  "started_at": "2026-10-27T15:47:17-03:00",
+  "finished_at": "2026-10-27T17:09:19-03:00",
+  "status": "success",
+  "since": "2026-10-25",
+  "until": "2026-10-28",
+  "records_written": 7,
+  "records_skipped_duplicate": 942,
+  "json_files_written": 5,
+  "errors": [],
+  "twitee_trends": []
+}
