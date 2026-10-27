@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "81fda260-9e3a-4327-8a5d-8fae49775292",
+    "collected_at": "2026-10-27T12:58:16-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 157
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115104565674602563",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115104565674602563",
+      "parent_post_id": null,
+      "thread_root_id": "2115104565674602563",
+      "author": {
+        "platform_id": null,
+        "display_name": "LeninhaLopes77",
+        "username": "LeninhaLopes77",
+        "profile_url": "https://x.com/LeninhaLopes77"
+      },
+      "text": "Verdade , é uma vergonha  tenho um vizinho que tem familiares no nordeste , disse que bebem,  comem e  ficam na rede se balançando e rindo de quem trabalha.",
+      "created_at": "2026-10-27T15:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:58:16-03:00",
+      "permalink": "https://nitter.netbub.com/LeninhaLopes77/status/2115104565674602563#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "81fda260-9e3a-4327-8a5d-8fae49775292",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115104565674602563",
+        "text": "Verdade , é uma vergonha  tenho um vizinho que tem familiares no nordeste , disse que bebem,  comem e  ficam na rede se balançando e rindo de quem trabalha.",
+        "author_username": "LeninhaLopes77",
+        "author_name": "LeninhaLopes77",
+        "created_at": "2026-10-27T15:33:00+00:00",
+        "permalink": "https://nitter.netbub.com/LeninhaLopes77/status/2115104565674602563#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 156,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115103847060303974",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115103847060303974",
+      "parent_post_id": null,
+      "thread_root_id": "2115103847060303974",
+      "author": {
+        "platform_id": null,
+        "display_name": "TvcallN",
+        "username": "TvcallN",
+        "profile_url": "https://x.com/TvcallN"
+      },
+      "text": "Gostei da morena de cabelos cacheados, putz! Queria ver a Hillux dela. @nordeste",
+      "created_at": "2026-10-27T15:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:58:16-03:00",
+      "permalink": "https://nitter.netbub.com/TvcallN/status/2115103847060303974#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "81fda260-9e3a-4327-8a5d-8fae49775292",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115103847060303974",
+        "text": "Gostei da morena de cabelos cacheados, putz! Queria ver a Hillux dela. @nordeste",
+        "author_username": "TvcallN",
+        "author_name": "TvcallN",
+        "created_at": "2026-10-27T15:30:00+00:00",
+        "permalink": "https://nitter.netbub.com/TvcallN/status/2115103847060303974#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 80,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115103764847751229",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115103764847751229",
+      "parent_post_id": null,
+      "thread_root_id": "2115103764847751229",
+      "author": {
+        "platform_id": null,
+        "display_name": "EloiMaziero",
+        "username": "EloiMaziero",
+        "profile_url": "https://x.com/EloiMaziero"
+      },
+      "text": "O cara acho que é do nordeste, eu sou de Santo André e lembro bem da zona que foi, e trabalhava na VWB do lado lá!\nFora que o véio ficou bêbado todo o tempo!",
+      "created_at": "2026-10-27T15:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:58:16-03:00",
+      "permalink": "https://nitter.netbub.com/EloiMaziero/status/2115103764847751229#m",
+      "metrics": {
+        "like_count": 91,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "81fda260-9e3a-4327-8a5d-8fae49775292",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115103764847751229",
+        "text": "O cara acho que é do nordeste, eu sou de Santo André e lembro bem da zona que foi, e trabalhava na VWB do lado lá!\nFora que o véio ficou bêbado todo o tempo!",
+        "author_username": "EloiMaziero",
+        "author_name": "EloiMaziero",
+        "created_at": "2026-10-27T15:30:00+00:00",
+        "permalink": "https://nitter.netbub.com/EloiMaziero/status/2115103764847751229#m",
+        "metrics": {
+          "like_count": 91,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 157,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
