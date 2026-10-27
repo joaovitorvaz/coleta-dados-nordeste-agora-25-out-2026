@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "81fda260-9e3a-4327-8a5d-8fae49775292",
+    "collected_at": "2026-10-27T13:25:08-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 5,
+      "comments": 0,
+      "records_total": 5,
+      "skipped_duplicate": 72
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114856689115492699",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114856689115492699",
+      "parent_post_id": null,
+      "thread_root_id": "2114856689115492699",
+      "author": {
+        "platform_id": null,
+        "display_name": "Thiago_Farago",
+        "username": "Thiago_Farago",
+        "profile_url": "https://x.com/Thiago_Farago"
+      },
+      "text": "Não sei por qie esse povo idiota tá considerando SP e MS como Sul. SP tá mais que comprovado que um bairro nordestino que só tem retardado. 🤡",
+      "created_at": "2026-10-26T23:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:25:08-03:00",
+      "permalink": "https://nitter.netbub.com/Thiago_Farago/status/2114856689115492699#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "81fda260-9e3a-4327-8a5d-8fae49775292",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114856689115492699",
+        "text": "Não sei por qie esse povo idiota tá considerando SP e MS como Sul. SP tá mais que comprovado que um bairro nordestino que só tem retardado. 🤡",
+        "author_username": "Thiago_Farago",
+        "author_name": "Thiago_Farago",
+        "created_at": "2026-10-26T23:08:00+00:00",
+        "permalink": "https://nitter.netbub.com/Thiago_Farago/status/2114856689115492699#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 141,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114854807580160188",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114854807580160188",
+      "parent_post_id": null,
+      "thread_root_id": "2114854807580160188",
+      "author": {
+        "platform_id": null,
+        "display_name": "LFernandovlog",
+        "username": "LFernandovlog",
+        "profile_url": "https://x.com/LFernandovlog"
+      },
+      "text": "OBRIGADO, @FlavioBolsonaro ! Por ter tentado. Sou Nordestino. E Eu FARIA TUDO DE NOVO ! 🇧🇷⚔️ 👊🏻🙂‍↕️ ...",
+      "created_at": "2026-10-26T23:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:25:08-03:00",
+      "permalink": "https://nitter.netbub.com/LFernandovlog/status/2114854807580160188#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "81fda260-9e3a-4327-8a5d-8fae49775292",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114854807580160188",
+        "text": "OBRIGADO, @FlavioBolsonaro ! Por ter tentado. Sou Nordestino. E Eu FARIA TUDO DE NOVO ! 🇧🇷⚔️ 👊🏻🙂‍↕️ ...",
+        "author_username": "LFernandovlog",
+        "author_name": "LFernandovlog",
+        "created_at": "2026-10-26T23:00:00+00:00",
+        "permalink": "https://nitter.netbub.com/LFernandovlog/status/2114854807580160188#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 103,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114838487014813748",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114838487014813748",
+      "parent_post_id": null,
+      "thread_root_id": "2114838487014813748",
+      "author": {
+        "platform_id": null,
+        "display_name": "Sandra08904140",
+        "username": "Sandra08904140",
+        "profile_url": "https://x.com/Sandra08904140"
+      },
+      "text": "Todos viram o que foi feito, mas parece que consola culpar o nordestino. Sinto muito por isso, @FlvioHolanda3. Meu pai é baiano, veio jovem para SP, trabalhou, aposentou, voltou para Bahia e NUNCA votou no LULA. Mandou msg ontem indignado com falcatrua descarada.",
+      "created_at": "2026-10-26T21:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:25:08-03:00",
+      "permalink": "https://nitter.netbub.com/Sandra08904140/status/2114838487014813748#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "81fda260-9e3a-4327-8a5d-8fae49775292",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114838487014813748",
+        "text": "Todos viram o que foi feito, mas parece que consola culpar o nordestino. Sinto muito por isso, @FlvioHolanda3. Meu pai é baiano, veio jovem para SP, trabalhou, aposentou, voltou para Bahia e NUNCA votou no LULA. Mandou msg ontem indignado com falcatrua descarada.",
+        "author_username": "Sandra08904140",
+        "author_name": "Sandra08904140",
+        "created_at": "2026-10-26T21:56:00+00:00",
+        "permalink": "https://nitter.netbub.com/Sandra08904140/status/2114838487014813748#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 263,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114718973187018828",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114718973187018828",
+      "parent_post_id": null,
+      "thread_root_id": "2114718973187018828",
+      "author": {
+        "platform_id": null,
+        "display_name": "edilsonlyra",
+        "username": "edilsonlyra",
+        "profile_url": "https://x.com/edilsonlyra"
+      },
+      "text": "Siga assim, idiota!\nA estratégia de bater em nordestino está dando muito certo!\n👍🏾",
+      "created_at": "2026-10-26T14:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:25:08-03:00",
+      "permalink": "https://nitter.netbub.com/edilsonlyra/status/2114718973187018828#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "81fda260-9e3a-4327-8a5d-8fae49775292",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114718973187018828",
+        "text": "Siga assim, idiota!\nA estratégia de bater em nordestino está dando muito certo!\n👍🏾",
+        "author_username": "edilsonlyra",
+        "author_name": "edilsonlyra",
+        "created_at": "2026-10-26T14:01:00+00:00",
+        "permalink": "https://nitter.netbub.com/edilsonlyra/status/2114718973187018828#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 82,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114649067888250907",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114649067888250907",
+      "parent_post_id": null,
+      "thread_root_id": "2114649067888250907",
+      "author": {
+        "platform_id": null,
+        "display_name": "CleydeVitalino",
+        "username": "CleydeVitalino",
+        "profile_url": "https://x.com/CleydeVitalino"
+      },
+      "text": "Gratidão Nordeste!\n\nOrgulho de ser filha de nordestino!❤️",
+      "created_at": "2026-10-26T09:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:25:08-03:00",
+      "permalink": "https://nitter.netbub.com/CleydeVitalino/status/2114649067888250907#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "81fda260-9e3a-4327-8a5d-8fae49775292",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114649067888250907",
+        "text": "Gratidão Nordeste!\n\nOrgulho de ser filha de nordestino!❤️",
+        "author_username": "CleydeVitalino",
+        "author_name": "CleydeVitalino",
+        "created_at": "2026-10-26T09:23:00+00:00",
+        "permalink": "https://nitter.netbub.com/CleydeVitalino/status/2114649067888250907#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 57,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
