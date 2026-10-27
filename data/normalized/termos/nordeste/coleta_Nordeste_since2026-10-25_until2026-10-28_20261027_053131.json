@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "631c9991-c3af-4762-90d9-9c9b962d86ae",
+    "collected_at": "2026-10-27T05:31:31-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 377
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114996497427341379",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114996497427341379",
+      "parent_post_id": null,
+      "thread_root_id": "2114996497427341379",
+      "author": {
+        "platform_id": null,
+        "display_name": "ciridospampas",
+        "username": "ciridospampas",
+        "profile_url": "https://x.com/ciridospampas"
+      },
+      "text": "Mandem pro nordeste!",
+      "created_at": "2026-10-27T08:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T05:31:31-03:00",
+      "permalink": "https://nitter.netbub.com/ciridospampas/status/2114996497427341379#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "631c9991-c3af-4762-90d9-9c9b962d86ae",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 22,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114996497427341379",
+        "text": "Mandem pro nordeste!",
+        "author_username": "ciridospampas",
+        "author_name": "ciridospampas",
+        "created_at": "2026-10-27T08:23:00+00:00",
+        "permalink": "https://nitter.netbub.com/ciridospampas/status/2114996497427341379#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 20,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114996422630396364",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114996422630396364",
+      "parent_post_id": null,
+      "thread_root_id": "2114996422630396364",
+      "author": {
+        "platform_id": null,
+        "display_name": "ciridospampas",
+        "username": "ciridospampas",
+        "profile_url": "https://x.com/ciridospampas"
+      },
+      "text": "Acho justo hahahahah desgraçadaos! Petistas devem ir tudo pro nordeste! Deixem a Argentina",
+      "created_at": "2026-10-27T08:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T05:31:31-03:00",
+      "permalink": "https://nitter.netbub.com/ciridospampas/status/2114996422630396364#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "631c9991-c3af-4762-90d9-9c9b962d86ae",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 22,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114996422630396364",
+        "text": "Acho justo hahahahah desgraçadaos! Petistas devem ir tudo pro nordeste! Deixem a Argentina",
+        "author_username": "ciridospampas",
+        "author_name": "ciridospampas",
+        "created_at": "2026-10-27T08:23:00+00:00",
+        "permalink": "https://nitter.netbub.com/ciridospampas/status/2114996422630396364#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 90,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114995312410726845",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114995312410726845",
+      "parent_post_id": null,
+      "thread_root_id": "2114995312410726845",
+      "author": {
+        "platform_id": null,
+        "display_name": "ciridospampas",
+        "username": "ciridospampas",
+        "profile_url": "https://x.com/ciridospampas"
+      },
+      "text": "Cidade aqui maioria Flávio! O problema do Brasil se chama nordeste",
+      "created_at": "2026-10-27T08:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T05:31:31-03:00",
+      "permalink": "https://nitter.netbub.com/ciridospampas/status/2114995312410726845#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "631c9991-c3af-4762-90d9-9c9b962d86ae",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 22,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114995312410726845",
+        "text": "Cidade aqui maioria Flávio! O problema do Brasil se chama nordeste",
+        "author_username": "ciridospampas",
+        "author_name": "ciridospampas",
+        "created_at": "2026-10-27T08:19:00+00:00",
+        "permalink": "https://nitter.netbub.com/ciridospampas/status/2114995312410726845#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 66,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
