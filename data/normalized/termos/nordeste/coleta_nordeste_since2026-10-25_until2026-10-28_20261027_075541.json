@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "12374c27-54d4-4657-9468-cc6564686291",
+    "collected_at": "2026-10-27T07:55:41-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 178
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115033310426497042",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115033310426497042",
+      "parent_post_id": null,
+      "thread_root_id": "2115033310426497042",
+      "author": {
+        "platform_id": null,
+        "display_name": "CelmaLucia4",
+        "username": "CelmaLucia4",
+        "profile_url": "https://x.com/CelmaLucia4"
+      },
+      "text": "Nordeste e sua resposta no 2° Turno: Lula cá! 🌵🌵🌵🌵🌵🌵💪🇧🇷💚💛\n\nAL de 54,73 para 60,77\nBA de 66,17 para 71,31\nCE de 63,29 para 68,93\nMA de 63,99 para 69,54\nPB de 61,31 para 67,46\nPE de 63,45 para 69,21\nPI de 70,99 para 75,88\nRN de 59,75 para 65,72\nSE de 62,75 para 69,53",
+      "created_at": "2026-10-27T10:50:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T07:55:41-03:00",
+      "permalink": "https://nitter.netbub.com/CelmaLucia4/status/2115033310426497042#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "12374c27-54d4-4657-9468-cc6564686291",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115033310426497042",
+        "text": "Nordeste e sua resposta no 2° Turno: Lula cá! 🌵🌵🌵🌵🌵🌵💪🇧🇷💚💛\n\nAL de 54,73 para 60,77\nBA de 66,17 para 71,31\nCE de 63,29 para 68,93\nMA de 63,99 para 69,54\nPB de 61,31 para 67,46\nPE de 63,45 para 69,21\nPI de 70,99 para 75,88\nRN de 59,75 para 65,72\nSE de 62,75 para 69,53",
+        "author_username": "CelmaLucia4",
+        "author_name": "CelmaLucia4",
+        "created_at": "2026-10-27T10:50:00+00:00",
+        "permalink": "https://nitter.netbub.com/CelmaLucia4/status/2115033310426497042#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 265,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115025488787677332",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115025488787677332",
+      "parent_post_id": null,
+      "thread_root_id": "2115025488787677332",
+      "author": {
+        "platform_id": null,
+        "display_name": "leonirrosadoss1",
+        "username": "leonirrosadoss1",
+        "profile_url": "https://x.com/leonirrosadoss1"
+      },
+      "text": "Faz o L nordeste",
+      "created_at": "2026-10-27T10:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T07:55:41-03:00",
+      "permalink": "https://nitter.netbub.com/leonirrosadoss1/status/2115025488787677332#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "12374c27-54d4-4657-9468-cc6564686291",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115025488787677332",
+        "text": "Faz o L nordeste",
+        "author_username": "leonirrosadoss1",
+        "author_name": "leonirrosadoss1",
+        "created_at": "2026-10-27T10:19:00+00:00",
+        "permalink": "https://nitter.netbub.com/leonirrosadoss1/status/2115025488787677332#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 16,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
