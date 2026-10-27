@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "8f2dda77-5457-4180-a340-a8a5ed00bda2",
+    "collected_at": "2026-10-27T09:43:51-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 67
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115052083669815551",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115052083669815551",
+      "parent_post_id": null,
+      "thread_root_id": "2115052083669815551",
+      "author": {
+        "platform_id": null,
+        "display_name": "ericksc_",
+        "username": "ericksc_",
+        "profile_url": "https://x.com/ericksc_"
+      },
+      "text": "VOCÊS VÃO PASSAR PANO PRA O RESERVA QUE OFENDEU O POVO NORDESTINO?\nVÃO MANTER WILLIAN JOSÉ NO GRUPO? \nÉ INACREDITÁVEL. UM CLUBE QUE FAZ CAMPANHA PELA VALORIZAÇÃO DO NORDESTE. QUE HOMENAGEIA BULE BULE SE MANTER CALADO DIANTE DISSO. \nTODAS AS CAMPANHAS AFIRMARIVAS SERÃO HIPOCRISIA.",
+      "created_at": "2026-10-27T12:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T09:43:51-03:00",
+      "permalink": "https://nitter.meowing.monster/ericksc_/status/2115052083669815551#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "8f2dda77-5457-4180-a340-a8a5ed00bda2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115052083669815551",
+        "text": "VOCÊS VÃO PASSAR PANO PRA O RESERVA QUE OFENDEU O POVO NORDESTINO?\nVÃO MANTER WILLIAN JOSÉ NO GRUPO? \nÉ INACREDITÁVEL. UM CLUBE QUE FAZ CAMPANHA PELA VALORIZAÇÃO DO NORDESTE. QUE HOMENAGEIA BULE BULE SE MANTER CALADO DIANTE DISSO. \nTODAS AS CAMPANHAS AFIRMARIVAS SERÃO HIPOCRISIA.",
+        "author_username": "ericksc_",
+        "author_name": "ericksc_",
+        "created_at": "2026-10-27T12:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ericksc_/status/2115052083669815551#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115049310266020331",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115049310266020331",
+      "parent_post_id": null,
+      "thread_root_id": "2115049310266020331",
+      "author": {
+        "platform_id": null,
+        "display_name": "JosimarRam32059",
+        "username": "JosimarRam32059",
+        "profile_url": "https://x.com/JosimarRam32059"
+      },
+      "text": "Povo Nordestino te ama Luli parabéns!",
+      "created_at": "2026-10-27T11:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T09:43:51-03:00",
+      "permalink": "https://nitter.meowing.monster/JosimarRam32059/status/2115049310266020331#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "8f2dda77-5457-4180-a340-a8a5ed00bda2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115049310266020331",
+        "text": "Povo Nordestino te ama Luli parabéns!",
+        "author_username": "JosimarRam32059",
+        "author_name": "JosimarRam32059",
+        "created_at": "2026-10-27T11:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/JosimarRam32059/status/2115049310266020331#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 37,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
