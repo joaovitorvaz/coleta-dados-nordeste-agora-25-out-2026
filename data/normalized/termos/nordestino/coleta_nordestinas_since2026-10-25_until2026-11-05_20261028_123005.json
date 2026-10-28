@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinas",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "90a85213-711e-4722-be7f-6e21fbf30e18",
+    "collected_at": "2026-10-28T12:30:05-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 2
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115451637070168386",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115451637070168386",
+      "parent_post_id": null,
+      "thread_root_id": "2115451637070168386",
+      "author": {
+        "platform_id": null,
+        "display_name": "FBF271179",
+        "username": "FBF271179",
+        "profile_url": "https://x.com/FBF271179"
+      },
+      "text": "Evento impossível. Nem em seções nordestinas isto seria possível.",
+      "created_at": "2026-10-28T14:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T12:30:05-03:00",
+      "permalink": "https://nitter.meowing.monster/FBF271179/status/2115451637070168386#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinas",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "90a85213-711e-4722-be7f-6e21fbf30e18",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115451637070168386",
+        "text": "Evento impossível. Nem em seções nordestinas isto seria possível.",
+        "author_username": "FBF271179",
+        "author_name": "FBF271179",
+        "created_at": "2026-10-28T14:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FBF271179/status/2115451637070168386#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 65,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
