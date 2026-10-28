@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "86901891-32a4-4000-a9bd-be0e02984659",
+    "collected_at": "2026-10-28T16:18:37-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 699
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115508854507356173",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115508854507356173",
+      "parent_post_id": null,
+      "thread_root_id": "2115508854507356173",
+      "author": {
+        "platform_id": null,
+        "display_name": "LeTeilor",
+        "username": "LeTeilor",
+        "profile_url": "https://x.com/LeTeilor"
+      },
+      "text": "Deveria ser assim, nordeste nada produz diminuiria seu pode de escolha",
+      "created_at": "2026-10-28T18:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T16:18:37-03:00",
+      "permalink": "https://nitter.meowing.monster/LeTeilor/status/2115508854507356173#m",
+      "metrics": {
+        "like_count": 48,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "86901891-32a4-4000-a9bd-be0e02984659",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 40,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115508854507356173",
+        "text": "Deveria ser assim, nordeste nada produz diminuiria seu pode de escolha",
+        "author_username": "LeTeilor",
+        "author_name": "LeTeilor",
+        "created_at": "2026-10-28T18:19:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LeTeilor/status/2115508854507356173#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 70,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115520930352889933",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115520930352889933",
+      "parent_post_id": null,
+      "thread_root_id": "2115520930352889933",
+      "author": {
+        "platform_id": null,
+        "display_name": "Nescal2017",
+        "username": "Nescal2017",
+        "profile_url": "https://x.com/Nescal2017"
+      },
+      "text": "Eu moro aqui em SP mais só ouvir conversa.  Pode ser camioneiros  fazendo paralisação por conta do Desel que já chegou 9:86 em algumas  capitais do Nordeste  . E valor da gasolina ⛽️ subindo junto",
+      "created_at": "2026-10-28T19:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T16:18:37-03:00",
+      "permalink": "https://nitter.meowing.monster/Nescal2017/status/2115520930352889933#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "86901891-32a4-4000-a9bd-be0e02984659",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 40,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115520930352889933",
+        "text": "Eu moro aqui em SP mais só ouvir conversa.  Pode ser camioneiros  fazendo paralisação por conta do Desel que já chegou 9:86 em algumas  capitais do Nordeste  . E valor da gasolina ⛽️ subindo junto",
+        "author_username": "Nescal2017",
+        "author_name": "Nescal2017",
+        "created_at": "2026-10-28T19:07:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Nescal2017/status/2115520930352889933#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 196,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
