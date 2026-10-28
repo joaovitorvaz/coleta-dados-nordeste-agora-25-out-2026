@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "bdab2db3-6b2f-4464-af5d-7a317578a1a5",
+    "collected_at": "2026-10-28T11:42:12-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 689
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114509697357164572",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114509697357164572",
+      "parent_post_id": null,
+      "thread_root_id": "2114509697357164572",
+      "author": {
+        "platform_id": null,
+        "display_name": "sr_rodriguesz",
+        "username": "sr_rodriguesz",
+        "profile_url": "https://x.com/sr_rodriguesz"
+      },
+      "text": "desgraça de nordeste",
+      "created_at": "2026-10-26T00:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T11:42:12-03:00",
+      "permalink": "https://nitter.meowing.monster/sr_rodriguesz/status/2114509697357164572#m",
+      "metrics": {
+        "like_count": 22,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "bdab2db3-6b2f-4464-af5d-7a317578a1a5",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 38,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114509697357164572",
+        "text": "desgraça de nordeste",
+        "author_username": "sr_rodriguesz",
+        "author_name": "sr_rodriguesz",
+        "created_at": "2026-10-26T00:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/sr_rodriguesz/status/2114509697357164572#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 20,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114508346631844045",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114508346631844045",
+      "parent_post_id": null,
+      "thread_root_id": "2114508346631844045",
+      "author": {
+        "platform_id": null,
+        "display_name": "sr_rodriguesz",
+        "username": "sr_rodriguesz",
+        "profile_url": "https://x.com/sr_rodriguesz"
+      },
+      "text": "nordeste merece toda a miséria que tem",
+      "created_at": "2026-10-26T00:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T11:42:12-03:00",
+      "permalink": "https://nitter.meowing.monster/sr_rodriguesz/status/2114508346631844045#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "bdab2db3-6b2f-4464-af5d-7a317578a1a5",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 38,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114508346631844045",
+        "text": "nordeste merece toda a miséria que tem",
+        "author_username": "sr_rodriguesz",
+        "author_name": "sr_rodriguesz",
+        "created_at": "2026-10-26T00:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/sr_rodriguesz/status/2114508346631844045#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 38,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
