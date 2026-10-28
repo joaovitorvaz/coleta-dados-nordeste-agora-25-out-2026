@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "ed981aa7-eaed-4ff9-bf1c-d2eb47a8d901",
+    "collected_at": "2026-10-28T17:42:06-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 138
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115543305417093554",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115543305417093554",
+      "parent_post_id": null,
+      "thread_root_id": "2115543305417093554",
+      "author": {
+        "platform_id": null,
+        "display_name": "diegoassuncaorn",
+        "username": "diegoassuncaorn",
+        "profile_url": "https://x.com/diegoassuncaorn"
+      },
+      "text": "Aqui no RN a governadora diz que o estado é o mais seguro do nordeste.",
+      "created_at": "2026-10-28T20:36:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T17:42:06-03:00",
+      "permalink": "https://nitter.netbub.com/diegoassuncaorn/status/2115543305417093554#m",
+      "metrics": {
+        "like_count": 31,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ed981aa7-eaed-4ff9-bf1c-d2eb47a8d901",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115543305417093554",
+        "text": "Aqui no RN a governadora diz que o estado é o mais seguro do nordeste.",
+        "author_username": "diegoassuncaorn",
+        "author_name": "diegoassuncaorn",
+        "created_at": "2026-10-28T20:36:00+00:00",
+        "permalink": "https://nitter.netbub.com/diegoassuncaorn/status/2115543305417093554#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 70,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114916728903741864",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114916728903741864",
+      "parent_post_id": null,
+      "thread_root_id": "2114916728903741864",
+      "author": {
+        "platform_id": null,
+        "display_name": "fernandosoder",
+        "username": "fernandosoder",
+        "profile_url": "https://x.com/fernandosoder"
+      },
+      "text": "Flávio teria milhões de votos a mais se os estados fora do nordeste não tivessem resolvido as eleições locais no primeiro turno.",
+      "created_at": "2026-10-27T03:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T17:42:06-03:00",
+      "permalink": "https://nitter.netbub.com/fernandosoder/status/2114916728903741864#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ed981aa7-eaed-4ff9-bf1c-d2eb47a8d901",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114916728903741864",
+        "text": "Flávio teria milhões de votos a mais se os estados fora do nordeste não tivessem resolvido as eleições locais no primeiro turno.",
+        "author_username": "fernandosoder",
+        "author_name": "fernandosoder",
+        "created_at": "2026-10-27T03:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/fernandosoder/status/2114916728903741864#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 128,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
