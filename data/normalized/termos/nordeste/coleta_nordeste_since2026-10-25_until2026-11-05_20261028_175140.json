@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "b7de097a-02f6-4fe0-8c17-5cdb90b1c6c1",
+    "collected_at": "2026-10-28T17:51:40-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 701
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115543305417093554",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115543305417093554",
+      "parent_post_id": null,
+      "thread_root_id": "2115543305417093554",
+      "author": {
+        "platform_id": null,
+        "display_name": "diegoassuncaorn",
+        "username": "diegoassuncaorn",
+        "profile_url": "https://x.com/diegoassuncaorn"
+      },
+      "text": "Aqui no RN a governadora diz que o estado é o mais seguro do nordeste.",
+      "created_at": "2026-10-28T20:36:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T17:51:40-03:00",
+      "permalink": "https://nitter.meowing.monster/diegoassuncaorn/status/2115543305417093554#m",
+      "metrics": {
+        "like_count": 180,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "b7de097a-02f6-4fe0-8c17-5cdb90b1c6c1",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 38,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115543305417093554",
+        "text": "Aqui no RN a governadora diz que o estado é o mais seguro do nordeste.",
+        "author_username": "diegoassuncaorn",
+        "author_name": "diegoassuncaorn",
+        "created_at": "2026-10-28T20:36:00+00:00",
+        "permalink": "https://nitter.meowing.monster/diegoassuncaorn/status/2115543305417093554#m",
+        "metrics": {
+          "like_count": 180,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 70,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
