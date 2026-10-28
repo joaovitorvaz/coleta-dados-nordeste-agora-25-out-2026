@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "355d8dfb-8ba8-4cdd-a22d-dd5416c4c19d",
+    "collected_at": "2026-10-28T09:59:39-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 58
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115426610174198030",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115426610174198030",
+      "parent_post_id": null,
+      "thread_root_id": "2115426610174198030",
+      "author": {
+        "platform_id": null,
+        "display_name": "israelped2224",
+        "username": "israelped2224",
+        "profile_url": "https://x.com/israelped2224"
+      },
+      "text": "E porque eles sao nordestinos. So servem para votar e atrair votos. Se voce pesquisar vai saber quem fez a diferença",
+      "created_at": "2026-10-28T12:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T09:59:39-03:00",
+      "permalink": "https://nitter.meowing.monster/israelped2224/status/2115426610174198030#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "355d8dfb-8ba8-4cdd-a22d-dd5416c4c19d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115426610174198030",
+        "text": "E porque eles sao nordestinos. So servem para votar e atrair votos. Se voce pesquisar vai saber quem fez a diferença",
+        "author_username": "israelped2224",
+        "author_name": "israelped2224",
+        "created_at": "2026-10-28T12:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/israelped2224/status/2115426610174198030#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 116,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

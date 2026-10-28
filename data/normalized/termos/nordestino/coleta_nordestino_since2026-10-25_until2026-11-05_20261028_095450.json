@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "355d8dfb-8ba8-4cdd-a22d-dd5416c4c19d",
+    "collected_at": "2026-10-28T09:54:50-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 79
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115424103897153753",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115424103897153753",
+      "parent_post_id": null,
+      "thread_root_id": "2115424103897153753",
+      "author": {
+        "platform_id": null,
+        "display_name": "nelsonmelor",
+        "username": "nelsonmelor",
+        "profile_url": "https://x.com/nelsonmelor"
+      },
+      "text": "Eles sabem que Jones Manoel tem tudo pra conquistar um grande protagonismo nessa legislatura, principalmente no confronto técnico-político.\n\nHomem negro, nordestino e de periferia. Não é um perfil \"tragável\" para concessão de espaços.",
+      "created_at": "2026-10-28T12:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T09:54:50-03:00",
+      "permalink": "https://nitter.meowing.monster/nelsonmelor/status/2115424103897153753#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "355d8dfb-8ba8-4cdd-a22d-dd5416c4c19d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115424103897153753",
+        "text": "Eles sabem que Jones Manoel tem tudo pra conquistar um grande protagonismo nessa legislatura, principalmente no confronto técnico-político.\n\nHomem negro, nordestino e de periferia. Não é um perfil \"tragável\" para concessão de espaços.",
+        "author_username": "nelsonmelor",
+        "author_name": "nelsonmelor",
+        "created_at": "2026-10-28T12:43:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nelsonmelor/status/2115424103897153753#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 234,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
