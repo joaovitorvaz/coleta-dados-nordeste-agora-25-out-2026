@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste eleicao",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "d43c6f67-d0f6-479b-8834-653ee3825437",
+    "collected_at": "2026-10-28T15:26:12-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 17
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114705018741723463",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114705018741723463",
+      "parent_post_id": null,
+      "thread_root_id": "2114705018741723463",
+      "author": {
+        "platform_id": null,
+        "display_name": "ricardinholdb",
+        "username": "ricardinholdb",
+        "profile_url": "https://x.com/ricardinholdb"
+      },
+      "text": "Ué?!??!?!? Como foi a eleição no nordeste?!?",
+      "created_at": "2026-10-26T13:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T15:26:12-03:00",
+      "permalink": "https://nitter.netbub.com/ricardinholdb/status/2114705018741723463#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d43c6f67-d0f6-479b-8834-653ee3825437",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114705018741723463",
+        "text": "Ué?!??!?!? Como foi a eleição no nordeste?!?",
+        "author_username": "ricardinholdb",
+        "author_name": "ricardinholdb",
+        "created_at": "2026-10-26T13:05:00+00:00",
+        "permalink": "https://nitter.netbub.com/ricardinholdb/status/2114705018741723463#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 44,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114676112705909152",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114676112705909152",
+      "parent_post_id": null,
+      "thread_root_id": "2114676112705909152",
+      "author": {
+        "platform_id": null,
+        "display_name": "ricardinholdb",
+        "username": "ricardinholdb",
+        "profile_url": "https://x.com/ricardinholdb"
+      },
+      "text": "PT só tem 20 anos de governo e fez mais pro nordeste que todos os 500 anos de direita. Nordeste é uma potência. Essa sua fala estigmatizada é que fazem perder a eleição. Deixa de ser louca..",
+      "created_at": "2026-10-26T11:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T15:26:12-03:00",
+      "permalink": "https://nitter.netbub.com/ricardinholdb/status/2114676112705909152#m",
+      "metrics": {
+        "like_count": 48,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "direita",
+        "eleição",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d43c6f67-d0f6-479b-8834-653ee3825437",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114676112705909152",
+        "text": "PT só tem 20 anos de governo e fez mais pro nordeste que todos os 500 anos de direita. Nordeste é uma potência. Essa sua fala estigmatizada é que fazem perder a eleição. Deixa de ser louca..",
+        "author_username": "ricardinholdb",
+        "author_name": "ricardinholdb",
+        "created_at": "2026-10-26T11:10:00+00:00",
+        "permalink": "https://nitter.netbub.com/ricardinholdb/status/2114676112705909152#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 190,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114495857697366448",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114495857697366448",
+      "parent_post_id": null,
+      "thread_root_id": "2114495857697366448",
+      "author": {
+        "platform_id": null,
+        "display_name": "wIeyner",
+        "username": "wIeyner",
+        "profile_url": "https://x.com/wIeyner"
+      },
+      "text": "Por favor nordeste, vira logo essa eleição..\n\nLULA REELEITO",
+      "created_at": "2026-10-25T23:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T15:26:12-03:00",
+      "permalink": "https://nitter.netbub.com/wIeyner/status/2114495857697366448#m",
+      "metrics": {
+        "like_count": 36,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d43c6f67-d0f6-479b-8834-653ee3825437",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114495857697366448",
+        "text": "Por favor nordeste, vira logo essa eleição..\n\nLULA REELEITO",
+        "author_username": "wIeyner",
+        "author_name": "wIeyner",
+        "created_at": "2026-10-25T23:14:00+00:00",
+        "permalink": "https://nitter.netbub.com/wIeyner/status/2114495857697366448#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 59,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

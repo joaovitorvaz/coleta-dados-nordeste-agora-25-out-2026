@@ -1,0 +1,430 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste eleicao",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "d43c6f67-d0f6-479b-8834-653ee3825437",
+    "collected_at": "2026-10-28T15:26:12-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 17
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2115089010460696871",
+            "text": "Nordeste sai toda eleição sendo alvo de ataques. Luta, elege uma bancada progressista pra no fim isso aí. Bom mandato pra Tebet e Marina, conseguiram perder pra Derrite...",
+            "author_username": "zzfreire",
+            "author_name": "zzfreire",
+            "created_at": "2026-10-27T14:31:00+00:00",
+            "permalink": "https://nitter.netbub.com/zzfreire/status/2115089010460696871#m",
+            "metrics": {
+              "like_count": 50,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2115041718441505249",
+            "text": "agora que já ganhamos a eleição já posso dizer, tem que odiar MUITO a esquerda do sudeste, grande responsável pelos momentos desgracentos que vivemos nos últimos anos com essa falta de noção e essa pedância sem limites, respeite o nordeste cabra safado",
+            "author_username": "MeloDavi_2",
+            "author_name": "MeloDavi_2",
+            "created_at": "2026-10-27T11:23:00+00:00",
+            "permalink": "https://nitter.netbub.com/MeloDavi_2/status/2115041718441505249#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114760080381874274",
+            "text": "O Nordeste fez o dever de casa. Mas a eleição foi resolvida pelo sudeste desta vez. Lula virou em Minas, cresceu em São Paulo e Rio, cresceu em regiões onde Flávio dominava, e por isso recebeu mais de 64 milhões de votos. O brasileiro não quer aventuras, e rechaça o bolsonarismo.",
+            "author_username": "victorcamposbh",
+            "author_name": "victorcamposbh",
+            "created_at": "2026-10-26T16:44:00+00:00",
+            "permalink": "https://nitter.netbub.com/victorcamposbh/status/2114760080381874274#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114706294523244898",
+            "text": "E já já Fred, chegarão aqui um monte de imbecis, construindo 1001 teorias para dizer que a eleição foi roubada e que o nordeste não sabe votar e bla bla bla.\n\nE não percebem o simples que está estampado na sua cara.",
+            "author_username": "Andersalizando",
+            "author_name": "Andersalizando",
+            "created_at": "2026-10-26T13:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/Andersalizando/status/2114706294523244898#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 3,
+              "retweet_count": 2,
+              "quote_count": 331
+            }
+          },
+          {
+            "id": "2114705018741723463",
+            "text": "Ué?!??!?!? Como foi a eleição no nordeste?!?",
+            "author_username": "ricardinholdb",
+            "author_name": "ricardinholdb",
+            "created_at": "2026-10-26T13:05:00+00:00",
+            "permalink": "https://nitter.netbub.com/ricardinholdb/status/2114705018741723463#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114676112705909152",
+            "text": "PT só tem 20 anos de governo e fez mais pro nordeste que todos os 500 anos de direita. Nordeste é uma potência. Essa sua fala estigmatizada é que fazem perder a eleição. Deixa de ser louca..",
+            "author_username": "ricardinholdb",
+            "author_name": "ricardinholdb",
+            "created_at": "2026-10-26T11:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/ricardinholdb/status/2114676112705909152#m",
+            "metrics": {
+              "like_count": 48,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114560746075959738",
+            "text": "Vimos duas coisas no primeiro turno:\n1- O norte e o nordeste estão acordando.\n2- O Brasil quer mudança e não aguenta mais o PT.\nQuem ganhou a eleição para o Lula foi o algoritmo do TSE. Não culpem os nordestinos.",
+            "author_username": "DavidFerraz",
+            "author_name": "DavidFerraz",
+            "created_at": "2026-10-26T03:32:00+00:00",
+            "permalink": "https://nitter.netbub.com/DavidFerraz/status/2114560746075959738#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114534280739033326",
+            "text": "E foi o meu nordeste, minha região, que deu a eleição pra ele, aqui os nove estados votaram pelo Lula.",
+            "author_username": "filtersofjimin_",
+            "author_name": "filtersofjimin_",
+            "created_at": "2026-10-26T01:47:00+00:00",
+            "permalink": "https://nitter.netbub.com/filtersofjimin_/status/2114534280739033326#m",
+            "metrics": {
+              "like_count": 54,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114524364922073146",
+            "text": "Se tu acredita que o Lula, sabe nem o que fala. Envolvido até os dentes, perdeu pro Flávio com quase 3 milhões de voto. Lula crescer tudo isso de voto e prorrogando 2h de eleição no Nordeste. Sim, vou entender que foi democrático kkkkk",
+            "author_username": "Wendelzito",
+            "author_name": "Wendelzito",
+            "created_at": "2026-10-26T01:07:00+00:00",
+            "permalink": "https://nitter.netbub.com/Wendelzito/status/2114524364922073146#m",
+            "metrics": {
+              "like_count": 50,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114517482773917803",
+            "text": "Minas foi sensacional nessa eleição \n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+            "author_username": "chokko14071548",
+            "author_name": "chokko14071548",
+            "created_at": "2026-10-26T00:40:00+00:00",
+            "permalink": "https://nitter.netbub.com/chokko14071548/status/2114517482773917803#m",
+            "metrics": {
+              "like_count": 499,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114514567485350323",
+            "text": "Seu cu, flemenguista otário. \nQuem manda em toda eleição é o NORDESTE",
+            "author_username": "lokodobaheaBBMP",
+            "author_name": "lokodobaheaBBMP",
+            "created_at": "2026-10-26T00:28:00+00:00",
+            "permalink": "https://nitter.netbub.com/lokodobaheaBBMP/status/2114514567485350323#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114512692039807035",
+            "text": "Irmão como Nordestino não tem nada haver isso ,eles só usam nosso nordeste para dá um ar de legalidade na fraude que eles promove desde da última eleição",
+            "author_username": "Juliano23053827",
+            "author_name": "Juliano23053827",
+            "created_at": "2026-10-26T00:21:00+00:00",
+            "permalink": "https://nitter.netbub.com/Juliano23053827/status/2114512692039807035#m",
+            "metrics": {
+              "like_count": 286,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114502720061116778",
+            "text": "O veio vai ganhar só no Nordeste e no Exterior e vai copar essa eleição. Manda o Nikolas fazer vídeo do NE lá no caraio, porra!",
+            "author_username": "enzzrs",
+            "author_name": "enzzrs",
+            "created_at": "2026-10-25T23:41:00+00:00",
+            "permalink": "https://nitter.netbub.com/enzzrs/status/2114502720061116778#m",
+            "metrics": {
+              "like_count": 156,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114495857697366448",
+            "text": "Por favor nordeste, vira logo essa eleição..\n\nLULA REELEITO",
+            "author_username": "wIeyner",
+            "author_name": "wIeyner",
+            "created_at": "2026-10-25T23:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/wIeyner/status/2114495857697366448#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114478225913241790",
+            "text": "Que nojo, boicotar a eleição cancelando vôos para o nordeste, impedindo ônibus de circularem, náo permitindo acessibilidade.....Apesar de vc , amanhã há de ser outro dia! #BoraLula, não queremos milicianos no poder!",
+            "author_username": "mochachaves",
+            "author_name": "mochachaves",
+            "created_at": "2026-10-25T22:04:00+00:00",
+            "permalink": "https://nitter.netbub.com/mochachaves/status/2114478225913241790#m",
+            "metrics": {
+              "like_count": 84,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114468386088333739",
+            "text": "Lula foi mto mais prejudicado q o Flávio Bolsonaro. Essa eleição tem q ser anulada. O nordeste foi prejudicado onde Lula é mais forte",
+            "author_username": "Fabrici70242229",
+            "author_name": "Fabrici70242229",
+            "created_at": "2026-10-25T21:25:00+00:00",
+            "permalink": "https://nitter.netbub.com/Fabrici70242229/status/2114468386088333739#m",
+            "metrics": {
+              "like_count": 57,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114455421549515182",
+            "text": "A campanha de Flávio também pediu para prorrogar a eleição, vai ser tenso, acho que Flávio vai ser desfavorecida com essa decisão, pqp. Sou de salvador e aqui a roubalheira é escancarada, o que deve acontecer em todo o nordeste e parte do norte",
+            "author_username": "carlossouz59412",
+            "author_name": "carlossouz59412",
+            "created_at": "2026-10-25T20:33:00+00:00",
+            "permalink": "https://nitter.netbub.com/carlossouz59412/status/2114455421549515182#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114409245898629614",
+            "text": "É revoltante a quantidade de forças tentando interferir na nossa eleição. E tudo só no Nordeste. \n#DeixemONordesteVotar",
+            "author_username": "LucasMirandaLM",
+            "author_name": "LucasMirandaLM",
+            "created_at": "2026-10-25T17:30:00+00:00",
+            "permalink": "https://nitter.netbub.com/LucasMirandaLM/status/2114409245898629614#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114407438271062032",
+            "text": "É absurdo e criminoso que, em mais uma eleição, agentes públicos estejam agindo para impedir a circulação de ônibus e dificultar que eleitores do Nordeste exerçam seu direito democrático ao voto.\n\n#DeixemONordesteVotar\n#LulaPelaDemocracia\n#DeixemABahiaVotar\n#HojeEuVotoLula",
+            "author_username": "fabiofelixdf",
+            "author_name": "fabiofelixdf",
+            "created_at": "2026-10-25T17:23:00+00:00",
+            "permalink": "https://nitter.netbub.com/fabiofelixdf/status/2114407438271062032#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 48,
+              "retweet_count": 339,
+              "quote_count": 767
+            }
+          },
+          {
+            "id": "2114340009033527591",
+            "text": "Lula pode perder essa eleição mas ele vai ser sempre nosso melhor Presidente eu te amo Luli o Nordeste te ama Luli você ganhando o perdendo você vai ser sempre amado por nós, nosso guerreiro sobrevivendo Luli 💜❤️🙏✋🙌👏🫂",
+            "author_username": "JosimarRam32059",
+            "author_name": "JosimarRam32059",
+            "created_at": "2026-10-25T12:55:00+00:00",
+            "permalink": "https://nitter.netbub.com/JosimarRam32059/status/2114340009033527591#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 3,
+          "instance_used": "https://nitter.netbub.com"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "nordeste_agora_foco_20261028"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114705018741723463",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114705018741723463",
+      "collected_at": "2026-10-28T15:26:12-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d43c6f67-d0f6-479b-8834-653ee3825437",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114705018741723463",
+        "text": "Ué?!??!?!? Como foi a eleição no nordeste?!?",
+        "author_username": "ricardinholdb",
+        "author_name": "ricardinholdb",
+        "created_at": "2026-10-26T13:05:00+00:00",
+        "permalink": "https://nitter.netbub.com/ricardinholdb/status/2114705018741723463#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114676112705909152",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114676112705909152",
+      "collected_at": "2026-10-28T15:26:12-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "direita",
+        "eleição",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d43c6f67-d0f6-479b-8834-653ee3825437",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114676112705909152",
+        "text": "PT só tem 20 anos de governo e fez mais pro nordeste que todos os 500 anos de direita. Nordeste é uma potência. Essa sua fala estigmatizada é que fazem perder a eleição. Deixa de ser louca..",
+        "author_username": "ricardinholdb",
+        "author_name": "ricardinholdb",
+        "created_at": "2026-10-26T11:10:00+00:00",
+        "permalink": "https://nitter.netbub.com/ricardinholdb/status/2114676112705909152#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114495857697366448",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114495857697366448",
+      "collected_at": "2026-10-28T15:26:12-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d43c6f67-d0f6-479b-8834-653ee3825437",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114495857697366448",
+        "text": "Por favor nordeste, vira logo essa eleição..\n\nLULA REELEITO",
+        "author_username": "wIeyner",
+        "author_name": "wIeyner",
+        "created_at": "2026-10-25T23:14:00+00:00",
+        "permalink": "https://nitter.netbub.com/wIeyner/status/2114495857697366448#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
