@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "6b8c688c-1a9f-43f7-8bd3-4fb99740fc1d",
+    "collected_at": "2026-10-28T13:14:26-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 98
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115476445564702754",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115476445564702754",
+      "parent_post_id": null,
+      "thread_root_id": "2115476445564702754",
+      "author": {
+        "platform_id": null,
+        "display_name": "eduardo54151805",
+        "username": "eduardo54151805",
+        "profile_url": "https://x.com/eduardo54151805"
+      },
+      "text": "Isso é fake News, o painho acabou com a fome e colocou água no nordeste pra todos. 😆",
+      "created_at": "2026-10-28T16:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T13:14:26-03:00",
+      "permalink": "https://nitter.netbub.com/eduardo54151805/status/2115476445564702754#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "6b8c688c-1a9f-43f7-8bd3-4fb99740fc1d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115476445564702754",
+        "text": "Isso é fake News, o painho acabou com a fome e colocou água no nordeste pra todos. 😆",
+        "author_username": "eduardo54151805",
+        "author_name": "eduardo54151805",
+        "created_at": "2026-10-28T16:11:00+00:00",
+        "permalink": "https://nitter.netbub.com/eduardo54151805/status/2115476445564702754#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 84,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115472074202374231",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115472074202374231",
+      "parent_post_id": null,
+      "thread_root_id": "2115472074202374231",
+      "author": {
+        "platform_id": null,
+        "display_name": "Silviokc",
+        "username": "Silviokc",
+        "profile_url": "https://x.com/Silviokc"
+      },
+      "text": "Isto é perfeitamente explicável pois o código fonte é malicioso. Ocorre inversão de votos na própria urna. Por isso vemos essas discrepâncias...principalmente no Norte e Nordeste. Por isso o código não é open source...é escondido a 7 chaves. A auditoria do código é faz de conta!",
+      "created_at": "2026-10-28T15:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T13:14:26-03:00",
+      "permalink": "https://nitter.netbub.com/Silviokc/status/2115472074202374231#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "6b8c688c-1a9f-43f7-8bd3-4fb99740fc1d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115472074202374231",
+        "text": "Isto é perfeitamente explicável pois o código fonte é malicioso. Ocorre inversão de votos na própria urna. Por isso vemos essas discrepâncias...principalmente no Norte e Nordeste. Por isso o código não é open source...é escondido a 7 chaves. A auditoria do código é faz de conta!",
+        "author_username": "Silviokc",
+        "author_name": "Silviokc",
+        "created_at": "2026-10-28T15:53:00+00:00",
+        "permalink": "https://nitter.netbub.com/Silviokc/status/2115472074202374231#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 279,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
