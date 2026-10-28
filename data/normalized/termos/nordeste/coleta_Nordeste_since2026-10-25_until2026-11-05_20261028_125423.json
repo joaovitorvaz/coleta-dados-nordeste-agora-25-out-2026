@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "cfce260e-0362-4c82-897f-e9d784ce66d1",
+    "collected_at": "2026-10-28T12:54:23-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 100
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115469017787863265",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115469017787863265",
+      "parent_post_id": null,
+      "thread_root_id": "2115469017787863265",
+      "author": {
+        "platform_id": null,
+        "display_name": "SolDCruzIV",
+        "username": "SolDCruzIV",
+        "profile_url": "https://x.com/SolDCruzIV"
+      },
+      "text": "Discordo muito e mesmo que não,o PT por si só não tem influência e poder sem o Lula, o nordeste por si é muito conservador e às favelas tbm, o PT só ganha espaço ali às vezes pq às pessoas dali são Lulistas, só mas o Lula tá com 80 anos indo pro 4 mandato, não vejo ele aguentando",
+      "created_at": "2026-10-28T15:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T12:54:23-03:00",
+      "permalink": "https://nitter.mie.foundation/SolDCruzIV/status/2115469017787863265#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 2,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "cfce260e-0362-4c82-897f-e9d784ce66d1",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115469017787863265",
+        "text": "Discordo muito e mesmo que não,o PT por si só não tem influência e poder sem o Lula, o nordeste por si é muito conservador e às favelas tbm, o PT só ganha espaço ali às vezes pq às pessoas dali são Lulistas, só mas o Lula tá com 80 anos indo pro 4 mandato, não vejo ele aguentando",
+        "author_username": "SolDCruzIV",
+        "author_name": "SolDCruzIV",
+        "created_at": "2026-10-28T15:41:00+00:00",
+        "permalink": "https://nitter.mie.foundation/SolDCruzIV/status/2115469017787863265#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
