@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "25266012-3a2b-4b95-9577-985df1b5a9f2",
+    "collected_at": "2026-10-28T09:06:14-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 5,
+      "comments": 0,
+      "records_total": 5,
+      "skipped_duplicate": 75
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115400775882907792",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115400775882907792",
+      "parent_post_id": null,
+      "thread_root_id": "2115400775882907792",
+      "author": {
+        "platform_id": null,
+        "display_name": "Radiologich",
+        "username": "Radiologich",
+        "profile_url": "https://x.com/Radiologich"
+      },
+      "text": "Ele e o boulos Nordestino não ganha",
+      "created_at": "2026-10-28T11:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T09:06:14-03:00",
+      "permalink": "https://nitter.meowing.monster/Radiologich/status/2115400775882907792#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "25266012-3a2b-4b95-9577-985df1b5a9f2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115400775882907792",
+        "text": "Ele e o boulos Nordestino não ganha",
+        "author_username": "Radiologich",
+        "author_name": "Radiologich",
+        "created_at": "2026-10-28T11:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Radiologich/status/2115400775882907792#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 35,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115397959927902519",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115397959927902519",
+      "parent_post_id": null,
+      "thread_root_id": "2115397959927902519",
+      "author": {
+        "platform_id": null,
+        "display_name": "Radiologich",
+        "username": "Radiologich",
+        "profile_url": "https://x.com/Radiologich"
+      },
+      "text": "O Jones e um Boulos nordestino não ganha! Foquem em outras opções",
+      "created_at": "2026-10-28T10:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T09:06:14-03:00",
+      "permalink": "https://nitter.meowing.monster/Radiologich/status/2115397959927902519#m",
+      "metrics": {
+        "like_count": 188,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "25266012-3a2b-4b95-9577-985df1b5a9f2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115397959927902519",
+        "text": "O Jones e um Boulos nordestino não ganha! Foquem em outras opções",
+        "author_username": "Radiologich",
+        "author_name": "Radiologich",
+        "created_at": "2026-10-28T10:59:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Radiologich/status/2115397959927902519#m",
+        "metrics": {
+          "like_count": 188,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 65,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115395053912768739",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115395053912768739",
+      "parent_post_id": null,
+      "thread_root_id": "2115395053912768739",
+      "author": {
+        "platform_id": null,
+        "display_name": "edumsb777",
+        "username": "edumsb777",
+        "profile_url": "https://x.com/edumsb777"
+      },
+      "text": "Fonte: Migalhas\n share.google/RY05Ge0CANV6NE5…\nA vitimização desse sujeito não é por ser maranhense ou nordestino, ele não consegue, apesar de tudo, livrar-se da Caverna de Platão l.",
+      "created_at": "2026-10-28T10:47:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T09:06:14-03:00",
+      "permalink": "https://nitter.meowing.monster/edumsb777/status/2115395053912768739#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "25266012-3a2b-4b95-9577-985df1b5a9f2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115395053912768739",
+        "text": "Fonte: Migalhas\n share.google/RY05Ge0CANV6NE5…\nA vitimização desse sujeito não é por ser maranhense ou nordestino, ele não consegue, apesar de tudo, livrar-se da Caverna de Platão l.",
+        "author_username": "edumsb777",
+        "author_name": "edumsb777",
+        "created_at": "2026-10-28T10:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/edumsb777/status/2115395053912768739#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 182,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115261601095827650",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115261601095827650",
+      "parent_post_id": null,
+      "thread_root_id": "2115261601095827650",
+      "author": {
+        "platform_id": null,
+        "display_name": "cacilovers",
+        "username": "cacilovers",
+        "profile_url": "https://x.com/cacilovers"
+      },
+      "text": "E nordestino geralmente nao gosta de carioca kkkk",
+      "created_at": "2026-10-28T01:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T09:06:14-03:00",
+      "permalink": "https://nitter.meowing.monster/cacilovers/status/2115261601095827650#m",
+      "metrics": {
+        "like_count": 218,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 16
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "25266012-3a2b-4b95-9577-985df1b5a9f2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115261601095827650",
+        "text": "E nordestino geralmente nao gosta de carioca kkkk",
+        "author_username": "cacilovers",
+        "author_name": "cacilovers",
+        "created_at": "2026-10-28T01:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/cacilovers/status/2115261601095827650#m",
+        "metrics": {
+          "like_count": 218,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 16
+        }
+      },
+      "normalized": {
+        "text_length": 49,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115235073825833024",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115235073825833024",
+      "parent_post_id": null,
+      "thread_root_id": "2115235073825833024",
+      "author": {
+        "platform_id": null,
+        "display_name": "PacienciaDai",
+        "username": "PacienciaDai",
+        "profile_url": "https://x.com/PacienciaDai"
+      },
+      "text": "Cabra macho nordestino sim sinhô\n #PresidenteLula #ParabénsPresidenteLula",
+      "created_at": "2026-10-28T00:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T09:06:14-03:00",
+      "permalink": "https://nitter.meowing.monster/PacienciaDai/status/2115235073825833024#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "25266012-3a2b-4b95-9577-985df1b5a9f2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115235073825833024",
+        "text": "Cabra macho nordestino sim sinhô\n #PresidenteLula #ParabénsPresidenteLula",
+        "author_username": "PacienciaDai",
+        "author_name": "PacienciaDai",
+        "created_at": "2026-10-28T00:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PacienciaDai/status/2115235073825833024#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 73,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
