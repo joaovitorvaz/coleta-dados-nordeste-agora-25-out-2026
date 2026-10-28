@@ -1,0 +1,354 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "2c415372-92ed-4bfe-839c-f3c4e5dce083",
+    "collected_at": "2026-10-28T14:11:04-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 5,
+      "comments": 0,
+      "records_total": 5,
+      "skipped_duplicate": 75
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115484694762447343",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115484694762447343",
+      "parent_post_id": null,
+      "thread_root_id": "2115484694762447343",
+      "author": {
+        "platform_id": null,
+        "display_name": "bielarth",
+        "username": "bielarth",
+        "profile_url": "https://x.com/bielarth"
+      },
+      "text": "Nós perpetuamos muitas disputas que não agregam em nada.\nEmpregado x Empregador\nDireita x Esquerda\nConservador x Revolucionário\nAgora a parada ja é geográfica:\nNorte/Nordeste x Sul/Sudeste.\nEnquanto isso os políticos enchem o bolso entregando muito pouco ou quase nada.",
+      "created_at": "2026-10-28T16:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T14:11:04-03:00",
+      "permalink": "https://nitter.meowing.monster/bielarth/status/2115484694762447343#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "direita",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "2c415372-92ed-4bfe-839c-f3c4e5dce083",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115484694762447343",
+        "text": "Nós perpetuamos muitas disputas que não agregam em nada.\nEmpregado x Empregador\nDireita x Esquerda\nConservador x Revolucionário\nAgora a parada ja é geográfica:\nNorte/Nordeste x Sul/Sudeste.\nEnquanto isso os políticos enchem o bolso entregando muito pouco ou quase nada.",
+        "author_username": "bielarth",
+        "author_name": "bielarth",
+        "created_at": "2026-10-28T16:43:00+00:00",
+        "permalink": "https://nitter.meowing.monster/bielarth/status/2115484694762447343#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 269,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115484628366553400",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115484628366553400",
+      "parent_post_id": null,
+      "thread_root_id": "2115484628366553400",
+      "author": {
+        "platform_id": null,
+        "display_name": "LipaDuana",
+        "username": "LipaDuana",
+        "profile_url": "https://x.com/LipaDuana"
+      },
+      "text": "O Nordeste \"analfabeto\" que os Bolsonaristas falaram....",
+      "created_at": "2026-10-28T16:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T14:11:04-03:00",
+      "permalink": "https://nitter.meowing.monster/LipaDuana/status/2115484628366553400#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "2c415372-92ed-4bfe-839c-f3c4e5dce083",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115484628366553400",
+        "text": "O Nordeste \"analfabeto\" que os Bolsonaristas falaram....",
+        "author_username": "LipaDuana",
+        "author_name": "LipaDuana",
+        "created_at": "2026-10-28T16:43:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LipaDuana/status/2115484628366553400#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 56,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115478503042756773",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115478503042756773",
+      "parent_post_id": null,
+      "thread_root_id": "2115478503042756773",
+      "author": {
+        "platform_id": null,
+        "display_name": "AGarciaS1611",
+        "username": "AGarciaS1611",
+        "profile_url": "https://x.com/AGarciaS1611"
+      },
+      "text": "Guerra é guerra. Eu não gente do sul indo procurar emprego no nordeste. Acorda!\n\nRecentemente duas fabricas fecharam as portas no nordeste.",
+      "created_at": "2026-10-28T16:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T14:11:04-03:00",
+      "permalink": "https://nitter.meowing.monster/AGarciaS1611/status/2115478503042756773#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "2c415372-92ed-4bfe-839c-f3c4e5dce083",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115478503042756773",
+        "text": "Guerra é guerra. Eu não gente do sul indo procurar emprego no nordeste. Acorda!\n\nRecentemente duas fabricas fecharam as portas no nordeste.",
+        "author_username": "AGarciaS1611",
+        "author_name": "AGarciaS1611",
+        "created_at": "2026-10-28T16:19:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AGarciaS1611/status/2115478503042756773#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 139,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115476445564702754",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115476445564702754",
+      "parent_post_id": null,
+      "thread_root_id": "2115476445564702754",
+      "author": {
+        "platform_id": null,
+        "display_name": "eduardo54151805",
+        "username": "eduardo54151805",
+        "profile_url": "https://x.com/eduardo54151805"
+      },
+      "text": "Isso é fake News, o painho acabou com a fome e colocou água no nordeste pra todos. 😆",
+      "created_at": "2026-10-28T16:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T14:11:04-03:00",
+      "permalink": "https://nitter.meowing.monster/eduardo54151805/status/2115476445564702754#m",
+      "metrics": {
+        "like_count": 32,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "2c415372-92ed-4bfe-839c-f3c4e5dce083",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115476445564702754",
+        "text": "Isso é fake News, o painho acabou com a fome e colocou água no nordeste pra todos. 😆",
+        "author_username": "eduardo54151805",
+        "author_name": "eduardo54151805",
+        "created_at": "2026-10-28T16:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/eduardo54151805/status/2115476445564702754#m",
+        "metrics": {
+          "like_count": 32,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 84,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115472074202374231",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115472074202374231",
+      "parent_post_id": null,
+      "thread_root_id": "2115472074202374231",
+      "author": {
+        "platform_id": null,
+        "display_name": "Silviokc",
+        "username": "Silviokc",
+        "profile_url": "https://x.com/Silviokc"
+      },
+      "text": "Isto é perfeitamente explicável pois o código fonte é malicioso. Ocorre inversão de votos na própria urna. Por isso vemos essas discrepâncias...principalmente no Norte e Nordeste. Por isso o código não é open source...é escondido a 7 chaves. A auditoria do código é faz de conta!",
+      "created_at": "2026-10-28T15:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T14:11:04-03:00",
+      "permalink": "https://nitter.meowing.monster/Silviokc/status/2115472074202374231#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "2c415372-92ed-4bfe-839c-f3c4e5dce083",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115472074202374231",
+        "text": "Isto é perfeitamente explicável pois o código fonte é malicioso. Ocorre inversão de votos na própria urna. Por isso vemos essas discrepâncias...principalmente no Norte e Nordeste. Por isso o código não é open source...é escondido a 7 chaves. A auditoria do código é faz de conta!",
+        "author_username": "Silviokc",
+        "author_name": "Silviokc",
+        "created_at": "2026-10-28T15:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Silviokc/status/2115472074202374231#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 279,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
