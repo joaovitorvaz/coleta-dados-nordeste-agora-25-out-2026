@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "432fdb70-1aae-4df9-9be8-ff8b535e2ada",
+    "collected_at": "2026-10-28T14:52:11-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 697
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115501189521350757",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115501189521350757",
+      "parent_post_id": null,
+      "thread_root_id": "2115501189521350757",
+      "author": {
+        "platform_id": null,
+        "display_name": "JACKPRAIA",
+        "username": "JACKPRAIA",
+        "profile_url": "https://x.com/JACKPRAIA"
+      },
+      "text": "Que bom menos uma pé de chinelo no Nordeste.",
+      "created_at": "2026-10-28T17:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T14:52:11-03:00",
+      "permalink": "https://nitter.meowing.monster/JACKPRAIA/status/2115501189521350757#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "432fdb70-1aae-4df9-9be8-ff8b535e2ada",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 40,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115501189521350757",
+        "text": "Que bom menos uma pé de chinelo no Nordeste.",
+        "author_username": "JACKPRAIA",
+        "author_name": "JACKPRAIA",
+        "created_at": "2026-10-28T17:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/JACKPRAIA/status/2115501189521350757#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 44,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
