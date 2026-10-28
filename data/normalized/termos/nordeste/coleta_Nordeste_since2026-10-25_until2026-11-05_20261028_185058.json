@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "3e933943-b93d-4e30-ba93-2a614da9a338",
+    "collected_at": "2026-10-28T18:50:58-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 701
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115556634332213723",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115556634332213723",
+      "parent_post_id": null,
+      "thread_root_id": "2115556634332213723",
+      "author": {
+        "platform_id": null,
+        "display_name": "railsonhallas",
+        "username": "railsonhallas",
+        "profile_url": "https://x.com/railsonhallas"
+      },
+      "text": "Gente... é o seguinte. Me autodeclaro, desde já, Rei do Reino Potiguar! Acabou pra vocês, Fátima Bezerra e Cadu de Lula! E se reclamarem eu me autodeclaro Imperador do Reino Unido do Nordeste! 😎",
+      "created_at": "2026-10-28T21:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T18:50:58-03:00",
+      "permalink": "https://nitter.netbub.com/railsonhallas/status/2115556634332213723#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "3e933943-b93d-4e30-ba93-2a614da9a338",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115556634332213723",
+        "text": "Gente... é o seguinte. Me autodeclaro, desde já, Rei do Reino Potiguar! Acabou pra vocês, Fátima Bezerra e Cadu de Lula! E se reclamarem eu me autodeclaro Imperador do Reino Unido do Nordeste! 😎",
+        "author_username": "railsonhallas",
+        "author_name": "railsonhallas",
+        "created_at": "2026-10-28T21:29:00+00:00",
+        "permalink": "https://nitter.netbub.com/railsonhallas/status/2115556634332213723#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 194,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115559238005092493",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115559238005092493",
+      "parent_post_id": null,
+      "thread_root_id": "2115559238005092493",
+      "author": {
+        "platform_id": null,
+        "display_name": "theusiapixel",
+        "username": "theusiapixel",
+        "profile_url": "https://x.com/theusiapixel"
+      },
+      "text": "além de soberba (e cafona), ainda é imbecil (se não apenas mau-caráter). A prorrogação foi feita por ambos os candidatos: o Lula, pro Nordeste e Sudeste. e o Flávio, focando mais no Sul. Ainda assim, não puderam votar; computaram os votos do que já havia sido coletado. Só aceitem",
+      "created_at": "2026-10-28T21:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T18:50:58-03:00",
+      "permalink": "https://nitter.meowing.monster/theusiapixel/status/2115559238005092493#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "3e933943-b93d-4e30-ba93-2a614da9a338",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115559238005092493",
+        "text": "além de soberba (e cafona), ainda é imbecil (se não apenas mau-caráter). A prorrogação foi feita por ambos os candidatos: o Lula, pro Nordeste e Sudeste. e o Flávio, focando mais no Sul. Ainda assim, não puderam votar; computaram os votos do que já havia sido coletado. Só aceitem",
+        "author_username": "theusiapixel",
+        "author_name": "theusiapixel",
+        "created_at": "2026-10-28T21:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/theusiapixel/status/2115559238005092493#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
