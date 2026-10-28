@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "158c0b4f-f3a5-440e-a5e6-8b4ba893bc22",
+    "collected_at": "2026-10-28T15:04:45-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 81
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115495217914577281",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115495217914577281",
+      "parent_post_id": null,
+      "thread_root_id": "2115495217914577281",
+      "author": {
+        "platform_id": null,
+        "display_name": "Contreiras_Fla",
+        "username": "Contreiras_Fla",
+        "profile_url": "https://x.com/Contreiras_Fla"
+      },
+      "text": "Com Flávio foragido e nenhum sulista praticamente se redimindo, podemos então entender que o pessoal de lá não liga pra combate corrupção ou gente honesta, eles só não gostam de preto, nordestino, trans e outros",
+      "created_at": "2026-10-28T17:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T15:04:45-03:00",
+      "permalink": "https://nitter.meowing.monster/Contreiras_Fla/status/2115495217914577281#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "158c0b4f-f3a5-440e-a5e6-8b4ba893bc22",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115495217914577281",
+        "text": "Com Flávio foragido e nenhum sulista praticamente se redimindo, podemos então entender que o pessoal de lá não liga pra combate corrupção ou gente honesta, eles só não gostam de preto, nordestino, trans e outros",
+        "author_username": "Contreiras_Fla",
+        "author_name": "Contreiras_Fla",
+        "created_at": "2026-10-28T17:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Contreiras_Fla/status/2115495217914577281#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 211,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
