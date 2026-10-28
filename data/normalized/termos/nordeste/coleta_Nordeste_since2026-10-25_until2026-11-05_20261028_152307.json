@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "432fdb70-1aae-4df9-9be8-ff8b535e2ada",
+    "collected_at": "2026-10-28T15:23:07-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 742
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115503909342937105",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115503909342937105",
+      "parent_post_id": null,
+      "thread_root_id": "2115503909342937105",
+      "author": {
+        "platform_id": null,
+        "display_name": "mahtukirenedra",
+        "username": "mahtukirenedra",
+        "profile_url": "https://x.com/mahtukirenedra"
+      },
+      "text": "Não vai sentir. Então, tá enchendo o saco por quê? Vá arrumar quem queira ir pro Nordeste",
+      "created_at": "2026-10-28T18:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T15:23:07-03:00",
+      "permalink": "https://nitter.mie.foundation/mahtukirenedra/status/2115503909342937105#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "432fdb70-1aae-4df9-9be8-ff8b535e2ada",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115503909342937105",
+        "text": "Não vai sentir. Então, tá enchendo o saco por quê? Vá arrumar quem queira ir pro Nordeste",
+        "author_username": "mahtukirenedra",
+        "author_name": "mahtukirenedra",
+        "created_at": "2026-10-28T18:00:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mahtukirenedra/status/2115503909342937105#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 89,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115508854507356173",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115508854507356173",
+      "parent_post_id": null,
+      "thread_root_id": "2115508854507356173",
+      "author": {
+        "platform_id": null,
+        "display_name": "LeTeilor",
+        "username": "LeTeilor",
+        "profile_url": "https://x.com/LeTeilor"
+      },
+      "text": "Deveria ser assim, nordeste nada produz diminuiria seu pode de escolha",
+      "created_at": "2026-10-28T18:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T15:23:07-03:00",
+      "permalink": "https://nitter.mie.foundation/LeTeilor/status/2115508854507356173#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "432fdb70-1aae-4df9-9be8-ff8b535e2ada",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115508854507356173",
+        "text": "Deveria ser assim, nordeste nada produz diminuiria seu pode de escolha",
+        "author_username": "LeTeilor",
+        "author_name": "LeTeilor",
+        "created_at": "2026-10-28T18:19:00+00:00",
+        "permalink": "https://nitter.mie.foundation/LeTeilor/status/2115508854507356173#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 70,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
