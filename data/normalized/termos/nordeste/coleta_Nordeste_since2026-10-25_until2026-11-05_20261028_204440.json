@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "ead81ee6-4ba2-4e62-b603-384d1ad99447",
+    "collected_at": "2026-10-28T20:44:40-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 708
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115586157723398279",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115586157723398279",
+      "parent_post_id": null,
+      "thread_root_id": "2115586157723398279",
+      "author": {
+        "platform_id": null,
+        "display_name": "israelped2224",
+        "username": "israelped2224",
+        "profile_url": "https://x.com/israelped2224"
+      },
+      "text": "Meu sonho e todos os governadores do nordeste de esquerdam esqueçam a esquerda ciramdeira do suldeste. E nao ajudasse em nenhuma eleição.",
+      "created_at": "2026-10-28T23:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T20:44:40-03:00",
+      "permalink": "https://nitter.meowing.monster/israelped2224/status/2115586157723398279#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "eleição",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ead81ee6-4ba2-4e62-b603-384d1ad99447",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 39,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115586157723398279",
+        "text": "Meu sonho e todos os governadores do nordeste de esquerdam esqueçam a esquerda ciramdeira do suldeste. E nao ajudasse em nenhuma eleição.",
+        "author_username": "israelped2224",
+        "author_name": "israelped2224",
+        "created_at": "2026-10-28T23:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/israelped2224/status/2115586157723398279#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 137,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
