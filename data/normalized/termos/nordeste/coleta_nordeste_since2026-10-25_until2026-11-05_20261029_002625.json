@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "ce0c9ce8-3cb4-407f-9026-09a79d87b4da",
+    "collected_at": "2026-10-29T00:26:25-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 715
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115639281293447310",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115639281293447310",
+      "parent_post_id": null,
+      "thread_root_id": "2115639281293447310",
+      "author": {
+        "platform_id": null,
+        "display_name": "alipiobernardo2",
+        "username": "alipiobernardo2",
+        "profile_url": "https://x.com/alipiobernardo2"
+      },
+      "text": "Eu amo o nordeste, ia este fim de ano passar as férias no nordeste!! Não vou maís!!! Não vou gastar meu dinheiro neste está região infestada de eleitores do luladrao.",
+      "created_at": "2026-10-29T02:58:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T00:26:24-03:00",
+      "permalink": "https://nitter.meowing.monster/alipiobernardo2/status/2115639281293447310#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ce0c9ce8-3cb4-407f-9026-09a79d87b4da",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 39,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115639281293447310",
+        "text": "Eu amo o nordeste, ia este fim de ano passar as férias no nordeste!! Não vou maís!!! Não vou gastar meu dinheiro neste está região infestada de eleitores do luladrao.",
+        "author_username": "alipiobernardo2",
+        "author_name": "alipiobernardo2",
+        "created_at": "2026-10-29T02:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/alipiobernardo2/status/2115639281293447310#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 166,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114473584563531869",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114473584563531869",
+      "parent_post_id": null,
+      "thread_root_id": "2114473584563531869",
+      "author": {
+        "platform_id": null,
+        "display_name": "tonjteodoro",
+        "username": "tonjteodoro",
+        "profile_url": "https://x.com/tonjteodoro"
+      },
+      "text": "Pq sempre no nordeste q  sofre  c/isso?",
+      "created_at": "2026-10-25T21:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T00:26:25-03:00",
+      "permalink": "https://nitter.meowing.monster/tonjteodoro/status/2114473584563531869#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ce0c9ce8-3cb4-407f-9026-09a79d87b4da",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 39,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114473584563531869",
+        "text": "Pq sempre no nordeste q  sofre  c/isso?",
+        "author_username": "tonjteodoro",
+        "author_name": "tonjteodoro",
+        "created_at": "2026-10-25T21:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tonjteodoro/status/2114473584563531869#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 39,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
