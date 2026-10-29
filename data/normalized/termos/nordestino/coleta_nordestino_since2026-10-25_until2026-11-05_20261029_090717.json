@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "e9ddd063-e504-49db-a840-069f9a847f7b",
+    "collected_at": "2026-10-29T09:07:17-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 89
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115771806690750916",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115771806690750916",
+      "parent_post_id": null,
+      "thread_root_id": "2115771806690750916",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fernand65622019",
+        "username": "Fernand65622019",
+        "profile_url": "https://x.com/Fernand65622019"
+      },
+      "text": "Não cometeu erro grave em nada. Ele é Nordestino e tem direito de fala.",
+      "created_at": "2026-10-29T11:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T09:07:17-03:00",
+      "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115771806690750916#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "e9ddd063-e504-49db-a840-069f9a847f7b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115771806690750916",
+        "text": "Não cometeu erro grave em nada. Ele é Nordestino e tem direito de fala.",
+        "author_username": "Fernand65622019",
+        "author_name": "Fernand65622019",
+        "created_at": "2026-10-29T11:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115771806690750916#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 71,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115767021908451689",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115767021908451689",
+      "parent_post_id": null,
+      "thread_root_id": "2115767021908451689",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fernand65622019",
+        "username": "Fernand65622019",
+        "profile_url": "https://x.com/Fernand65622019"
+      },
+      "text": "Não cometeu erro grave em nada. Ele é Nordestino e tem direito de fala.",
+      "created_at": "2026-10-29T11:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T09:07:17-03:00",
+      "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115767021908451689#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "e9ddd063-e504-49db-a840-069f9a847f7b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115767021908451689",
+        "text": "Não cometeu erro grave em nada. Ele é Nordestino e tem direito de fala.",
+        "author_username": "Fernand65622019",
+        "author_name": "Fernand65622019",
+        "created_at": "2026-10-29T11:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115767021908451689#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 71,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115766559142482317",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115766559142482317",
+      "parent_post_id": null,
+      "thread_root_id": "2115766559142482317",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fernand65622019",
+        "username": "Fernand65622019",
+        "profile_url": "https://x.com/Fernand65622019"
+      },
+      "text": "Não cometeu erro grave em nada. Ele é Nordestino e tem direito de fala.",
+      "created_at": "2026-10-29T11:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T09:07:17-03:00",
+      "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115766559142482317#m",
+      "metrics": {
+        "like_count": 40,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "e9ddd063-e504-49db-a840-069f9a847f7b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115766559142482317",
+        "text": "Não cometeu erro grave em nada. Ele é Nordestino e tem direito de fala.",
+        "author_username": "Fernand65622019",
+        "author_name": "Fernand65622019",
+        "created_at": "2026-10-29T11:23:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115766559142482317#m",
+        "metrics": {
+          "like_count": 40,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 71,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115762002949759026",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115762002949759026",
+      "parent_post_id": null,
+      "thread_root_id": "2115762002949759026",
+      "author": {
+        "platform_id": null,
+        "display_name": "pauloandroide",
+        "username": "pauloandroide",
+        "profile_url": "https://x.com/pauloandroide"
+      },
+      "text": "Ficaria show ne no final um retirante nordestino nunca seria presidente e pegasse a skin do @LulaOficial",
+      "created_at": "2026-10-29T11:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T09:07:17-03:00",
+      "permalink": "https://nitter.meowing.monster/pauloandroide/status/2115762002949759026#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "e9ddd063-e504-49db-a840-069f9a847f7b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115762002949759026",
+        "text": "Ficaria show ne no final um retirante nordestino nunca seria presidente e pegasse a skin do @LulaOficial",
+        "author_username": "pauloandroide",
+        "author_name": "pauloandroide",
+        "created_at": "2026-10-29T11:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pauloandroide/status/2115762002949759026#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 104,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
