@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "da53eefc-6185-463e-ac69-5f4360067436",
+    "collected_at": "2026-10-29T20:04:28-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 79
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115939117930324131",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115939117930324131",
+      "parent_post_id": null,
+      "thread_root_id": "2115939117930324131",
+      "author": {
+        "platform_id": null,
+        "display_name": "paulo47araujo",
+        "username": "paulo47araujo",
+        "profile_url": "https://x.com/paulo47araujo"
+      },
+      "text": "instagram.com/reel/DfALe0Uxb…\n@Zezedicamargo_ Aqui no meu Nordeste querido traidor não se CRIA. Penso que vocês acreditam que aqui só tem IMBECIL, mas acredite, somos pessoas decentes por isso alguns não gostam de nós. Acham que podem nos ofender e depois, estalam os dedos e pronto?",
+      "created_at": "2026-10-29T22:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T20:04:28-03:00",
+      "permalink": "https://nitter.mie.foundation/paulo47araujo/status/2115939117930324131#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "da53eefc-6185-463e-ac69-5f4360067436",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2115939117930324131",
+        "text": "instagram.com/reel/DfALe0Uxb…\n@Zezedicamargo_ Aqui no meu Nordeste querido traidor não se CRIA. Penso que vocês acreditam que aqui só tem IMBECIL, mas acredite, somos pessoas decentes por isso alguns não gostam de nós. Acham que podem nos ofender e depois, estalam os dedos e pronto?",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-10-29T22:49:00+00:00",
+        "permalink": "https://nitter.mie.foundation/paulo47araujo/status/2115939117930324131#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 283,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
