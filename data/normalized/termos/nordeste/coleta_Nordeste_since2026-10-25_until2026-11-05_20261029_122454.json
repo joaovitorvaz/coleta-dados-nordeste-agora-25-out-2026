@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "bb5ca112-09cd-4148-92ae-0f94911731bc",
+    "collected_at": "2026-10-29T12:24:54-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 769
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115807918016680351",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115807918016680351",
+      "parent_post_id": null,
+      "thread_root_id": "2115807918016680351",
+      "author": {
+        "platform_id": null,
+        "display_name": "mahtukirenedra",
+        "username": "mahtukirenedra",
+        "profile_url": "https://x.com/mahtukirenedra"
+      },
+      "text": "Eu não fui desde 2022 e NÃO PISO MAIS LÁ. NÃO PRECISO DO NORDESTE PRA TURISTAR",
+      "created_at": "2026-10-29T14:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T12:24:54-03:00",
+      "permalink": "https://nitter.mie.foundation/mahtukirenedra/status/2115807918016680351#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "bb5ca112-09cd-4148-92ae-0f94911731bc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115807918016680351",
+        "text": "Eu não fui desde 2022 e NÃO PISO MAIS LÁ. NÃO PRECISO DO NORDESTE PRA TURISTAR",
+        "author_username": "mahtukirenedra",
+        "author_name": "mahtukirenedra",
+        "created_at": "2026-10-29T14:08:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mahtukirenedra/status/2115807918016680351#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 78,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114351124257869963",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114351124257869963",
+      "parent_post_id": null,
+      "thread_root_id": "2114351124257869963",
+      "author": {
+        "platform_id": null,
+        "display_name": "wIeyner",
+        "username": "wIeyner",
+        "profile_url": "https://x.com/wIeyner"
+      },
+      "text": "Não só o nordeste, São Paulo e Minas Gerais vão dar o nome eu tenho fé.",
+      "created_at": "2026-10-25T13:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T12:24:54-03:00",
+      "permalink": "https://nitter.mie.foundation/wIeyner/status/2114351124257869963#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "bb5ca112-09cd-4148-92ae-0f94911731bc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114351124257869963",
+        "text": "Não só o nordeste, São Paulo e Minas Gerais vão dar o nome eu tenho fé.",
+        "author_username": "wIeyner",
+        "author_name": "wIeyner",
+        "created_at": "2026-10-25T13:39:00+00:00",
+        "permalink": "https://nitter.mie.foundation/wIeyner/status/2114351124257869963#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 71,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
