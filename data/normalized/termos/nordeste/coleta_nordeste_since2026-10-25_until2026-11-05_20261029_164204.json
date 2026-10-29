@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "607b9189-a9a7-49ca-b2e0-e84105c85084",
+    "collected_at": "2026-10-29T16:42:04-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 59
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115888343560896528",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115888343560896528",
+      "parent_post_id": null,
+      "thread_root_id": "2115888343560896528",
+      "author": {
+        "platform_id": null,
+        "display_name": "Gustavo10113612",
+        "username": "Gustavo10113612",
+        "profile_url": "https://x.com/Gustavo10113612"
+      },
+      "text": "Num fui tão feliz por ter familiaridade com o nordeste",
+      "created_at": "2026-10-29T19:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T16:42:04-03:00",
+      "permalink": "https://nitter.meowing.monster/Gustavo10113612/status/2115888343560896528#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "607b9189-a9a7-49ca-b2e0-e84105c85084",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115888343560896528",
+        "text": "Num fui tão feliz por ter familiaridade com o nordeste",
+        "author_username": "Gustavo10113612",
+        "author_name": "Gustavo10113612",
+        "created_at": "2026-10-29T19:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Gustavo10113612/status/2115888343560896528#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 54,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
