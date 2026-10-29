@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "90a2a82c-d03b-4105-a3c5-037743e42253",
+    "collected_at": "2026-10-29T13:18:30-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 59
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115840197346652381",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115840197346652381",
+      "parent_post_id": null,
+      "thread_root_id": "2115840197346652381",
+      "author": {
+        "platform_id": null,
+        "display_name": "FALANDOFRA77824",
+        "username": "FALANDOFRA77824",
+        "profile_url": "https://x.com/FALANDOFRA77824"
+      },
+      "text": "Fecha aí em Tubarão e vai abrir em Pipa, RN, pra ganhar muito dinheiro e ter qualidade de vida. O nordeste abre os braços para empresários perseguindos no sul e sudeste do Brasil",
+      "created_at": "2026-10-29T16:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T13:18:30-03:00",
+      "permalink": "https://nitter.meowing.monster/FALANDOFRA77824/status/2115840197346652381#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "90a2a82c-d03b-4105-a3c5-037743e42253",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115840197346652381",
+        "text": "Fecha aí em Tubarão e vai abrir em Pipa, RN, pra ganhar muito dinheiro e ter qualidade de vida. O nordeste abre os braços para empresários perseguindos no sul e sudeste do Brasil",
+        "author_username": "FALANDOFRA77824",
+        "author_name": "FALANDOFRA77824",
+        "created_at": "2026-10-29T16:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FALANDOFRA77824/status/2115840197346652381#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 178,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
