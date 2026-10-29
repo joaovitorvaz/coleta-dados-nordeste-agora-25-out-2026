@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "ecd0d24f-6032-43fe-9168-dab648bf7c89",
+    "collected_at": "2026-10-28T21:06:45-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 709
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115595740839838153",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115595740839838153",
+      "parent_post_id": null,
+      "thread_root_id": "2115595740839838153",
+      "author": {
+        "platform_id": null,
+        "display_name": "paulo47araujo",
+        "username": "paulo47araujo",
+        "profile_url": "https://x.com/paulo47araujo"
+      },
+      "text": "instagram.com/p/DfAwRRoBqxR/…\nPois é! Aqui no Piauí no meu Nordeste querido tem inteligência natural. Temos um governador PhD.\nTe mete!🚩👏",
+      "created_at": "2026-10-29T00:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T21:06:45-03:00",
+      "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2115595740839838153#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ecd0d24f-6032-43fe-9168-dab648bf7c89",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115595740839838153",
+        "text": "instagram.com/p/DfAwRRoBqxR/…\nPois é! Aqui no Piauí no meu Nordeste querido tem inteligência natural. Temos um governador PhD.\nTe mete!🚩👏",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-10-29T00:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2115595740839838153#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 137,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
