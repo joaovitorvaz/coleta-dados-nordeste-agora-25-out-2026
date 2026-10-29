@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "39327615-fb39-40ff-a068-650110abf5f3",
+    "collected_at": "2026-10-29T08:02:10-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 18
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115740718865990030",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115740718865990030",
+      "parent_post_id": null,
+      "thread_root_id": "2115740718865990030",
+      "author": {
+        "platform_id": null,
+        "display_name": "Kabulozocensura",
+        "username": "Kabulozocensura",
+        "profile_url": "https://x.com/Kabulozocensura"
+      },
+      "text": "É... São Paulo quase não tem nordestinos , aqueles que fazem as merdas deles votando no PT, e corre pra lá pra continuar votando no PT 💩",
+      "created_at": "2026-10-29T09:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T08:02:10-03:00",
+      "permalink": "https://nitter.meowing.monster/Kabulozocensura/status/2115740718865990030#m",
+      "metrics": {
+        "like_count": 109,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "nordestino",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "39327615-fb39-40ff-a068-650110abf5f3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115740718865990030",
+        "text": "É... São Paulo quase não tem nordestinos , aqueles que fazem as merdas deles votando no PT, e corre pra lá pra continuar votando no PT 💩",
+        "author_username": "Kabulozocensura",
+        "author_name": "Kabulozocensura",
+        "created_at": "2026-10-29T09:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Kabulozocensura/status/2115740718865990030#m",
+        "metrics": {
+          "like_count": 109,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 136,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115641700844450198",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115641700844450198",
+      "parent_post_id": null,
+      "thread_root_id": "2115641700844450198",
+      "author": {
+        "platform_id": null,
+        "display_name": "alipiobernardo2",
+        "username": "alipiobernardo2",
+        "profile_url": "https://x.com/alipiobernardo2"
+      },
+      "text": "Nordestinos não comem internet!",
+      "created_at": "2026-10-29T03:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T08:02:10-03:00",
+      "permalink": "https://nitter.meowing.monster/alipiobernardo2/status/2115641700844450198#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "39327615-fb39-40ff-a068-650110abf5f3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115641700844450198",
+        "text": "Nordestinos não comem internet!",
+        "author_username": "alipiobernardo2",
+        "author_name": "alipiobernardo2",
+        "created_at": "2026-10-29T03:07:00+00:00",
+        "permalink": "https://nitter.meowing.monster/alipiobernardo2/status/2115641700844450198#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 31,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
