@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "39327615-fb39-40ff-a068-650110abf5f3",
+    "collected_at": "2026-10-29T05:57:59-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 119
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115705703138570243",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115705703138570243",
+      "parent_post_id": null,
+      "thread_root_id": "2115705703138570243",
+      "author": {
+        "platform_id": null,
+        "display_name": "Rafagamesxxe",
+        "username": "Rafagamesxxe",
+        "profile_url": "https://x.com/Rafagamesxxe"
+      },
+      "text": "Força, quando puder venha visitar nossas praias do nordeste vcs são bem vindos aqui.",
+      "created_at": "2026-10-29T07:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T05:57:58-03:00",
+      "permalink": "https://nitter.meowing.monster/Rafagamesxxe/status/2115705703138570243#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "39327615-fb39-40ff-a068-650110abf5f3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115705703138570243",
+        "text": "Força, quando puder venha visitar nossas praias do nordeste vcs são bem vindos aqui.",
+        "author_username": "Rafagamesxxe",
+        "author_name": "Rafagamesxxe",
+        "created_at": "2026-10-29T07:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Rafagamesxxe/status/2115705703138570243#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 84,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
