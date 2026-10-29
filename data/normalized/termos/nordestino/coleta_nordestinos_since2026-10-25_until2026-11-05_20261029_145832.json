@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "46433bc8-4247-4c9b-bb7c-e2b0a5eb1490",
+    "collected_at": "2026-10-29T14:58:32-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 59
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115845798005010931",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115845798005010931",
+      "parent_post_id": null,
+      "thread_root_id": "2115845798005010931",
+      "author": {
+        "platform_id": null,
+        "display_name": "BENITOplayz",
+        "username": "BENITOplayz",
+        "profile_url": "https://x.com/BENITOplayz"
+      },
+      "text": "Primeiro que SP foi erguida pelos nordestinos e o verdadeiro paulistano é justamente os que tem os pais de lá...",
+      "created_at": "2026-10-29T16:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T14:58:32-03:00",
+      "permalink": "https://nitter.meowing.monster/BENITOplayz/status/2115845798005010931#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "46433bc8-4247-4c9b-bb7c-e2b0a5eb1490",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115845798005010931",
+        "text": "Primeiro que SP foi erguida pelos nordestinos e o verdadeiro paulistano é justamente os que tem os pais de lá...",
+        "author_username": "BENITOplayz",
+        "author_name": "BENITOplayz",
+        "created_at": "2026-10-29T16:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/BENITOplayz/status/2115845798005010931#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 112,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
