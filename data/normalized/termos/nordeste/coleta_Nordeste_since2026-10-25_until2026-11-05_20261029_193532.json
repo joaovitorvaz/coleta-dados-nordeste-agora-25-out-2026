@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "12b7bec6-3cf9-4153-afc9-f2c17eb147a6",
+    "collected_at": "2026-10-29T19:35:32-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 19
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115928608761876804",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115928608761876804",
+      "parent_post_id": null,
+      "thread_root_id": "2115928608761876804",
+      "author": {
+        "platform_id": null,
+        "display_name": "tiagofpe",
+        "username": "tiagofpe",
+        "profile_url": "https://x.com/tiagofpe"
+      },
+      "text": "Enfim o Nordeste nesta Tour",
+      "created_at": "2026-10-29T22:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T19:35:32-03:00",
+      "permalink": "https://nitter.meowing.monster/tiagofpe/status/2115928608761876804#m",
+      "metrics": {
+        "like_count": 36,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "12b7bec6-3cf9-4153-afc9-f2c17eb147a6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115928608761876804",
+        "text": "Enfim o Nordeste nesta Tour",
+        "author_username": "tiagofpe",
+        "author_name": "tiagofpe",
+        "created_at": "2026-10-29T22:07:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tiagofpe/status/2115928608761876804#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 27,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
