@@ -1,0 +1,14 @@
+{
+  "event_id": "12b7bec6-3cf9-4153-afc9-f2c17eb147a6",
+  "event_type": "campaign_nordeste_agora_foco_20261028",
+  "started_at": "2026-10-29T19:30:13-03:00",
+  "finished_at": "2026-10-29T20:35:05-03:00",
+  "status": "success",
+  "since": "2026-10-25",
+  "until": "2026-11-05",
+  "records_written": 1,
+  "records_skipped_duplicate": 137,
+  "json_files_written": 5,
+  "errors": [],
+  "twitee_trends": []
+}
