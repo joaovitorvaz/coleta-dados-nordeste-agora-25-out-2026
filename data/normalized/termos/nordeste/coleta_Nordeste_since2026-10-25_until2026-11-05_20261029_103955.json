@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "f012b7e6-004c-49a8-85ea-70142a157189",
+    "collected_at": "2026-10-29T10:39:55-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 729
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115790625576526311",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115790625576526311",
+      "parent_post_id": null,
+      "thread_root_id": "2115790625576526311",
+      "author": {
+        "platform_id": null,
+        "display_name": "Danielesc",
+        "username": "Danielesc",
+        "profile_url": "https://x.com/Danielesc"
+      },
+      "text": "Nordeste , com certeza",
+      "created_at": "2026-10-29T12:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T10:39:55-03:00",
+      "permalink": "https://nitter.mie.foundation/Danielesc/status/2115790625576526311#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f012b7e6-004c-49a8-85ea-70142a157189",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115790625576526311",
+        "text": "Nordeste , com certeza",
+        "author_username": "Danielesc",
+        "author_name": "Danielesc",
+        "created_at": "2026-10-29T12:59:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Danielesc/status/2115790625576526311#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115798048987103533",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115798048987103533",
+      "parent_post_id": null,
+      "thread_root_id": "2115798048987103533",
+      "author": {
+        "platform_id": null,
+        "display_name": "vinidowdow",
+        "username": "vinidowdow",
+        "profile_url": "https://x.com/vinidowdow"
+      },
+      "text": "Por isso que a esquerda domina o Nordeste a 20 anos. Além de boas lideranças e foco na gestão pública real, a própria militância tem mais sabedoria e pé no chão que essa nossa do sul/sudeste",
+      "created_at": "2026-10-29T13:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T10:39:55-03:00",
+      "permalink": "https://nitter.mie.foundation/vinidowdow/status/2115798048987103533#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f012b7e6-004c-49a8-85ea-70142a157189",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115798048987103533",
+        "text": "Por isso que a esquerda domina o Nordeste a 20 anos. Além de boas lideranças e foco na gestão pública real, a própria militância tem mais sabedoria e pé no chão que essa nossa do sul/sudeste",
+        "author_username": "vinidowdow",
+        "author_name": "vinidowdow",
+        "created_at": "2026-10-29T13:28:00+00:00",
+        "permalink": "https://nitter.mie.foundation/vinidowdow/status/2115798048987103533#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 190,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
