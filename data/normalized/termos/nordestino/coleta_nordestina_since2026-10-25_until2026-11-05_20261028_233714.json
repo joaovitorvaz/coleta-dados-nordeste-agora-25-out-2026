@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "22f57cc5-1b34-47bc-9069-eba3abe1bdea",
+    "collected_at": "2026-10-28T23:37:14-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 24
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115624714387198250",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115624714387198250",
+      "parent_post_id": null,
+      "thread_root_id": "2115624714387198250",
+      "author": {
+        "platform_id": null,
+        "display_name": "TelmaWolpert",
+        "username": "TelmaWolpert",
+        "profile_url": "https://x.com/TelmaWolpert"
+      },
+      "text": "Presidenta de Perbambuco, com muito orgulho de ser recifense, pernambucana e nordestina!🤣",
+      "created_at": "2026-10-29T02:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T23:37:14-03:00",
+      "permalink": "https://nitter.meowing.monster/TelmaWolpert/status/2115624714387198250#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "22f57cc5-1b34-47bc-9069-eba3abe1bdea",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115624714387198250",
+        "text": "Presidenta de Perbambuco, com muito orgulho de ser recifense, pernambucana e nordestina!🤣",
+        "author_username": "TelmaWolpert",
+        "author_name": "TelmaWolpert",
+        "created_at": "2026-10-29T02:00:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TelmaWolpert/status/2115624714387198250#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 89,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
