@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "bbf8fc1e-0899-40ce-aa33-c42f95795b0d",
+    "collected_at": "2026-10-29T15:32:29-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 93
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115866125065994554",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115866125065994554",
+      "parent_post_id": null,
+      "thread_root_id": "2115866125065994554",
+      "author": {
+        "platform_id": null,
+        "display_name": "paulo47araujo",
+        "username": "paulo47araujo",
+        "profile_url": "https://x.com/paulo47araujo"
+      },
+      "text": "instagram.com/reel/De_9_CpIX…\nAqui o que impera é o caráter do nordestino e o caráter gera lucidez.\n\"Brasil conte comigo enquanto eu existir!\"🚩",
+      "created_at": "2026-10-29T17:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T15:32:29-03:00",
+      "permalink": "https://nitter.mie.foundation/paulo47araujo/status/2115866125065994554#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "bbf8fc1e-0899-40ce-aa33-c42f95795b0d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115866125065994554",
+        "text": "instagram.com/reel/De_9_CpIX…\nAqui o que impera é o caráter do nordestino e o caráter gera lucidez.\n\"Brasil conte comigo enquanto eu existir!\"🚩",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-10-29T17:59:00+00:00",
+        "permalink": "https://nitter.mie.foundation/paulo47araujo/status/2115866125065994554#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 143,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115862784734900666",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115862784734900666",
+      "parent_post_id": null,
+      "thread_root_id": "2115862784734900666",
+      "author": {
+        "platform_id": null,
+        "display_name": "M_Costag",
+        "username": "M_Costag",
+        "profile_url": "https://x.com/M_Costag"
+      },
+      "text": "Sabe Qual é o erro de vocês? Tentar explicar Lula com a matemática. Porque ele sempre fugiu das estatísticas. Ontem todas as pesquisas davam a vitória de Flávio Bolsonaro. Só que mais uma vez Lula contrariou tudo. Aliás, ele contraria isso desde criança, tá? Quando ele nasceu lá no interior de Pernambuco, no sertão nordestino, boa parte das crianças morriam de fome, desnutrição. A mortalidade infantil era arrasadora no Brasil da época. Ele subiu num pau de arara, ele e mais sete irmãos, vieram para São Paulo, trabalhou desde criança. Depois ele venceu uma ditadura. Depois ele foi eleito presidente, contrariando novamente as estatísticas, tá? Primeiro presidente operário da história desse país. Depois ele venceu um câncer, novamente contrariando qualquer estatística. Depois ele foi perseguido judicialmente por um juiz que viria a se tornar ministro do seu principal opositor na época. Seis meses após sua prisão. Mas antes ele disse uma frase que eu nunca vou me esquecer. Se me prenderem, eu viro herói. Se me matarem, eu viro mártir. E se me deixarem solto, eu viro presidente de novo. E ele virou. Ele cumpriu. E mais uma vez ele contrariou qualquer estatística. Sabe qual é o erro de vocês?",
+      "created_at": "2026-10-29T17:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T15:32:29-03:00",
+      "permalink": "https://nitter.mie.foundation/M_Costag/status/2115862784734900666#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "nordestino",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "bbf8fc1e-0899-40ce-aa33-c42f95795b0d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115862784734900666",
+        "text": "Sabe Qual é o erro de vocês? Tentar explicar Lula com a matemática. Porque ele sempre fugiu das estatísticas. Ontem todas as pesquisas davam a vitória de Flávio Bolsonaro. Só que mais uma vez Lula contrariou tudo. Aliás, ele contraria isso desde criança, tá? Quando ele nasceu lá no interior de Pernambuco, no sertão nordestino, boa parte das crianças morriam de fome, desnutrição. A mortalidade infantil era arrasadora no Brasil da época. Ele subiu num pau de arara, ele e mais sete irmãos, vieram para São Paulo, trabalhou desde criança. Depois ele venceu uma ditadura. Depois ele foi eleito presidente, contrariando novamente as estatísticas, tá? Primeiro presidente operário da história desse país. Depois ele venceu um câncer, novamente contrariando qualquer estatística. Depois ele foi perseguido judicialmente por um juiz que viria a se tornar ministro do seu principal opositor na época. Seis meses após sua prisão. Mas antes ele disse uma frase que eu nunca vou me esquecer. Se me prenderem, eu viro herói. Se me matarem, eu viro mártir. E se me deixarem solto, eu viro presidente de novo. E ele virou. Ele cumpriu. E mais uma vez ele contrariou qualquer estatística. Sabe qual é o erro de vocês?",
+        "author_username": "M_Costag",
+        "author_name": "M_Costag",
+        "created_at": "2026-10-29T17:46:00+00:00",
+        "permalink": "https://nitter.mie.foundation/M_Costag/status/2115862784734900666#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1205,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
