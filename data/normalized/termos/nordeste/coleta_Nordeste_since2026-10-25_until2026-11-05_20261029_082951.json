@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "b5be9700-dbb2-408c-ac08-05d25c189f59",
+    "collected_at": "2026-10-29T08:29:51-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 99
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115763430518841516",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115763430518841516",
+      "parent_post_id": null,
+      "thread_root_id": "2115763430518841516",
+      "author": {
+        "platform_id": null,
+        "display_name": "DarfSystem",
+        "username": "DarfSystem",
+        "profile_url": "https://x.com/DarfSystem"
+      },
+      "text": "Quão burro você tem que ser pra ser jogador do Bahia e postar vídeo extremamente agressivo contra o nordeste?",
+      "created_at": "2026-10-29T11:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T08:29:51-03:00",
+      "permalink": "https://nitter.meowing.monster/DarfSystem/status/2115763430518841516#m",
+      "metrics": {
+        "like_count": 48,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "b5be9700-dbb2-408c-ac08-05d25c189f59",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115763430518841516",
+        "text": "Quão burro você tem que ser pra ser jogador do Bahia e postar vídeo extremamente agressivo contra o nordeste?",
+        "author_username": "DarfSystem",
+        "author_name": "DarfSystem",
+        "created_at": "2026-10-29T11:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DarfSystem/status/2115763430518841516#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 109,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
