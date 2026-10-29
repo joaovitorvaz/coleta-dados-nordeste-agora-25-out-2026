@@ -1,0 +1,461 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "b5be9700-dbb2-408c-ac08-05d25c189f59",
+    "collected_at": "2026-10-29T08:45:38-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 16
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2115771806690750916",
+            "text": "Não cometeu erro grave em nada. Ele é Nordestino e tem direito de fala.",
+            "author_username": "Fernand65622019",
+            "author_name": "Fernand65622019",
+            "created_at": "2026-10-29T11:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115771806690750916#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115767021908451689",
+            "text": "Não cometeu erro grave em nada. Ele é Nordestino e tem direito de fala.",
+            "author_username": "Fernand65622019",
+            "author_name": "Fernand65622019",
+            "created_at": "2026-10-29T11:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115767021908451689#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115766559142482317",
+            "text": "Não cometeu erro grave em nada. Ele é Nordestino e tem direito de fala.",
+            "author_username": "Fernand65622019",
+            "author_name": "Fernand65622019",
+            "created_at": "2026-10-29T11:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115766559142482317#m",
+            "metrics": {
+              "like_count": 39,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115762002949759026",
+            "text": "Ficaria show ne no final um retirante nordestino nunca seria presidente e pegasse a skin do @LulaOficial",
+            "author_username": "pauloandroide",
+            "author_name": "pauloandroide",
+            "created_at": "2026-10-29T11:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pauloandroide/status/2115762002949759026#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115755277295202616",
+            "text": "No segundo turno, presidente cresceu de forma significativa entre eleitorado nordestino, com queda de abstenções e votos de outros candidatos; PT elegeu os quatro governadores  pt.org.br/efeito-nordeste-lu…",
+            "author_username": "Greice521",
+            "author_name": "Greice521",
+            "created_at": "2026-10-29T10:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Greice521/status/2115755277295202616#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115599306598088788",
+            "text": "Esse jumento não é nordestino ?",
+            "author_username": "MoreiraArr",
+            "author_name": "MoreiraArr",
+            "created_at": "2026-10-29T00:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MoreiraArr/status/2115599306598088788#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 3,
+              "retweet_count": 0,
+              "quote_count": 17
+            }
+          },
+          {
+            "id": "2115495217914577281",
+            "text": "Com Flávio foragido e nenhum sulista praticamente se redimindo, podemos então entender que o pessoal de lá não liga pra combate corrupção ou gente honesta, eles só não gostam de preto, nordestino, trans e outros",
+            "author_username": "Contreiras_Fla",
+            "author_name": "Contreiras_Fla",
+            "created_at": "2026-10-28T17:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Contreiras_Fla/status/2115495217914577281#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115424103897153753",
+            "text": "Eles sabem que Jones Manoel tem tudo pra conquistar um grande protagonismo nessa legislatura, principalmente no confronto técnico-político.\n\nHomem negro, nordestino e de periferia. Não é um perfil \"tragável\" para concessão de espaços.",
+            "author_username": "nelsonmelor",
+            "author_name": "nelsonmelor",
+            "created_at": "2026-10-28T12:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nelsonmelor/status/2115424103897153753#m",
+            "metrics": {
+              "like_count": 175,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115400775882907792",
+            "text": "Ele e o boulos Nordestino não ganha",
+            "author_username": "Radiologich",
+            "author_name": "Radiologich",
+            "created_at": "2026-10-28T11:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Radiologich/status/2115400775882907792#m",
+            "metrics": {
+              "like_count": 63,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115397959927902519",
+            "text": "O Jones e um Boulos nordestino não ganha! Foquem em outras opções",
+            "author_username": "Radiologich",
+            "author_name": "Radiologich",
+            "created_at": "2026-10-28T10:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Radiologich/status/2115397959927902519#m",
+            "metrics": {
+              "like_count": 668,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115395053912768739",
+            "text": "Fonte: Migalhas\n share.google/RY05Ge0CANV6NE5…\nA vitimização desse sujeito não é por ser maranhense ou nordestino, ele não consegue, apesar de tudo, livrar-se da Caverna de Platão l.",
+            "author_username": "edumsb777",
+            "author_name": "edumsb777",
+            "created_at": "2026-10-28T10:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/edumsb777/status/2115395053912768739#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115261601095827650",
+            "text": "E nordestino geralmente nao gosta de carioca kkkk",
+            "author_username": "cacilovers",
+            "author_name": "cacilovers",
+            "created_at": "2026-10-28T01:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/cacilovers/status/2115261601095827650#m",
+            "metrics": {
+              "like_count": 348,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 25
+            }
+          },
+          {
+            "id": "2115235073825833024",
+            "text": "Cabra macho nordestino sim sinhô\n #PresidenteLula #ParabénsPresidenteLula",
+            "author_username": "PacienciaDai",
+            "author_name": "PacienciaDai",
+            "created_at": "2026-10-28T00:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PacienciaDai/status/2115235073825833024#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115216352403169430",
+            "text": "É isso aí. Vai se bronzear no esgoto de Balneário Camboriú otário. Se vier pro nordeste com,com falta de respeito. Vai apanhar de vara. Quem manda no Brasil é o povo nordestino. Engole o choro seu bosta",
+            "author_username": "geraldosales02",
+            "author_name": "geraldosales02",
+            "created_at": "2026-10-27T22:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/geraldosales02/status/2115216352403169430#m",
+            "metrics": {
+              "like_count": 57,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115192614689309117",
+            "text": "Não passarão!!!! O Khalifado nordestino sera protagonista junto ao Janonismo cultural.",
+            "author_username": "paulorodrigohd",
+            "author_name": "paulorodrigohd",
+            "created_at": "2026-10-27T21:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/paulorodrigohd/status/2115192614689309117#m",
+            "metrics": {
+              "like_count": 363,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2115177666135445815",
+            "text": "O Nordeste mais uma vez livrou o Brasil dos fascistas, eu tenho orgulho de ser nordestino, sergipano, de ter votado no Lula, porque acredito ainda em um Brasil soberano. 1️⃣3️⃣❤️⭐️",
+            "author_username": "servilo_santana",
+            "author_name": "servilo_santana",
+            "created_at": "2026-10-27T20:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/servilo_santana/status/2115177666135445815#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115170263210049680",
+            "text": "Sou Nordestina e o William José não me ofendeu em nenhum momento \n\nÉ um DIREITO dele\nEle demonstrou uma insatisfação política\nEle é Nordestino e NÃO cometeu Xenofobia \nÑ tem nada com o trabalho dele, pois ele trabalha com esporte\n\nQuanta infantilidade",
+            "author_username": "Fernand65622019",
+            "author_name": "Fernand65622019",
+            "created_at": "2026-10-27T19:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115170263210049680#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115128791785734472",
+            "text": "Fica aí no Piauí desgraça. Vem aqui pro sul para continuar votando no PT.\n\nEu não gostaria de discriminar o nordestino que vive na pobreza, mas não dá..     \n\n    👇👇👇👇👇👇\n\nRafael Fonteles do PT reeleito com 70% dos votos.\n\nLula/2° turno eleito com 82,81% dos votos.",
+            "author_username": "AGarciaS1611",
+            "author_name": "AGarciaS1611",
+            "created_at": "2026-10-27T17:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AGarciaS1611/status/2115128791785734472#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 11,
+              "retweet_count": 41,
+              "quote_count": 116
+            }
+          },
+          {
+            "id": "2115119715953541314",
+            "text": "É o que eu chamo de antixenofobia eleitoreira. Orgulho de ser Nordestino. Orgulho do meu Pais Pernambuco e Nordestino!",
+            "author_username": "HelmitonAraujo",
+            "author_name": "HelmitonAraujo",
+            "created_at": "2026-10-27T16:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/HelmitonAraujo/status/2115119715953541314#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115071572553678925",
+            "text": "Obrigado, ao povo nordestino, pernambucano por presentear o. Brasil com esse ser tão magnífico assim. Que Deus o abençoe e lhe cubra de bênçãos.\n@LulaOficial @AndreJanonesMG @Alice_inland13 @CarlosZarattini @ZATANGOIES @VeraRaich @GynMiguel @CarlosS48442375 @Sueli1422211",
+            "author_username": "LilineRey",
+            "author_name": "LilineRey",
+            "created_at": "2026-10-27T13:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LilineRey/status/2115071572553678925#m",
+            "metrics": {
+              "like_count": 88,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 3,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "nordeste_agora_foco_20261028"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2115771806690750916",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115771806690750916",
+      "collected_at": "2026-10-29T08:45:38-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "b5be9700-dbb2-408c-ac08-05d25c189f59",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115771806690750916",
+        "text": "Não cometeu erro grave em nada. Ele é Nordestino e tem direito de fala.",
+        "author_username": "Fernand65622019",
+        "author_name": "Fernand65622019",
+        "created_at": "2026-10-29T11:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115771806690750916#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115767021908451689",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115767021908451689",
+      "collected_at": "2026-10-29T08:45:38-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "b5be9700-dbb2-408c-ac08-05d25c189f59",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115767021908451689",
+        "text": "Não cometeu erro grave em nada. Ele é Nordestino e tem direito de fala.",
+        "author_username": "Fernand65622019",
+        "author_name": "Fernand65622019",
+        "created_at": "2026-10-29T11:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115767021908451689#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115766559142482317",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115766559142482317",
+      "collected_at": "2026-10-29T08:45:38-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "b5be9700-dbb2-408c-ac08-05d25c189f59",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115766559142482317",
+        "text": "Não cometeu erro grave em nada. Ele é Nordestino e tem direito de fala.",
+        "author_username": "Fernand65622019",
+        "author_name": "Fernand65622019",
+        "created_at": "2026-10-29T11:23:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fernand65622019/status/2115766559142482317#m",
+        "metrics": {
+          "like_count": 39,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2115762002949759026",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115762002949759026",
+      "collected_at": "2026-10-29T08:45:38-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "b5be9700-dbb2-408c-ac08-05d25c189f59",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2115762002949759026",
+        "text": "Ficaria show ne no final um retirante nordestino nunca seria presidente e pegasse a skin do @LulaOficial",
+        "author_username": "pauloandroide",
+        "author_name": "pauloandroide",
+        "created_at": "2026-10-29T11:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pauloandroide/status/2115762002949759026#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
