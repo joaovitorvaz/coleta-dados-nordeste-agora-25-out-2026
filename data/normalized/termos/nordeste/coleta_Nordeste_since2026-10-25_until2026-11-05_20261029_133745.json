@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "46433bc8-4247-4c9b-bb7c-e2b0a5eb1490",
+    "collected_at": "2026-10-29T13:37:45-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 18
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115842614142341327",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115842614142341327",
+      "parent_post_id": null,
+      "thread_root_id": "2115842614142341327",
+      "author": {
+        "platform_id": null,
+        "display_name": "munho30496",
+        "username": "munho30496",
+        "profile_url": "https://x.com/munho30496"
+      },
+      "text": "E o nordeste abandonado.",
+      "created_at": "2026-10-29T16:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T13:37:45-03:00",
+      "permalink": "https://nitter.meowing.monster/munho30496/status/2115842614142341327#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "46433bc8-4247-4c9b-bb7c-e2b0a5eb1490",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115842614142341327",
+        "text": "E o nordeste abandonado.",
+        "author_username": "munho30496",
+        "author_name": "munho30496",
+        "created_at": "2026-10-29T16:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/munho30496/status/2115842614142341327#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 24,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115842521599242729",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115842521599242729",
+      "parent_post_id": null,
+      "thread_root_id": "2115842521599242729",
+      "author": {
+        "platform_id": null,
+        "display_name": "AgoristJew",
+        "username": "AgoristJew",
+        "profile_url": "https://x.com/AgoristJew"
+      },
+      "text": "O Nordeste Brasileiro é extremamente judaico (e antissemita ao mesmo tempo). Contradições geradas pela inquisição e colonização forçada de retirantes judeus que eram exilados de portugal por crime de Judaísmo e Judaízação (mistura de catoliscismo com práticas judaicas).",
+      "created_at": "2026-10-29T16:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T13:37:45-03:00",
+      "permalink": "https://nitter.meowing.monster/AgoristJew/status/2115842521599242729#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "46433bc8-4247-4c9b-bb7c-e2b0a5eb1490",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115842521599242729",
+        "text": "O Nordeste Brasileiro é extremamente judaico (e antissemita ao mesmo tempo). Contradições geradas pela inquisição e colonização forçada de retirantes judeus que eram exilados de portugal por crime de Judaísmo e Judaízação (mistura de catoliscismo com práticas judaicas).",
+        "author_username": "AgoristJew",
+        "author_name": "AgoristJew",
+        "created_at": "2026-10-29T16:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AgoristJew/status/2115842521599242729#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 270,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
