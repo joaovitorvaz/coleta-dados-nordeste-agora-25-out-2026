@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "79d45740-10e9-4ea9-8d0a-fbe3221e7e6a",
+    "collected_at": "2026-10-29T18:04:48-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 78
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115910537372475494",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115910537372475494",
+      "parent_post_id": null,
+      "thread_root_id": "2115910537372475494",
+      "author": {
+        "platform_id": null,
+        "display_name": "IranyPaulo",
+        "username": "IranyPaulo",
+        "profile_url": "https://x.com/IranyPaulo"
+      },
+      "text": "O que aconteceu domingo passado Foi um Golpe \n2014, apuração é parada,Dilma passa a Frente \n2022, Apuração é parada por 1 uma hora, Lula passa a Frente \n2026, apuração é interrompida, as apurações que sempre começam pela Região Sudeste, Sul etcccccc, depois da parada, Nordeste 🤡",
+      "created_at": "2026-10-29T20:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T18:04:48-03:00",
+      "permalink": "https://nitter.meowing.monster/IranyPaulo/status/2115910537372475494#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "79d45740-10e9-4ea9-8d0a-fbe3221e7e6a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115910537372475494",
+        "text": "O que aconteceu domingo passado Foi um Golpe \n2014, apuração é parada,Dilma passa a Frente \n2022, Apuração é parada por 1 uma hora, Lula passa a Frente \n2026, apuração é interrompida, as apurações que sempre começam pela Região Sudeste, Sul etcccccc, depois da parada, Nordeste 🤡",
+        "author_username": "IranyPaulo",
+        "author_name": "IranyPaulo",
+        "created_at": "2026-10-29T20:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/IranyPaulo/status/2115910537372475494#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 279,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115907528458744109",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115907528458744109",
+      "parent_post_id": null,
+      "thread_root_id": "2115907528458744109",
+      "author": {
+        "platform_id": null,
+        "display_name": "Marcos76Silva",
+        "username": "Marcos76Silva",
+        "profile_url": "https://x.com/Marcos76Silva"
+      },
+      "text": "engraçado que essa Cidade nem é no NORDESTE",
+      "created_at": "2026-10-29T20:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T18:04:48-03:00",
+      "permalink": "https://nitter.meowing.monster/Marcos76Silva/status/2115907528458744109#m",
+      "metrics": {
+        "like_count": 35,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "79d45740-10e9-4ea9-8d0a-fbe3221e7e6a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115907528458744109",
+        "text": "engraçado que essa Cidade nem é no NORDESTE",
+        "author_username": "Marcos76Silva",
+        "author_name": "Marcos76Silva",
+        "created_at": "2026-10-29T20:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Marcos76Silva/status/2115907528458744109#m",
+        "metrics": {
+          "like_count": 35,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 43,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
