@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "9fdeb2fc-3f05-4b92-a5cb-b583b9662e2e",
+    "collected_at": "2026-10-29T17:56:32-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 72
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115908081628381491",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115908081628381491",
+      "parent_post_id": null,
+      "thread_root_id": "2115908081628381491",
+      "author": {
+        "platform_id": null,
+        "display_name": "gueirross",
+        "username": "gueirross",
+        "profile_url": "https://x.com/gueirross"
+      },
+      "text": "vcs aí chamando o cara de maluco mas se eu fosse transar com um carro seria sim um  911",
+      "created_at": "2026-10-29T20:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T17:56:32-03:00",
+      "permalink": "https://nitter.meowing.monster/gueirross/status/2115908081628381491#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9fdeb2fc-3f05-4b92-a5cb-b583b9662e2e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115908081628381491",
+        "text": "vcs aí chamando o cara de maluco mas se eu fosse transar com um carro seria sim um  911",
+        "author_username": "gueirross",
+        "author_name": "gueirross",
+        "created_at": "2026-10-29T20:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gueirross/status/2115908081628381491#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 87,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115906885111148967",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115906885111148967",
+      "parent_post_id": null,
+      "thread_root_id": "2115906885111148967",
+      "author": {
+        "platform_id": null,
+        "display_name": "gueirross",
+        "username": "gueirross",
+        "profile_url": "https://x.com/gueirross"
+      },
+      "text": "-remédio se chama PACO\n-é PAracetamol e COdeína",
+      "created_at": "2026-10-29T20:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T17:56:32-03:00",
+      "permalink": "https://nitter.meowing.monster/gueirross/status/2115906885111148967#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9fdeb2fc-3f05-4b92-a5cb-b583b9662e2e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115906885111148967",
+        "text": "-remédio se chama PACO\n-é PAracetamol e COdeína",
+        "author_username": "gueirross",
+        "author_name": "gueirross",
+        "created_at": "2026-10-29T20:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gueirross/status/2115906885111148967#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 47,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115904147274784892",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115904147274784892",
+      "parent_post_id": null,
+      "thread_root_id": "2115904147274784892",
+      "author": {
+        "platform_id": null,
+        "display_name": "gueirross",
+        "username": "gueirross",
+        "profile_url": "https://x.com/gueirross"
+      },
+      "text": "realmente Aloísio n tem muito R34 por aí n, tlvz no forza/nfs ne",
+      "created_at": "2026-10-29T20:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T17:56:32-03:00",
+      "permalink": "https://nitter.meowing.monster/gueirross/status/2115904147274784892#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9fdeb2fc-3f05-4b92-a5cb-b583b9662e2e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115904147274784892",
+        "text": "realmente Aloísio n tem muito R34 por aí n, tlvz no forza/nfs ne",
+        "author_username": "gueirross",
+        "author_name": "gueirross",
+        "created_at": "2026-10-29T20:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gueirross/status/2115904147274784892#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 64,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
