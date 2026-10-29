@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "bfb7268f-bbb9-45b1-b303-e029c724be49",
+    "collected_at": "2026-10-29T15:51:42-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 117
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115875493891194947",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115875493891194947",
+      "parent_post_id": null,
+      "thread_root_id": "2115875493891194947",
+      "author": {
+        "platform_id": null,
+        "display_name": "Mesquita4Dina",
+        "username": "Mesquita4Dina",
+        "profile_url": "https://x.com/Mesquita4Dina"
+      },
+      "text": "Eu sou do Nordeste  e acredite está  assim  tb",
+      "created_at": "2026-10-29T18:36:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T15:51:42-03:00",
+      "permalink": "https://nitter.meowing.monster/Mesquita4Dina/status/2115875493891194947#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "bfb7268f-bbb9-45b1-b303-e029c724be49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115875493891194947",
+        "text": "Eu sou do Nordeste  e acredite está  assim  tb",
+        "author_username": "Mesquita4Dina",
+        "author_name": "Mesquita4Dina",
+        "created_at": "2026-10-29T18:36:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Mesquita4Dina/status/2115875493891194947#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 46,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115869686160076831",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115869686160076831",
+      "parent_post_id": null,
+      "thread_root_id": "2115869686160076831",
+      "author": {
+        "platform_id": null,
+        "display_name": "WellingthonFerr",
+        "username": "WellingthonFerr",
+        "profile_url": "https://x.com/WellingthonFerr"
+      },
+      "text": "Nosso Nordeste é porreta mesmo, vamos mostrar pra TODOS, do que nosso povo é capaz, além de sempre salvar esse Brasil de regredir em tudo.",
+      "created_at": "2026-10-29T18:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T15:51:42-03:00",
+      "permalink": "https://nitter.meowing.monster/WellingthonFerr/status/2115869686160076831#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "bfb7268f-bbb9-45b1-b303-e029c724be49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115869686160076831",
+        "text": "Nosso Nordeste é porreta mesmo, vamos mostrar pra TODOS, do que nosso povo é capaz, além de sempre salvar esse Brasil de regredir em tudo.",
+        "author_username": "WellingthonFerr",
+        "author_name": "WellingthonFerr",
+        "created_at": "2026-10-29T18:13:00+00:00",
+        "permalink": "https://nitter.meowing.monster/WellingthonFerr/status/2115869686160076831#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 138,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115069988386087402",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115069988386087402",
+      "parent_post_id": null,
+      "thread_root_id": "2115069988386087402",
+      "author": {
+        "platform_id": null,
+        "display_name": "ricardinholdb",
+        "username": "ricardinholdb",
+        "profile_url": "https://x.com/ricardinholdb"
+      },
+      "text": "Eu quero canal direto com Minas e o Nordeste. Vamos por sul la.",
+      "created_at": "2026-10-27T13:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T15:51:42-03:00",
+      "permalink": "https://nitter.meowing.monster/ricardinholdb/status/2115069988386087402#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "bfb7268f-bbb9-45b1-b303-e029c724be49",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115069988386087402",
+        "text": "Eu quero canal direto com Minas e o Nordeste. Vamos por sul la.",
+        "author_username": "ricardinholdb",
+        "author_name": "ricardinholdb",
+        "created_at": "2026-10-27T13:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ricardinholdb/status/2115069988386087402#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 63,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
