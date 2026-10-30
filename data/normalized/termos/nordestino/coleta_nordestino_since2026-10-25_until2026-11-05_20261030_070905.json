@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "91cd33f7-cf0b-4f2d-87e4-2571b352e38d",
+    "collected_at": "2026-10-30T07:09:05-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 37
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2116108323070071130",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116108323070071130",
+      "parent_post_id": null,
+      "thread_root_id": "2116108323070071130",
+      "author": {
+        "platform_id": null,
+        "display_name": "065999036707cba",
+        "username": "065999036707cba",
+        "profile_url": "https://x.com/065999036707cba"
+      },
+      "text": "NORDESTINO RESPONDE AO PEDIDO DE ALIMENTO: \n\"LULA TIROU TODO MUNDO DA POBREZA'",
+      "created_at": "2026-10-30T10:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T07:09:05-03:00",
+      "permalink": "https://nitter.meowing.monster/065999036707cba/status/2116108323070071130#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "91cd33f7-cf0b-4f2d-87e4-2571b352e38d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116108323070071130",
+        "text": "NORDESTINO RESPONDE AO PEDIDO DE ALIMENTO: \n\"LULA TIROU TODO MUNDO DA POBREZA'",
+        "author_username": "065999036707cba",
+        "author_name": "065999036707cba",
+        "created_at": "2026-10-30T10:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/065999036707cba/status/2116108323070071130#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 78,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
