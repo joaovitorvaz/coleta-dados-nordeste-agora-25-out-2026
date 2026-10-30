@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "bdf84cce-0d41-484c-8f44-1892faeb9857",
+    "collected_at": "2026-10-29T22:38:54-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 18
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115981266575032341",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115981266575032341",
+      "parent_post_id": null,
+      "thread_root_id": "2115981266575032341",
+      "author": {
+        "platform_id": null,
+        "display_name": "drogueirinha",
+        "username": "drogueirinha",
+        "profile_url": "https://x.com/drogueirinha"
+      },
+      "text": "Eu sou do nordeste tb mas como cuscuz no jantar, mas de manhã um cuscuz com galinha guisada é tudooooo",
+      "created_at": "2026-10-30T01:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T22:38:54-03:00",
+      "permalink": "https://nitter.meowing.monster/drogueirinha/status/2115981266575032341#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "bdf84cce-0d41-484c-8f44-1892faeb9857",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115981266575032341",
+        "text": "Eu sou do nordeste tb mas como cuscuz no jantar, mas de manhã um cuscuz com galinha guisada é tudooooo",
+        "author_username": "drogueirinha",
+        "author_name": "drogueirinha",
+        "created_at": "2026-10-30T01:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/drogueirinha/status/2115981266575032341#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 102,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
