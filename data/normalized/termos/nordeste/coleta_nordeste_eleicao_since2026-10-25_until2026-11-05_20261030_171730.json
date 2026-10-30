@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste eleicao",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "9d1e658e-de9c-4ad4-ab35-28b5611d03f0",
+    "collected_at": "2026-10-30T17:17:30-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 0,
+      "records_total": 0,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [],
+  "comments": []
+}
