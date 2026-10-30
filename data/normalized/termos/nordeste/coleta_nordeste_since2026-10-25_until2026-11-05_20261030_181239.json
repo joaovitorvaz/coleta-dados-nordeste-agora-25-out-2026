@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "edfa3461-3b8a-4c42-86ba-646191f0467d",
+    "collected_at": "2026-10-30T18:12:39-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 19
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2116247172307980382",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116247172307980382",
+      "parent_post_id": null,
+      "thread_root_id": "2116247172307980382",
+      "author": {
+        "platform_id": null,
+        "display_name": "dlrodrigues76",
+        "username": "dlrodrigues76",
+        "profile_url": "https://x.com/dlrodrigues76"
+      },
+      "text": "Urnas do nordeste do 🇧🇷",
+      "created_at": "2026-10-30T19:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T18:12:39-03:00",
+      "permalink": "https://nitter.meowing.monster/dlrodrigues76/status/2116247172307980382#m",
+      "metrics": {
+        "like_count": 429,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 13
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "edfa3461-3b8a-4c42-86ba-646191f0467d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116247172307980382",
+        "text": "Urnas do nordeste do 🇧🇷",
+        "author_username": "dlrodrigues76",
+        "author_name": "dlrodrigues76",
+        "created_at": "2026-10-30T19:13:00+00:00",
+        "permalink": "https://nitter.meowing.monster/dlrodrigues76/status/2116247172307980382#m",
+        "metrics": {
+          "like_count": 429,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 13
+        }
+      },
+      "normalized": {
+        "text_length": 23,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
