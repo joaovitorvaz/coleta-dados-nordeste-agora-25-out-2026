@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "da53eefc-6185-463e-ac69-5f4360067436",
+    "collected_at": "2026-10-29T21:02:26-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 25
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114503533651243348",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114503533651243348",
+      "parent_post_id": null,
+      "thread_root_id": "2114503533651243348",
+      "author": {
+        "platform_id": null,
+        "display_name": "gadot_ana",
+        "username": "gadot_ana",
+        "profile_url": "https://x.com/gadot_ana"
+      },
+      "text": "Eu amo ser nordestina 🌟🌟🌟🌟🌟🌟🌟",
+      "created_at": "2026-10-25T23:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T21:02:26-03:00",
+      "permalink": "https://nitter.meowing.monster/gadot_ana/status/2114503533651243348#m",
+      "metrics": {
+        "like_count": 37,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "da53eefc-6185-463e-ac69-5f4360067436",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114503533651243348",
+        "text": "Eu amo ser nordestina 🌟🌟🌟🌟🌟🌟🌟",
+        "author_username": "gadot_ana",
+        "author_name": "gadot_ana",
+        "created_at": "2026-10-25T23:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gadot_ana/status/2114503533651243348#m",
+        "metrics": {
+          "like_count": 37,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 29,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
