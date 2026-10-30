@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "d7068e27-816d-4aca-abda-91361830f81a",
+    "collected_at": "2026-10-30T04:15:06-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 38
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2116064064103215138",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116064064103215138",
+      "parent_post_id": null,
+      "thread_root_id": "2116064064103215138",
+      "author": {
+        "platform_id": null,
+        "display_name": "NoemiPappis",
+        "username": "NoemiPappis",
+        "profile_url": "https://x.com/NoemiPappis"
+      },
+      "text": "O povo brasileiro é a sua ignorância cognitiva, pesquisem, aprendem, antes de falar sobre. Norte e Nordeste. Larga a mão desse Bolsonarismo maldito.",
+      "created_at": "2026-10-30T07:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T04:15:06-03:00",
+      "permalink": "https://nitter.meowing.monster/NoemiPappis/status/2116064064103215138#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d7068e27-816d-4aca-abda-91361830f81a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116064064103215138",
+        "text": "O povo brasileiro é a sua ignorância cognitiva, pesquisem, aprendem, antes de falar sobre. Norte e Nordeste. Larga a mão desse Bolsonarismo maldito.",
+        "author_username": "NoemiPappis",
+        "author_name": "NoemiPappis",
+        "created_at": "2026-10-30T07:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/NoemiPappis/status/2116064064103215138#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 148,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

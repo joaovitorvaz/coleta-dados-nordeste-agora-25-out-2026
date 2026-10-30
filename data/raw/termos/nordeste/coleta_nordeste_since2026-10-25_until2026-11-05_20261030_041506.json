@@ -1,0 +1,619 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "d7068e27-816d-4aca-abda-91361830f81a",
+    "collected_at": "2026-10-30T04:15:06-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 38
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2116064064103215138",
+            "text": "O povo brasileiro é a sua ignorância cognitiva, pesquisem, aprendem, antes de falar sobre. Norte e Nordeste. Larga a mão desse Bolsonarismo maldito.",
+            "author_username": "NoemiPappis",
+            "author_name": "NoemiPappis",
+            "created_at": "2026-10-30T07:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/NoemiPappis/status/2116064064103215138#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2116013820594241899",
+            "text": "Ué o nordeste ja tinha ultrapassado o sul antes?",
+            "author_username": "clesinhodescp",
+            "author_name": "clesinhodescp",
+            "created_at": "2026-10-30T03:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/clesinhodescp/status/2116013820594241899#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2116005196694229257",
+            "text": "A melhor explicação, para a maioria entender a gravidade dessa escolha, é que o voto vai ter um peso e um valor diferente, por exemplo, o voto do sudeste vai valer mais do que o do nordeste, os votos de estados mais populosos como SP vai valer mais do que do ES, isso não é justo!",
+            "author_username": "Samuel_Bastille",
+            "author_name": "Samuel_Bastille",
+            "created_at": "2026-10-30T03:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Samuel_Bastille/status/2116005196694229257#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115997673127899439",
+            "text": "Só fui ter a noção real disso ao me mudar pra BSB e conhecer muitos nordestinos aqui que disseram o quanto o Nordeste evoluiu de 2002 pra cá!",
+            "author_username": "FelixCoxaBranca",
+            "author_name": "FelixCoxaBranca",
+            "created_at": "2026-10-30T02:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FelixCoxaBranca/status/2115997673127899439#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115997536716497110",
+            "text": "A parte noroeste, norte e nordeste é muito boa, e é onde as maiores partes da população vivem, excluindo a RM de Porto Alegre.",
+            "author_username": "GabrielDonel",
+            "author_name": "GabrielDonel",
+            "created_at": "2026-10-30T02:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GabrielDonel/status/2115997536716497110#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115992788684698069",
+            "text": "Apoio e participo do boicote aos Petralhas. \n\nMovimento super saudável. \n\nMas como posso evitar de entregar minha filha pra um bando de professor militantes? \n\nMoro no interior do Nordeste. Aqui 100% são militantes 🥺🥺🥺🥺",
+            "author_username": "sinesio_vilaca",
+            "author_name": "sinesio_vilaca",
+            "created_at": "2026-10-30T02:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sinesio_vilaca/status/2115992788684698069#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115987486182670546",
+            "text": "Sul e Sudeste com todos os Estados com governadores da direita. \n\nNordeste na mesma. Com governadores de esquerda. \n\nMeus conterrâneos, uma pergunta: \n\nVocê acha a desigualdade entre essas regiões vão está maior ou menos em 10 anos?",
+            "author_username": "sinesio_vilaca",
+            "author_name": "sinesio_vilaca",
+            "created_at": "2026-10-30T02:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sinesio_vilaca/status/2115987486182670546#m",
+            "metrics": {
+              "like_count": 152,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2115984668684079120",
+            "text": "Para uma praia do nordeste.",
+            "author_username": "GracasJosi87041",
+            "author_name": "GracasJosi87041",
+            "created_at": "2026-10-30T01:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GracasJosi87041/status/2115984668684079120#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115983015771885861",
+            "text": "🏆 RODADA 36 DA SÉRIE B NO AR! RETA FINAL EM TENSÃO MÁXIMA! 🇧🇷🔥\n\nA reta decisiva do Brasileirão Série B não dá tréguas! De sexta-feira a segunda-feira, a bola rola para 10 confrontos eletrizantes que prometem incendiar a luta pelo acesso ao G-4",
+            "author_username": "nordeste_liga",
+            "author_name": "nordeste_liga",
+            "created_at": "2026-10-30T01:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nordeste_liga/status/2115983015771885861#m",
+            "metrics": {
+              "like_count": 41,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115981266575032341",
+            "text": "Eu sou do nordeste tb mas como cuscuz no jantar, mas de manhã um cuscuz com galinha guisada é tudooooo",
+            "author_username": "drogueirinha",
+            "author_name": "drogueirinha",
+            "created_at": "2026-10-30T01:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/drogueirinha/status/2115981266575032341#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115978244084154526",
+            "text": "BAHIA, o maio do nordeste",
+            "author_username": "lasamanthe",
+            "author_name": "lasamanthe",
+            "created_at": "2026-10-30T01:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lasamanthe/status/2115978244084154526#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115966816157597763",
+            "text": "Eu diria que o Vasco é o único capaz de brigar pelo mercado de torcida o Flamengo. Por ser o time que melhor pode competir fora das capitais do Nordeste e na região Norte.",
+            "author_username": "wander17son",
+            "author_name": "wander17son",
+            "created_at": "2026-10-30T00:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/wander17son/status/2115966816157597763#m",
+            "metrics": {
+              "like_count": 70,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115959887150625128",
+            "text": "Brasília e o norte/nordeste agradecem pois lá só tem governador de esquerda, não fazem nada por seus estados e recebem parte da renda gerada aqui",
+            "author_username": "sensocontabil",
+            "author_name": "sensocontabil",
+            "created_at": "2026-10-30T00:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sensocontabil/status/2115959887150625128#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115959165990441280",
+            "text": "Tem q preparar um nome. Acho Alckmin um nome q talvez não tenha força suficiente no Nordeste q tem sido fundamental pra vitórias da esquerda. Prefiro Camilo Santana ou Rafael Fonteles",
+            "author_username": "Fabrici70242229",
+            "author_name": "Fabrici70242229",
+            "created_at": "2026-10-30T00:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2115959165990441280#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115942158515532234",
+            "text": "Um pouquinho desse Nordeste tão lindo! Já tô com saudade, espero voltar em breve ❤️✈️✨",
+            "author_username": "Maarifsoares",
+            "author_name": "Maarifsoares",
+            "created_at": "2026-10-29T23:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Maarifsoares/status/2115942158515532234#m",
+            "metrics": {
+              "like_count": 360,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 13
+            }
+          },
+          {
+            "id": "2115939117930324131",
+            "text": "instagram.com/reel/DfALe0Uxb…\n@Zezedicamargo_ Aqui no meu Nordeste querido traidor não se CRIA. Penso que vocês acreditam que aqui só tem IMBECIL, mas acredite, somos pessoas decentes por isso alguns não gostam de nós. Acham que podem nos ofender e depois, estalam os dedos e pronto?",
+            "author_username": "paulo47araujo",
+            "author_name": "paulo47araujo",
+            "created_at": "2026-10-29T22:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2115939117930324131#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115928608761876804",
+            "text": "Enfim o Nordeste nesta Tour",
+            "author_username": "tiagofpe",
+            "author_name": "tiagofpe",
+            "created_at": "2026-10-29T22:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/tiagofpe/status/2115928608761876804#m",
+            "metrics": {
+              "like_count": 123,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115918370952655273",
+            "text": "Agora entendi a raiva dessa gente. E depois querem fazer a separação do país achando que o nordeste é totalmente dependente",
+            "author_username": "RicardoReisjf",
+            "author_name": "RicardoReisjf",
+            "created_at": "2026-10-29T21:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RicardoReisjf/status/2115918370952655273#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 3,
+              "retweet_count": 2,
+              "quote_count": 254
+            }
+          },
+          {
+            "id": "2115910537372475494",
+            "text": "O que aconteceu domingo passado Foi um Golpe \n2014, apuração é parada,Dilma passa a Frente \n2022, Apuração é parada por 1 uma hora, Lula passa a Frente \n2026, apuração é interrompida, as apurações que sempre começam pela Região Sudeste, Sul etcccccc, depois da parada, Nordeste 🤡",
+            "author_username": "IranyPaulo",
+            "author_name": "IranyPaulo",
+            "created_at": "2026-10-29T20:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/IranyPaulo/status/2115910537372475494#m",
+            "metrics": {
+              "like_count": 59,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115907528458744109",
+            "text": "engraçado que essa Cidade nem é no NORDESTE",
+            "author_username": "Marcos76Silva",
+            "author_name": "Marcos76Silva",
+            "created_at": "2026-10-29T20:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Marcos76Silva/status/2115907528458744109#m",
+            "metrics": {
+              "like_count": 149,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115888343560896528",
+            "text": "Num fui tão feliz por ter familiaridade com o nordeste",
+            "author_username": "Gustavo10113612",
+            "author_name": "Gustavo10113612",
+            "created_at": "2026-10-29T19:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Gustavo10113612/status/2115888343560896528#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115875493891194947",
+            "text": "Eu sou do Nordeste  e acredite está  assim  tb",
+            "author_username": "Mesquita4Dina",
+            "author_name": "Mesquita4Dina",
+            "created_at": "2026-10-29T18:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Mesquita4Dina/status/2115875493891194947#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115869686160076831",
+            "text": "Nosso Nordeste é porreta mesmo, vamos mostrar pra TODOS, do que nosso povo é capaz, além de sempre salvar esse Brasil de regredir em tudo.",
+            "author_username": "WellingthonFerr",
+            "author_name": "WellingthonFerr",
+            "created_at": "2026-10-29T18:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/WellingthonFerr/status/2115869686160076831#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115850335306531146",
+            "text": "instagram.com/reel/Dew5X8nRn…\nAté quando vamos ouvir essas MENTIRAS contra o nosso Piauí e por extensão contra o nosso Nordeste querido?\nDep @lucaspavanato, tenha respeito por nós. Antes de pôr o nosso Piauí nessa sua boca suja, pesquise antes pra não passar vergonha.",
+            "author_username": "paulo47araujo",
+            "author_name": "paulo47araujo",
+            "created_at": "2026-10-29T16:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2115850335306531146#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115850165344985372",
+            "text": "tudo morto de fome e comendo as próprias filhas no nordeste",
+            "author_username": "Norcist69",
+            "author_name": "Norcist69",
+            "created_at": "2026-10-29T16:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Norcist69/status/2115850165344985372#m",
+            "metrics": {
+              "like_count": 994,
+              "reply_count": 4,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2115842614142341327",
+            "text": "E o nordeste abandonado.",
+            "author_username": "munho30496",
+            "author_name": "munho30496",
+            "created_at": "2026-10-29T16:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/munho30496/status/2115842614142341327#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115842521599242729",
+            "text": "O Nordeste Brasileiro é extremamente judaico (e antissemita ao mesmo tempo). Contradições geradas pela inquisição e colonização forçada de retirantes judeus que eram exilados de portugal por crime de Judaísmo e Judaízação (mistura de catoliscismo com práticas judaicas).",
+            "author_username": "AgoristJew",
+            "author_name": "AgoristJew",
+            "created_at": "2026-10-29T16:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AgoristJew/status/2115842521599242729#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115840197346652381",
+            "text": "Fecha aí em Tubarão e vai abrir em Pipa, RN, pra ganhar muito dinheiro e ter qualidade de vida. O nordeste abre os braços para empresários perseguindos no sul e sudeste do Brasil",
+            "author_username": "FALANDOFRA77824",
+            "author_name": "FALANDOFRA77824",
+            "created_at": "2026-10-29T16:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FALANDOFRA77824/status/2115840197346652381#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115833039985017194",
+            "text": "É o que, querida? Nós mineiros já estamos trabalhando para Minas ser integrada ao Nordeste. Levamos o ES porque já é nosso mesmo.",
+            "author_username": "ataquedenervio",
+            "author_name": "ataquedenervio",
+            "created_at": "2026-10-29T15:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ataquedenervio/status/2115833039985017194#m",
+            "metrics": {
+              "like_count": 59,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115829104712843554",
+            "text": "PARABÉNS PARA ESSA EMPRESA. \nVÃO PROCURAR SERVIÇO EM EMPRESAS DE ESQUERDISTAS. \nEU NUNCA MAIS VIAJO PARA O NORDESTE, SÓ DE VER ESSE POVO SAFADO DA VONTADE DE VOMITAR.",
+            "author_username": "DjalmaF54687958",
+            "author_name": "DjalmaF54687958",
+            "created_at": "2026-10-29T15:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DjalmaF54687958/status/2115829104712843554#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115828793252233471",
+            "text": "Imagina que legal deve ser morar no nordeste me sentiria a baleia de vidas secas",
+            "author_username": "guiguiiii1i",
+            "author_name": "guiguiiii1i",
+            "created_at": "2026-10-29T15:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/guiguiiii1i/status/2115828793252233471#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115828236470850027",
+            "text": "A gata segue o Nikolas ferreira no Instagram :( segue um cara que sempre atacou o nordeste. Não dá pra aceitar e desacreditar que ela seja bolsonarista",
+            "author_username": "ca_goldenberg",
+            "author_name": "ca_goldenberg",
+            "created_at": "2026-10-29T15:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ca_goldenberg/status/2115828236470850027#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115807918016680351",
+            "text": "Eu não fui desde 2022 e NÃO PISO MAIS LÁ. NÃO PRECISO DO NORDESTE PRA TURISTAR",
+            "author_username": "mahtukirenedra",
+            "author_name": "mahtukirenedra",
+            "created_at": "2026-10-29T14:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mahtukirenedra/status/2115807918016680351#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115798048987103533",
+            "text": "Por isso que a esquerda domina o Nordeste a 20 anos. Além de boas lideranças e foco na gestão pública real, a própria militância tem mais sabedoria e pé no chão que essa nossa do sul/sudeste",
+            "author_username": "vinidowdow",
+            "author_name": "vinidowdow",
+            "created_at": "2026-10-29T13:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vinidowdow/status/2115798048987103533#m",
+            "metrics": {
+              "like_count": 242,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115790625576526311",
+            "text": "Nordeste , com certeza",
+            "author_username": "Danielesc",
+            "author_name": "Danielesc",
+            "created_at": "2026-10-29T12:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Danielesc/status/2115790625576526311#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2115783876085690379",
+            "text": "Só pra lembrar que Lula venceu na capital de São Paulo, na cidade do Rio de Janeiro, em Porto Alegre e no estado de Minas. Alguém pediu a separação desses lugares por causa do resultado eleitoral? Pois é. Quando se trata do Nordeste, o discurso muda. Isso tem nome: xenofobia.",
+            "author_username": "Jotapeeoliveira",
+            "author_name": "Jotapeeoliveira",
+            "created_at": "2026-10-29T12:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2115783876085690379#m",
+            "metrics": {
+              "like_count": 450,
+              "reply_count": 0,
+              "retweet_count": 3,
+              "quote_count": 37
+            }
+          },
+          {
+            "id": "2115781773393105211",
+            "text": "o nordeste que votou em peso nele no primeiro turno ainda foi a segunda região onde ele mais cresceu\n\norgulho da minha região de primeiro mundo",
+            "author_username": "aridhiosegundo",
+            "author_name": "aridhiosegundo",
+            "created_at": "2026-10-29T12:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/aridhiosegundo/status/2115781773393105211#m",
+            "metrics": {
+              "like_count": 157,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2115770211915706649",
+            "text": "Amigo, o PT precisa de renovação urgente... tirando o nordeste, o PT enfraqueceu muito, e sem Lula, pior ainda! Voc acha mesmo que Haddad, Gleice e cia vão conseguir levar o PT nas costas ai no Sudeste? Duvido! É hora de renovar mesmo, e trazer as potências pra dentro do partido",
+            "author_username": "mototinha",
+            "author_name": "mototinha",
+            "created_at": "2026-10-29T11:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mototinha/status/2115770211915706649#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115763430518841516",
+            "text": "Quão burro você tem que ser pra ser jogador do Bahia e postar vídeo extremamente agressivo contra o nordeste?",
+            "author_username": "DarfSystem",
+            "author_name": "DarfSystem",
+            "created_at": "2026-10-29T11:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DarfSystem/status/2115763430518841516#m",
+            "metrics": {
+              "like_count": 611,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 9
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 4,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "nordeste_agora_foco_20261028"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2116064064103215138",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116064064103215138",
+      "collected_at": "2026-10-30T04:15:06-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d7068e27-816d-4aca-abda-91361830f81a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2116064064103215138",
+        "text": "O povo brasileiro é a sua ignorância cognitiva, pesquisem, aprendem, antes de falar sobre. Norte e Nordeste. Larga a mão desse Bolsonarismo maldito.",
+        "author_username": "NoemiPappis",
+        "author_name": "NoemiPappis",
+        "created_at": "2026-10-30T07:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/NoemiPappis/status/2116064064103215138#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
