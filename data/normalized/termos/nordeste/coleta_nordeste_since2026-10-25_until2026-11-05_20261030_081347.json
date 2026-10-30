@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "7714b915-6d51-4fd0-98a3-d5fb02dee40a",
+    "collected_at": "2026-10-30T08:13:47-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 39
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2116125069743206693",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116125069743206693",
+      "parent_post_id": null,
+      "thread_root_id": "2116125069743206693",
+      "author": {
+        "platform_id": null,
+        "display_name": "Josewagnervasc3",
+        "username": "Josewagnervasc3",
+        "profile_url": "https://x.com/Josewagnervasc3"
+      },
+      "text": "Estou pensando como vai ser do Nordeste os 59. 826.041. Tirando o fujão fica 59.826.040.Estão chamando de boicote,eu chamo de dádiva. Pelo menos não vamos ter o risco de cruzar com essa escória na praia,nos bares, restaurantes... Que alívio!",
+      "created_at": "2026-10-30T11:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T08:13:47-03:00",
+      "permalink": "https://nitter.meowing.monster/Josewagnervasc3/status/2116125069743206693#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "7714b915-6d51-4fd0-98a3-d5fb02dee40a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116125069743206693",
+        "text": "Estou pensando como vai ser do Nordeste os 59. 826.041. Tirando o fujão fica 59.826.040.Estão chamando de boicote,eu chamo de dádiva. Pelo menos não vamos ter o risco de cruzar com essa escória na praia,nos bares, restaurantes... Que alívio!",
+        "author_username": "Josewagnervasc3",
+        "author_name": "Josewagnervasc3",
+        "created_at": "2026-10-30T11:08:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Josewagnervasc3/status/2116125069743206693#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 241,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
