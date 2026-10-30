@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "3dfb7144-9cf1-4b24-982e-de2347ca67e3",
+    "collected_at": "2026-10-29T22:08:29-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 19
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115966816157597763",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115966816157597763",
+      "parent_post_id": null,
+      "thread_root_id": "2115966816157597763",
+      "author": {
+        "platform_id": null,
+        "display_name": "wander17son",
+        "username": "wander17son",
+        "profile_url": "https://x.com/wander17son"
+      },
+      "text": "Eu diria que o Vasco é o único capaz de brigar pelo mercado de torcida o Flamengo. Por ser o time que melhor pode competir fora das capitais do Nordeste e na região Norte.",
+      "created_at": "2026-10-30T00:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T22:08:29-03:00",
+      "permalink": "https://nitter.meowing.monster/wander17son/status/2115966816157597763#m",
+      "metrics": {
+        "like_count": 57,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "3dfb7144-9cf1-4b24-982e-de2347ca67e3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115966816157597763",
+        "text": "Eu diria que o Vasco é o único capaz de brigar pelo mercado de torcida o Flamengo. Por ser o time que melhor pode competir fora das capitais do Nordeste e na região Norte.",
+        "author_username": "wander17son",
+        "author_name": "wander17son",
+        "created_at": "2026-10-30T00:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/wander17son/status/2115966816157597763#m",
+        "metrics": {
+          "like_count": 57,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 171,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
