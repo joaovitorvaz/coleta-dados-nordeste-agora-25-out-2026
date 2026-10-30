@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "9da9c762-01bd-409e-b982-72a135326af5",
+    "collected_at": "2026-10-30T11:24:51-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 55
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2116154307573588106",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116154307573588106",
+      "parent_post_id": null,
+      "thread_root_id": "2116154307573588106",
+      "author": {
+        "platform_id": null,
+        "display_name": "Limitosum",
+        "username": "Limitosum",
+        "profile_url": "https://x.com/Limitosum"
+      },
+      "text": "Essa é braba... cara, por isso amo os nordestinos. Nordestino já é bruto por natureza, de direita então, são avatares.",
+      "created_at": "2026-10-30T13:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T11:24:51-03:00",
+      "permalink": "https://nitter.mie.foundation/Limitosum/status/2116154307573588106#m",
+      "metrics": {
+        "like_count": 144,
+        "reply_count": 0,
+        "retweet_count": 3,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "direita",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9da9c762-01bd-409e-b982-72a135326af5",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 2,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2116154307573588106",
+        "text": "Essa é braba... cara, por isso amo os nordestinos. Nordestino já é bruto por natureza, de direita então, são avatares.",
+        "author_username": "Limitosum",
+        "author_name": "Limitosum",
+        "created_at": "2026-10-30T13:04:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Limitosum/status/2116154307573588106#m",
+        "metrics": {
+          "like_count": 144,
+          "reply_count": 0,
+          "retweet_count": 3,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 118,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: HTTP 504 na página 2"
+      ]
+    }
+  ],
+  "comments": []
+}
