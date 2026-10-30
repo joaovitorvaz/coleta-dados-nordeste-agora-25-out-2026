@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "26f7ec4d-ffe3-4900-ab40-3cf1066b0d06",
+    "collected_at": "2026-10-30T01:25:15-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 39
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2116013820594241899",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116013820594241899",
+      "parent_post_id": null,
+      "thread_root_id": "2116013820594241899",
+      "author": {
+        "platform_id": null,
+        "display_name": "clesinhodescp",
+        "username": "clesinhodescp",
+        "profile_url": "https://x.com/clesinhodescp"
+      },
+      "text": "Ué o nordeste ja tinha ultrapassado o sul antes?",
+      "created_at": "2026-10-30T03:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T01:25:15-03:00",
+      "permalink": "https://nitter.meowing.monster/clesinhodescp/status/2116013820594241899#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "26f7ec4d-ffe3-4900-ab40-3cf1066b0d06",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116013820594241899",
+        "text": "Ué o nordeste ja tinha ultrapassado o sul antes?",
+        "author_username": "clesinhodescp",
+        "author_name": "clesinhodescp",
+        "created_at": "2026-10-30T03:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/clesinhodescp/status/2116013820594241899#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 48,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
