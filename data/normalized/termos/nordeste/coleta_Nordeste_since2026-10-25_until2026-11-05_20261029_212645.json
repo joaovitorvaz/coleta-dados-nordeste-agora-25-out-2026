@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "ad767de8-ec9f-4622-a303-09aa8c51b155",
+    "collected_at": "2026-10-29T21:26:45-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 115
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115959887150625128",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115959887150625128",
+      "parent_post_id": null,
+      "thread_root_id": "2115959887150625128",
+      "author": {
+        "platform_id": null,
+        "display_name": "sensocontabil",
+        "username": "sensocontabil",
+        "profile_url": "https://x.com/sensocontabil"
+      },
+      "text": "Brasília e o norte/nordeste agradecem pois lá só tem governador de esquerda, não fazem nada por seus estados e recebem parte da renda gerada aqui",
+      "created_at": "2026-10-30T00:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T21:26:45-03:00",
+      "permalink": "https://nitter.mie.foundation/sensocontabil/status/2115959887150625128#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ad767de8-ec9f-4622-a303-09aa8c51b155",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2115959887150625128",
+        "text": "Brasília e o norte/nordeste agradecem pois lá só tem governador de esquerda, não fazem nada por seus estados e recebem parte da renda gerada aqui",
+        "author_username": "sensocontabil",
+        "author_name": "sensocontabil",
+        "created_at": "2026-10-30T00:12:00+00:00",
+        "permalink": "https://nitter.mie.foundation/sensocontabil/status/2115959887150625128#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 145,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115959165990441280",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115959165990441280",
+      "parent_post_id": null,
+      "thread_root_id": "2115959165990441280",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fabrici70242229",
+        "username": "Fabrici70242229",
+        "profile_url": "https://x.com/Fabrici70242229"
+      },
+      "text": "Tem q preparar um nome. Acho Alckmin um nome q talvez não tenha força suficiente no Nordeste q tem sido fundamental pra vitórias da esquerda. Prefiro Camilo Santana ou Rafael Fonteles",
+      "created_at": "2026-10-30T00:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T21:26:45-03:00",
+      "permalink": "https://nitter.mie.foundation/Fabrici70242229/status/2115959165990441280#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ad767de8-ec9f-4622-a303-09aa8c51b155",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2115959165990441280",
+        "text": "Tem q preparar um nome. Acho Alckmin um nome q talvez não tenha força suficiente no Nordeste q tem sido fundamental pra vitórias da esquerda. Prefiro Camilo Santana ou Rafael Fonteles",
+        "author_username": "Fabrici70242229",
+        "author_name": "Fabrici70242229",
+        "created_at": "2026-10-30T00:09:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Fabrici70242229/status/2115959165990441280#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 183,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
