@@ -1,0 +1,354 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "9a454e09-8fa0-4c59-bd9e-bfe869185f21",
+    "collected_at": "2026-10-29T23:14:00-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 5,
+      "comments": 0,
+      "records_total": 5,
+      "skipped_duplicate": 115
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115987486182670546",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115987486182670546",
+      "parent_post_id": null,
+      "thread_root_id": "2115987486182670546",
+      "author": {
+        "platform_id": null,
+        "display_name": "sinesio_vilaca",
+        "username": "sinesio_vilaca",
+        "profile_url": "https://x.com/sinesio_vilaca"
+      },
+      "text": "Sul e Sudeste com todos os Estados com governadores da direita. \n\nNordeste na mesma. Com governadores de esquerda. \n\nMeus conterrâneos, uma pergunta: \n\nVocê acha a desigualdade entre essas regiões vão está maior ou menos em 10 anos?",
+      "created_at": "2026-10-30T02:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T23:14:00-03:00",
+      "permalink": "https://nitter.mie.foundation/sinesio_vilaca/status/2115987486182670546#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste",
+        "direita",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "9a454e09-8fa0-4c59-bd9e-bfe869185f21",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2115987486182670546",
+        "text": "Sul e Sudeste com todos os Estados com governadores da direita. \n\nNordeste na mesma. Com governadores de esquerda. \n\nMeus conterrâneos, uma pergunta: \n\nVocê acha a desigualdade entre essas regiões vão está maior ou menos em 10 anos?",
+        "author_username": "sinesio_vilaca",
+        "author_name": "sinesio_vilaca",
+        "created_at": "2026-10-30T02:01:00+00:00",
+        "permalink": "https://nitter.mie.foundation/sinesio_vilaca/status/2115987486182670546#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 232,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115984668684079120",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115984668684079120",
+      "parent_post_id": null,
+      "thread_root_id": "2115984668684079120",
+      "author": {
+        "platform_id": null,
+        "display_name": "GracasJosi87041",
+        "username": "GracasJosi87041",
+        "profile_url": "https://x.com/GracasJosi87041"
+      },
+      "text": "Para uma praia do nordeste.",
+      "created_at": "2026-10-30T01:50:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T23:14:00-03:00",
+      "permalink": "https://nitter.mie.foundation/GracasJosi87041/status/2115984668684079120#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "9a454e09-8fa0-4c59-bd9e-bfe869185f21",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2115984668684079120",
+        "text": "Para uma praia do nordeste.",
+        "author_username": "GracasJosi87041",
+        "author_name": "GracasJosi87041",
+        "created_at": "2026-10-30T01:50:00+00:00",
+        "permalink": "https://nitter.mie.foundation/GracasJosi87041/status/2115984668684079120#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 27,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115983015771885861",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115983015771885861",
+      "parent_post_id": null,
+      "thread_root_id": "2115983015771885861",
+      "author": {
+        "platform_id": null,
+        "display_name": "nordeste_liga",
+        "username": "nordeste_liga",
+        "profile_url": "https://x.com/nordeste_liga"
+      },
+      "text": "🏆 RODADA 36 DA SÉRIE B NO AR! RETA FINAL EM TENSÃO MÁXIMA! 🇧🇷🔥\n\nA reta decisiva do Brasileirão Série B não dá tréguas! De sexta-feira a segunda-feira, a bola rola para 10 confrontos eletrizantes que prometem incendiar a luta pelo acesso ao G-4",
+      "created_at": "2026-10-30T01:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T23:14:00-03:00",
+      "permalink": "https://nitter.mie.foundation/nordeste_liga/status/2115983015771885861#m",
+      "metrics": {
+        "like_count": 28,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "9a454e09-8fa0-4c59-bd9e-bfe869185f21",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2115983015771885861",
+        "text": "🏆 RODADA 36 DA SÉRIE B NO AR! RETA FINAL EM TENSÃO MÁXIMA! 🇧🇷🔥\n\nA reta decisiva do Brasileirão Série B não dá tréguas! De sexta-feira a segunda-feira, a bola rola para 10 confrontos eletrizantes que prometem incendiar a luta pelo acesso ao G-4",
+        "author_username": "nordeste_liga",
+        "author_name": "nordeste_liga",
+        "created_at": "2026-10-30T01:43:00+00:00",
+        "permalink": "https://nitter.mie.foundation/nordeste_liga/status/2115983015771885861#m",
+        "metrics": {
+          "like_count": 28,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 243,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115859892837732754",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115859892837732754",
+      "parent_post_id": null,
+      "thread_root_id": "2115859892837732754",
+      "author": {
+        "platform_id": null,
+        "display_name": "ricardinholdb",
+        "username": "ricardinholdb",
+        "profile_url": "https://x.com/ricardinholdb"
+      },
+      "text": "Cadê a votação da direita no nordeste?!?",
+      "created_at": "2026-10-29T17:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T23:14:00-03:00",
+      "permalink": "https://nitter.xitter.cc/ricardinholdb/status/2115859892837732754#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "9a454e09-8fa0-4c59-bd9e-bfe869185f21",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2115859892837732754",
+        "text": "Cadê a votação da direita no nordeste?!?",
+        "author_username": "ricardinholdb",
+        "author_name": "ricardinholdb",
+        "created_at": "2026-10-29T17:34:00+00:00",
+        "permalink": "https://nitter.xitter.cc/ricardinholdb/status/2115859892837732754#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 40,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115530294165934359",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115530294165934359",
+      "parent_post_id": null,
+      "thread_root_id": "2115530294165934359",
+      "author": {
+        "platform_id": null,
+        "display_name": "NeusinhaMoro",
+        "username": "NeusinhaMoro",
+        "profile_url": "https://x.com/NeusinhaMoro"
+      },
+      "text": "Governo Lula abandonou por anos o Nordeste. Agora quer abandonar o resto do Brasil.",
+      "created_at": "2026-10-28T19:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T23:14:00-03:00",
+      "permalink": "https://nitter.xitter.cc/NeusinhaMoro/status/2115530294165934359#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "9a454e09-8fa0-4c59-bd9e-bfe869185f21",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2115530294165934359",
+        "text": "Governo Lula abandonou por anos o Nordeste. Agora quer abandonar o resto do Brasil.",
+        "author_username": "NeusinhaMoro",
+        "author_name": "NeusinhaMoro",
+        "created_at": "2026-10-28T19:45:00+00:00",
+        "permalink": "https://nitter.xitter.cc/NeusinhaMoro/status/2115530294165934359#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 83,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
