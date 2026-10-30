@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "7422bcc7-420d-4f03-9ef2-9c3dcb27170e",
+    "collected_at": "2026-10-29T21:18:40-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 97
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115959887150625128",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115959887150625128",
+      "parent_post_id": null,
+      "thread_root_id": "2115959887150625128",
+      "author": {
+        "platform_id": null,
+        "display_name": "sensocontabil",
+        "username": "sensocontabil",
+        "profile_url": "https://x.com/sensocontabil"
+      },
+      "text": "Brasília e o norte/nordeste agradecem pois lá só tem governador de esquerda, não fazem nada por seus estados e recebem parte da renda gerada aqui",
+      "created_at": "2026-10-30T00:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T21:18:40-03:00",
+      "permalink": "https://nitter.meowing.monster/sensocontabil/status/2115959887150625128#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "7422bcc7-420d-4f03-9ef2-9c3dcb27170e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115959887150625128",
+        "text": "Brasília e o norte/nordeste agradecem pois lá só tem governador de esquerda, não fazem nada por seus estados e recebem parte da renda gerada aqui",
+        "author_username": "sensocontabil",
+        "author_name": "sensocontabil",
+        "created_at": "2026-10-30T00:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/sensocontabil/status/2115959887150625128#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 145,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115959165990441280",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115959165990441280",
+      "parent_post_id": null,
+      "thread_root_id": "2115959165990441280",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fabrici70242229",
+        "username": "Fabrici70242229",
+        "profile_url": "https://x.com/Fabrici70242229"
+      },
+      "text": "Tem q preparar um nome. Acho Alckmin um nome q talvez não tenha força suficiente no Nordeste q tem sido fundamental pra vitórias da esquerda. Prefiro Camilo Santana ou Rafael Fonteles",
+      "created_at": "2026-10-30T00:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T21:18:40-03:00",
+      "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2115959165990441280#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "7422bcc7-420d-4f03-9ef2-9c3dcb27170e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115959165990441280",
+        "text": "Tem q preparar um nome. Acho Alckmin um nome q talvez não tenha força suficiente no Nordeste q tem sido fundamental pra vitórias da esquerda. Prefiro Camilo Santana ou Rafael Fonteles",
+        "author_username": "Fabrici70242229",
+        "author_name": "Fabrici70242229",
+        "created_at": "2026-10-30T00:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2115959165990441280#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 183,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115942158515532234",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115942158515532234",
+      "parent_post_id": null,
+      "thread_root_id": "2115942158515532234",
+      "author": {
+        "platform_id": null,
+        "display_name": "Maarifsoares",
+        "username": "Maarifsoares",
+        "profile_url": "https://x.com/Maarifsoares"
+      },
+      "text": "Um pouquinho desse Nordeste tão lindo! Já tô com saudade, espero voltar em breve ❤️✈️✨",
+      "created_at": "2026-10-29T23:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T21:18:40-03:00",
+      "permalink": "https://nitter.meowing.monster/Maarifsoares/status/2115942158515532234#m",
+      "metrics": {
+        "like_count": 77,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "7422bcc7-420d-4f03-9ef2-9c3dcb27170e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115942158515532234",
+        "text": "Um pouquinho desse Nordeste tão lindo! Já tô com saudade, espero voltar em breve ❤️✈️✨",
+        "author_username": "Maarifsoares",
+        "author_name": "Maarifsoares",
+        "created_at": "2026-10-29T23:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Maarifsoares/status/2115942158515532234#m",
+        "metrics": {
+          "like_count": 77,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 86,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
