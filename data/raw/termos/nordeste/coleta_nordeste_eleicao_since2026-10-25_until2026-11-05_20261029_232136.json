@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste eleicao",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "9a454e09-8fa0-4c59-bd9e-bfe869185f21",
+    "collected_at": "2026-10-29T23:21:36-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 0,
+      "comments": 0,
+      "records_total": 0,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 1,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "nordeste_agora_foco_20261028"
+  },
+  "posts": [],
+  "comments": []
+}
