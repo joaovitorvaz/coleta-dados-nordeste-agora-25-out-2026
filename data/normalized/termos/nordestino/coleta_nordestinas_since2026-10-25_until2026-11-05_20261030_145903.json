@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinas",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "18baa05b-e51f-4d9e-828a-fd8f85118b04",
+    "collected_at": "2026-10-30T14:59:03-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 0,
+      "records_total": 0,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [],
+  "comments": []
+}
