@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste decide",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "aa9c3d66-badc-4334-b156-1ad3b3c2da26",
+    "collected_at": "2026-10-30T03:03:49-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 0,
+      "comments": 0,
+      "records_total": 0,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 1,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "nordeste_agora_foco_20261028"
+  },
+  "posts": [],
+  "comments": []
+}
