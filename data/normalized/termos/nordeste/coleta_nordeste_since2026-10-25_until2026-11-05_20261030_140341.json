@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "7d0b6bb9-901c-4104-865b-6dbdb08f8b1e",
+    "collected_at": "2026-10-30T14:03:41-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 77
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2116204172399825054",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116204172399825054",
+      "parent_post_id": null,
+      "thread_root_id": "2116204172399825054",
+      "author": {
+        "platform_id": null,
+        "display_name": "LuisSobotyk",
+        "username": "LuisSobotyk",
+        "profile_url": "https://x.com/LuisSobotyk"
+      },
+      "text": "Presidiu o consórcio nordeste, aquele dos respiradores que nunca foram entregues, \"baita nome\" .",
+      "created_at": "2026-10-30T16:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T14:03:41-03:00",
+      "permalink": "https://nitter.xitter.cc/LuisSobotyk/status/2116204172399825054#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "7d0b6bb9-901c-4104-865b-6dbdb08f8b1e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2116204172399825054",
+        "text": "Presidiu o consórcio nordeste, aquele dos respiradores que nunca foram entregues, \"baita nome\" .",
+        "author_username": "LuisSobotyk",
+        "author_name": "LuisSobotyk",
+        "created_at": "2026-10-30T16:22:00+00:00",
+        "permalink": "https://nitter.xitter.cc/LuisSobotyk/status/2116204172399825054#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 96,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116199266003632383",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116199266003632383",
+      "parent_post_id": null,
+      "thread_root_id": "2116199266003632383",
+      "author": {
+        "platform_id": null,
+        "display_name": "LucasKneipp2",
+        "username": "LucasKneipp2",
+        "profile_url": "https://x.com/LucasKneipp2"
+      },
+      "text": "Feliz que o PSDB terá 2 governadores no nordeste, Raquel Lyra era do PSDB e faz um trabalho excelente em Pernambuco, Eduardo Leite era um dos melhores governadores do País idem, é um partido de bom histórico em governos estaduais",
+      "created_at": "2026-10-30T16:03:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T14:03:41-03:00",
+      "permalink": "https://nitter.xitter.cc/LucasKneipp2/status/2116199266003632383#m",
+      "metrics": {
+        "like_count": 163,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "7d0b6bb9-901c-4104-865b-6dbdb08f8b1e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2116199266003632383",
+        "text": "Feliz que o PSDB terá 2 governadores no nordeste, Raquel Lyra era do PSDB e faz um trabalho excelente em Pernambuco, Eduardo Leite era um dos melhores governadores do País idem, é um partido de bom histórico em governos estaduais",
+        "author_username": "LucasKneipp2",
+        "author_name": "LucasKneipp2",
+        "created_at": "2026-10-30T16:03:00+00:00",
+        "permalink": "https://nitter.xitter.cc/LucasKneipp2/status/2116199266003632383#m",
+        "metrics": {
+          "like_count": 163,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 229,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116195603961069697",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116195603961069697",
+      "parent_post_id": null,
+      "thread_root_id": "2116195603961069697",
+      "author": {
+        "platform_id": null,
+        "display_name": "Capricornice",
+        "username": "Capricornice",
+        "profile_url": "https://x.com/Capricornice"
+      },
+      "text": "É ISSO GALERA\nKS RESULTADOS FORAM INVERTIDOS!\nFLÁVIO GANHOU NO NORDESTE E LULA EM SANTA CATARINA \nÉ FRAUDE!!!!!\n\n(Contém Ironia)",
+      "created_at": "2026-10-30T15:48:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T14:03:41-03:00",
+      "permalink": "https://nitter.xitter.cc/Capricornice/status/2116195603961069697#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "7d0b6bb9-901c-4104-865b-6dbdb08f8b1e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2116195603961069697",
+        "text": "É ISSO GALERA\nKS RESULTADOS FORAM INVERTIDOS!\nFLÁVIO GANHOU NO NORDESTE E LULA EM SANTA CATARINA \nÉ FRAUDE!!!!!\n\n(Contém Ironia)",
+        "author_username": "Capricornice",
+        "author_name": "Capricornice",
+        "created_at": "2026-10-30T15:48:00+00:00",
+        "permalink": "https://nitter.xitter.cc/Capricornice/status/2116195603961069697#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 128,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
