@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "1163e319-3da3-4de3-ab8c-968d317283f3",
+    "collected_at": "2026-10-30T19:35:41-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 17
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2116297601863524842",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116297601863524842",
+      "parent_post_id": null,
+      "thread_root_id": "2116297601863524842",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fabrici70242229",
+        "username": "Fabrici70242229",
+        "profile_url": "https://x.com/Fabrici70242229"
+      },
+      "text": "Venha trabalhar no nordeste meu amigo. Aqui vc será mto bem recebido e ganhará mto dinheiro.",
+      "created_at": "2026-10-30T22:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T19:35:41-03:00",
+      "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2116297601863524842#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "1163e319-3da3-4de3-ab8c-968d317283f3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116297601863524842",
+        "text": "Venha trabalhar no nordeste meu amigo. Aqui vc será mto bem recebido e ganhará mto dinheiro.",
+        "author_username": "Fabrici70242229",
+        "author_name": "Fabrici70242229",
+        "created_at": "2026-10-30T22:34:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2116297601863524842#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 92,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116292145476686294",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116292145476686294",
+      "parent_post_id": null,
+      "thread_root_id": "2116292145476686294",
+      "author": {
+        "platform_id": null,
+        "display_name": "RubenilsonFLA",
+        "username": "RubenilsonFLA",
+        "profile_url": "https://x.com/RubenilsonFLA"
+      },
+      "text": "Tem que investir no Nordeste @LulaOficial",
+      "created_at": "2026-10-30T22:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T19:35:41-03:00",
+      "permalink": "https://nitter.meowing.monster/RubenilsonFLA/status/2116292145476686294#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "1163e319-3da3-4de3-ab8c-968d317283f3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116292145476686294",
+        "text": "Tem que investir no Nordeste @LulaOficial",
+        "author_username": "RubenilsonFLA",
+        "author_name": "RubenilsonFLA",
+        "created_at": "2026-10-30T22:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RubenilsonFLA/status/2116292145476686294#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 41,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116291723877904628",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116291723877904628",
+      "parent_post_id": null,
+      "thread_root_id": "2116291723877904628",
+      "author": {
+        "platform_id": null,
+        "display_name": "RubenilsonFLA",
+        "username": "RubenilsonFLA",
+        "profile_url": "https://x.com/RubenilsonFLA"
+      },
+      "text": "Tem que investir no Nordeste @LulaOficial",
+      "created_at": "2026-10-30T22:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T19:35:41-03:00",
+      "permalink": "https://nitter.meowing.monster/RubenilsonFLA/status/2116291723877904628#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "1163e319-3da3-4de3-ab8c-968d317283f3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116291723877904628",
+        "text": "Tem que investir no Nordeste @LulaOficial",
+        "author_username": "RubenilsonFLA",
+        "author_name": "RubenilsonFLA",
+        "created_at": "2026-10-30T22:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RubenilsonFLA/status/2116291723877904628#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 41,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "651df343-e354-4580-aa77-da7e5391eb9f",
+    "collected_at": "2026-10-30T19:40:50-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 0,
+      "records_total": 0,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [],
+  "comments": []
+}
