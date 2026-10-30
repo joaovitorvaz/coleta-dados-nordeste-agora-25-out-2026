@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "da53eefc-6185-463e-ac69-5f4360067436",
+    "collected_at": "2026-10-29T20:59:30-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 81
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115618064557334819",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115618064557334819",
+      "parent_post_id": null,
+      "thread_root_id": "2115618064557334819",
+      "author": {
+        "platform_id": null,
+        "display_name": "CasalBlackWhit7",
+        "username": "CasalBlackWhit7",
+        "profile_url": "https://x.com/CasalBlackWhit7"
+      },
+      "text": "Novinho sentou gostoso na madeira grossa do @Santiagoxeziox que veio nos visitar. Passaram a tarde no quarto fudendo.\nVideo em breve disponível  nos canais:\nprivacy.com.br/@casalblackwh…\nonnowplay.com/casalblackwhit…",
+      "created_at": "2026-10-29T01:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T20:59:30-03:00",
+      "permalink": "https://nitter.xitter.cc/CasalBlackWhit7/status/2115618064557334819#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 1,
+        "retweet_count": 4,
+        "quote_count": 72
+      },
+      "matched_terms": [
+        "nordestino",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "da53eefc-6185-463e-ac69-5f4360067436",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2115618064557334819",
+        "text": "Novinho sentou gostoso na madeira grossa do @Santiagoxeziox que veio nos visitar. Passaram a tarde no quarto fudendo.\nVideo em breve disponível  nos canais:\nprivacy.com.br/@casalblackwh…\nonnowplay.com/casalblackwhit…",
+        "author_username": "CasalBlackWhit7",
+        "author_name": "CasalBlackWhit7",
+        "created_at": "2026-10-29T01:33:00+00:00",
+        "permalink": "https://nitter.xitter.cc/CasalBlackWhit7/status/2115618064557334819#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 1,
+          "retweet_count": 4,
+          "quote_count": 72
+        }
+      },
+      "normalized": {
+        "text_length": 216,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115616496873353286",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115616496873353286",
+      "parent_post_id": null,
+      "thread_root_id": "2115616496873353286",
+      "author": {
+        "platform_id": null,
+        "display_name": "CasalBlackWhit7",
+        "username": "CasalBlackWhit7",
+        "profile_url": "https://x.com/CasalBlackWhit7"
+      },
+      "text": "Novinho guloso, aguentou a madeira enorme do amigo, teve q lubrificar  bem pra puder entrar mais facil.\nVideo completo disponível no canal:\nprivacy.com.br/@casalblackwh…\nonnowplay.com/casalblackwhit…",
+      "created_at": "2026-10-29T01:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-29T20:59:30-03:00",
+      "permalink": "https://nitter.xitter.cc/CasalBlackWhit7/status/2115616496873353286#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 3,
+        "retweet_count": 11,
+        "quote_count": 150
+      },
+      "matched_terms": [
+        "nordestino",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "da53eefc-6185-463e-ac69-5f4360067436",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2115616496873353286",
+        "text": "Novinho guloso, aguentou a madeira enorme do amigo, teve q lubrificar  bem pra puder entrar mais facil.\nVideo completo disponível no canal:\nprivacy.com.br/@casalblackwh…\nonnowplay.com/casalblackwhit…",
+        "author_username": "CasalBlackWhit7",
+        "author_name": "CasalBlackWhit7",
+        "created_at": "2026-10-29T01:27:00+00:00",
+        "permalink": "https://nitter.xitter.cc/CasalBlackWhit7/status/2115616496873353286#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 3,
+          "retweet_count": 11,
+          "quote_count": 150
+        }
+      },
+      "normalized": {
+        "text_length": 199,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
