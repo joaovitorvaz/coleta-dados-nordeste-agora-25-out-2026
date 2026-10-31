@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "c19593c4-be56-4e48-96e1-511d44e13424",
+    "collected_at": "2026-10-30T21:23:08-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 60
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2116309006494965959",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116309006494965959",
+      "parent_post_id": null,
+      "thread_root_id": "2116309006494965959",
+      "author": {
+        "platform_id": null,
+        "display_name": "RosaliaBat18730",
+        "username": "RosaliaBat18730",
+        "profile_url": "https://x.com/RosaliaBat18730"
+      },
+      "text": "MUITA GRATIDÃO AOS NORDESTINOS",
+      "created_at": "2026-10-30T23:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-30T21:23:08-03:00",
+      "permalink": "https://nitter.mie.foundation/RosaliaBat18730/status/2116309006494965959#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "c19593c4-be56-4e48-96e1-511d44e13424",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2116309006494965959",
+        "text": "MUITA GRATIDÃO AOS NORDESTINOS",
+        "author_username": "RosaliaBat18730",
+        "author_name": "RosaliaBat18730",
+        "created_at": "2026-10-30T23:19:00+00:00",
+        "permalink": "https://nitter.mie.foundation/RosaliaBat18730/status/2116309006494965959#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 30,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
