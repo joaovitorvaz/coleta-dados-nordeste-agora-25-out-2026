@@ -1,0 +1,1044 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+    "collected_at": "2026-11-03T15:30:26-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 20,
+      "comments": 0,
+      "records_total": 20,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2117641299352260808",
+            "text": "OLHA AI O BOLSONQRO,QUANDO ABRIU AS COMPORTAS DO RIO SÃO FRANCISCO PARA O POVO NORDESTINO",
+            "author_username": "ngelaMariaDiLo1",
+            "author_name": "ngelaMariaDiLo1",
+            "created_at": "2026-11-03T15:33:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ngelaMariaDiLo1/status/2117641299352260808#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117619360030245089",
+            "text": "Não ia acontecer nada. Não é só nordestino que trabalha. Eu queria ver onde vocês iam arrumar salário digno e emprego no Nordeste.",
+            "author_username": "mahtukirenedra",
+            "author_name": "mahtukirenedra",
+            "created_at": "2026-11-03T14:06:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mahtukirenedra/status/2117619360030245089#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117614028595827080",
+            "text": "E daí? Tira dele o título de ser nordestino, seu burro?",
+            "author_username": "FALANDOFRA77824",
+            "author_name": "FALANDOFRA77824",
+            "created_at": "2026-11-03T13:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FALANDOFRA77824/status/2117614028595827080#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2117606924065632687",
+            "text": "Nordestino e Bolsonarista Com Muito Orgulho 💚💚",
+            "author_username": "MaxwellFos7a",
+            "author_name": "MaxwellFos7a",
+            "created_at": "2026-11-03T13:16:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MaxwellFos7a/status/2117606924065632687#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2117606343825559768",
+            "text": "Nordestino e Bolsonarista Com Muito Orgulho 💚💜",
+            "author_username": "MaxwellFos7a",
+            "author_name": "MaxwellFos7a",
+            "created_at": "2026-11-03T13:14:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MaxwellFos7a/status/2117606343825559768#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2117605899363561817",
+            "text": "Nordestino Do Rio Grande Do Norte 💚. Bolsonarista Com Muito Orgulho 💚💚💚",
+            "author_username": "MaxwellFos7a",
+            "author_name": "MaxwellFos7a",
+            "created_at": "2026-11-03T13:12:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MaxwellFos7a/status/2117605899363561817#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117584061254234305",
+            "text": "Que não façam mais show nenhum, que fiquem na sarjeta, sou do sudeste e apoio o povo nordestino.",
+            "author_username": "mucamiau",
+            "author_name": "mucamiau",
+            "created_at": "2026-11-03T11:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/mucamiau/status/2117584061254234305#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117370654152376458",
+            "text": "de mente tão fraca q é capaz disso me da ansiedade e eu n conseguir dormir",
+            "author_username": "gueirross",
+            "author_name": "gueirross",
+            "created_at": "2026-11-02T21:37:00+00:00",
+            "permalink": "https://nitter.mie.foundation/gueirross/status/2117370654152376458#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117346208431968647",
+            "text": "ainda chocada com o circo que tão fazendo em cima da dacota\nblz, ela foi equivocada por não entender o cenário politico nordestino, mas estaria hilario se não fosse absurdo como estão COM ODIO por ela dizer \"fulana apoiou PUBLICAMENTE candidatos do PL\"",
+            "author_username": "e_4lho",
+            "author_name": "e_4lho",
+            "created_at": "2026-11-02T20:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/e_4lho/status/2117346208431968647#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117339146242973857",
+            "text": "Vamos ver qto tempo o \"rico\" nordestino aguenta !! E não vale culpar o Lula e o PT por suas colocações racistas e xenofobicas!!",
+            "author_username": "CibeleC36870",
+            "author_name": "CibeleC36870",
+            "created_at": "2026-11-02T19:32:00+00:00",
+            "permalink": "https://nitter.mie.foundation/CibeleC36870/status/2117339146242973857#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117285930373443960",
+            "text": "Ser bolsonarista já é vergonhoso, ser nordestino, negra, mulher e bolsonarista , aí filha, é um combo ilimitado master blaster booster de vergonha alheia.",
+            "author_username": "regueira_flavio",
+            "author_name": "regueira_flavio",
+            "created_at": "2026-11-02T16:01:00+00:00",
+            "permalink": "https://nitter.mie.foundation/regueira_flavio/status/2117285930373443960#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2117264206156181535",
+            "text": "Claro que o Bolsa Família foi uma política pública criada por Lula que ajudou muita gente, mas ela por si só não fidelizou o voto nordestino. A combinação de mais políticas públicas, mais universidades e institutos fed, o fato do filho do pobre poder estudar, ter oportunidades...",
+            "author_username": "Jotapeeoliveira",
+            "author_name": "Jotapeeoliveira",
+            "created_at": "2026-11-02T14:34:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Jotapeeoliveira/status/2117264206156181535#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 52
+            }
+          },
+          {
+            "id": "2117074819971793261",
+            "text": "Espero ter força... Sou um soldado.... Gostaria de ser ouvido... e de ver novamente esse sorriso que alegra meu paí... nordestino e chucro, mas amante desse homem @jairbolsonaro",
+            "author_username": "romulofpmorais",
+            "author_name": "romulofpmorais",
+            "created_at": "2026-11-02T02:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/romulofpmorais/status/2117074819971793261#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117070498940977656",
+            "text": "minha mãe",
+            "author_username": "gueirross",
+            "author_name": "gueirross",
+            "created_at": "2026-11-02T01:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/gueirross/status/2117070498940977656#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117042306549191043",
+            "text": "Rapaz mande esses facistas que estão agindo assim, tomar no C....O Nordestino nao tem interesse algum por esses canalhas facistas!!",
+            "author_username": "carvalhojoao_",
+            "author_name": "carvalhojoao_",
+            "created_at": "2026-11-01T23:53:00+00:00",
+            "permalink": "https://nitter.mie.foundation/carvalhojoao_/status/2117042306549191043#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117005179702931493",
+            "text": "A MAIS PURA VERDADE SOBRE OS NORDESTINO QUE VEM PARA CIDADE GRANDE PARA TRABALHAR.  \n\"DIZENDO QUE AJUDOU A CONSTRUIR SÃO PAULO \"..",
+            "author_username": "065999036707cba",
+            "author_name": "065999036707cba",
+            "created_at": "2026-11-01T21:25:00+00:00",
+            "permalink": "https://nitter.mie.foundation/065999036707cba/status/2117005179702931493#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 32,
+              "retweet_count": 376,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2117002640764907586",
+            "text": "eu mato e morro pela poltrona 8",
+            "author_username": "gueirross",
+            "author_name": "gueirross",
+            "created_at": "2026-11-01T21:15:00+00:00",
+            "permalink": "https://nitter.mie.foundation/gueirross/status/2117002640764907586#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2116961597251784728",
+            "text": "Eu e o @cervejaebuceta estamos lançando o PCO 2.0 (Partido Cara de Ônibus)\nNossa plataforma se resume em caguetar Nordestino safado que fez o L e fugiu do Nordeste pra trabalhar em cidades melhores.\nNem queremos nos eleger.\nSó queremos o fundo partidário pra financiar o projeto GUGU, de volta pra minha terra.\nExtradição compulsória pro Nordeste.\nTerra linda e maravilhosa.\nEm breve contamos com vcs na coleta de assinaturas.\nNosso Lema será:\n\"Faz o L e obedece o CV caladinho\".",
+            "author_username": "travequeiro24",
+            "author_name": "travequeiro24",
+            "created_at": "2026-11-01T18:32:00+00:00",
+            "permalink": "https://nitter.mie.foundation/travequeiro24/status/2116961597251784728#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 6,
+              "retweet_count": 4,
+              "quote_count": 48
+            }
+          },
+          {
+            "id": "2116908919645724741",
+            "text": "Um coroa nordestino lulista deixaria um conservador redpill boquiaberto com que sairia da boca deles.",
+            "author_username": "vycttor13_",
+            "author_name": "vycttor13_",
+            "created_at": "2026-11-01T15:03:00+00:00",
+            "permalink": "https://nitter.mie.foundation/vycttor13_/status/2116908919645724741#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 1,
+              "retweet_count": 4,
+              "quote_count": 105
+            }
+          },
+          {
+            "id": "2116882703068938334",
+            "text": "Achamos um nordestino retardado",
+            "author_username": "Filipe_Aguiar",
+            "author_name": "Filipe_Aguiar",
+            "created_at": "2026-11-01T13:19:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Filipe_Aguiar/status/2116882703068938334#m",
+            "metrics": {
+              "like_count": 41,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 0,
+          "instance_used": "https://nitter.xitter.cc"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter.",
+          "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+        ]
+      }
+    ],
+    "campaign_id": "nordeste_agora_foco_20261028"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2117641299352260808",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117641299352260808",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117641299352260808",
+        "text": "OLHA AI O BOLSONQRO,QUANDO ABRIU AS COMPORTAS DO RIO SÃO FRANCISCO PARA O POVO NORDESTINO",
+        "author_username": "ngelaMariaDiLo1",
+        "author_name": "ngelaMariaDiLo1",
+        "created_at": "2026-11-03T15:33:00+00:00",
+        "permalink": "https://nitter.mie.foundation/ngelaMariaDiLo1/status/2117641299352260808#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117619360030245089",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117619360030245089",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117619360030245089",
+        "text": "Não ia acontecer nada. Não é só nordestino que trabalha. Eu queria ver onde vocês iam arrumar salário digno e emprego no Nordeste.",
+        "author_username": "mahtukirenedra",
+        "author_name": "mahtukirenedra",
+        "created_at": "2026-11-03T14:06:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mahtukirenedra/status/2117619360030245089#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117614028595827080",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117614028595827080",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117614028595827080",
+        "text": "E daí? Tira dele o título de ser nordestino, seu burro?",
+        "author_username": "FALANDOFRA77824",
+        "author_name": "FALANDOFRA77824",
+        "created_at": "2026-11-03T13:45:00+00:00",
+        "permalink": "https://nitter.mie.foundation/FALANDOFRA77824/status/2117614028595827080#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117606924065632687",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117606924065632687",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117606924065632687",
+        "text": "Nordestino e Bolsonarista Com Muito Orgulho 💚💚",
+        "author_username": "MaxwellFos7a",
+        "author_name": "MaxwellFos7a",
+        "created_at": "2026-11-03T13:16:00+00:00",
+        "permalink": "https://nitter.mie.foundation/MaxwellFos7a/status/2117606924065632687#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117606343825559768",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117606343825559768",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117606343825559768",
+        "text": "Nordestino e Bolsonarista Com Muito Orgulho 💚💜",
+        "author_username": "MaxwellFos7a",
+        "author_name": "MaxwellFos7a",
+        "created_at": "2026-11-03T13:14:00+00:00",
+        "permalink": "https://nitter.mie.foundation/MaxwellFos7a/status/2117606343825559768#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117605899363561817",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117605899363561817",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117605899363561817",
+        "text": "Nordestino Do Rio Grande Do Norte 💚. Bolsonarista Com Muito Orgulho 💚💚💚",
+        "author_username": "MaxwellFos7a",
+        "author_name": "MaxwellFos7a",
+        "created_at": "2026-11-03T13:12:00+00:00",
+        "permalink": "https://nitter.mie.foundation/MaxwellFos7a/status/2117605899363561817#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117584061254234305",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117584061254234305",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117584061254234305",
+        "text": "Que não façam mais show nenhum, que fiquem na sarjeta, sou do sudeste e apoio o povo nordestino.",
+        "author_username": "mucamiau",
+        "author_name": "mucamiau",
+        "created_at": "2026-11-03T11:45:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mucamiau/status/2117584061254234305#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117370654152376458",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117370654152376458",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117370654152376458",
+        "text": "de mente tão fraca q é capaz disso me da ansiedade e eu n conseguir dormir",
+        "author_username": "gueirross",
+        "author_name": "gueirross",
+        "created_at": "2026-11-02T21:37:00+00:00",
+        "permalink": "https://nitter.mie.foundation/gueirross/status/2117370654152376458#m",
+        "metrics": {
+          "like_count": 34,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117346208431968647",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117346208431968647",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117346208431968647",
+        "text": "ainda chocada com o circo que tão fazendo em cima da dacota\nblz, ela foi equivocada por não entender o cenário politico nordestino, mas estaria hilario se não fosse absurdo como estão COM ODIO por ela dizer \"fulana apoiou PUBLICAMENTE candidatos do PL\"",
+        "author_username": "e_4lho",
+        "author_name": "e_4lho",
+        "created_at": "2026-11-02T20:00:00+00:00",
+        "permalink": "https://nitter.mie.foundation/e_4lho/status/2117346208431968647#m",
+        "metrics": {
+          "like_count": 28,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117339146242973857",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117339146242973857",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117339146242973857",
+        "text": "Vamos ver qto tempo o \"rico\" nordestino aguenta !! E não vale culpar o Lula e o PT por suas colocações racistas e xenofobicas!!",
+        "author_username": "CibeleC36870",
+        "author_name": "CibeleC36870",
+        "created_at": "2026-11-02T19:32:00+00:00",
+        "permalink": "https://nitter.mie.foundation/CibeleC36870/status/2117339146242973857#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117285930373443960",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117285930373443960",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117285930373443960",
+        "text": "Ser bolsonarista já é vergonhoso, ser nordestino, negra, mulher e bolsonarista , aí filha, é um combo ilimitado master blaster booster de vergonha alheia.",
+        "author_username": "regueira_flavio",
+        "author_name": "regueira_flavio",
+        "created_at": "2026-11-02T16:01:00+00:00",
+        "permalink": "https://nitter.mie.foundation/regueira_flavio/status/2117285930373443960#m",
+        "metrics": {
+          "like_count": 37,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117264206156181535",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117264206156181535",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117264206156181535",
+        "text": "Claro que o Bolsa Família foi uma política pública criada por Lula que ajudou muita gente, mas ela por si só não fidelizou o voto nordestino. A combinação de mais políticas públicas, mais universidades e institutos fed, o fato do filho do pobre poder estudar, ter oportunidades...",
+        "author_username": "Jotapeeoliveira",
+        "author_name": "Jotapeeoliveira",
+        "created_at": "2026-11-02T14:34:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Jotapeeoliveira/status/2117264206156181535#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 52
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117074819971793261",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117074819971793261",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "bolsonaro",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117074819971793261",
+        "text": "Espero ter força... Sou um soldado.... Gostaria de ser ouvido... e de ver novamente esse sorriso que alegra meu paí... nordestino e chucro, mas amante desse homem @jairbolsonaro",
+        "author_username": "romulofpmorais",
+        "author_name": "romulofpmorais",
+        "created_at": "2026-11-02T02:02:00+00:00",
+        "permalink": "https://nitter.mie.foundation/romulofpmorais/status/2117074819971793261#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117070498940977656",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117070498940977656",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117070498940977656",
+        "text": "minha mãe",
+        "author_username": "gueirross",
+        "author_name": "gueirross",
+        "created_at": "2026-11-02T01:45:00+00:00",
+        "permalink": "https://nitter.mie.foundation/gueirross/status/2117070498940977656#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117042306549191043",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117042306549191043",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117042306549191043",
+        "text": "Rapaz mande esses facistas que estão agindo assim, tomar no C....O Nordestino nao tem interesse algum por esses canalhas facistas!!",
+        "author_username": "carvalhojoao_",
+        "author_name": "carvalhojoao_",
+        "created_at": "2026-11-01T23:53:00+00:00",
+        "permalink": "https://nitter.mie.foundation/carvalhojoao_/status/2117042306549191043#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117005179702931493",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117005179702931493",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117005179702931493",
+        "text": "A MAIS PURA VERDADE SOBRE OS NORDESTINO QUE VEM PARA CIDADE GRANDE PARA TRABALHAR.  \n\"DIZENDO QUE AJUDOU A CONSTRUIR SÃO PAULO \"..",
+        "author_username": "065999036707cba",
+        "author_name": "065999036707cba",
+        "created_at": "2026-11-01T21:25:00+00:00",
+        "permalink": "https://nitter.mie.foundation/065999036707cba/status/2117005179702931493#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 32,
+          "retweet_count": 376,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117002640764907586",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117002640764907586",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2117002640764907586",
+        "text": "eu mato e morro pela poltrona 8",
+        "author_username": "gueirross",
+        "author_name": "gueirross",
+        "created_at": "2026-11-01T21:15:00+00:00",
+        "permalink": "https://nitter.mie.foundation/gueirross/status/2117002640764907586#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2116961597251784728",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116961597251784728",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "nordestino",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2116961597251784728",
+        "text": "Eu e o @cervejaebuceta estamos lançando o PCO 2.0 (Partido Cara de Ônibus)\nNossa plataforma se resume em caguetar Nordestino safado que fez o L e fugiu do Nordeste pra trabalhar em cidades melhores.\nNem queremos nos eleger.\nSó queremos o fundo partidário pra financiar o projeto GUGU, de volta pra minha terra.\nExtradição compulsória pro Nordeste.\nTerra linda e maravilhosa.\nEm breve contamos com vcs na coleta de assinaturas.\nNosso Lema será:\n\"Faz o L e obedece o CV caladinho\".",
+        "author_username": "travequeiro24",
+        "author_name": "travequeiro24",
+        "created_at": "2026-11-01T18:32:00+00:00",
+        "permalink": "https://nitter.mie.foundation/travequeiro24/status/2116961597251784728#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 6,
+          "retweet_count": 4,
+          "quote_count": 48
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2116908919645724741",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116908919645724741",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2116908919645724741",
+        "text": "Um coroa nordestino lulista deixaria um conservador redpill boquiaberto com que sairia da boca deles.",
+        "author_username": "vycttor13_",
+        "author_name": "vycttor13_",
+        "created_at": "2026-11-01T15:03:00+00:00",
+        "permalink": "https://nitter.mie.foundation/vycttor13_/status/2116908919645724741#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 1,
+          "retweet_count": 4,
+          "quote_count": 105
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2116882703068938334",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116882703068938334",
+      "collected_at": "2026-11-03T15:30:26-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "partial",
+      "raw_data": {
+        "id": "2116882703068938334",
+        "text": "Achamos um nordestino retardado",
+        "author_username": "Filipe_Aguiar",
+        "author_name": "Filipe_Aguiar",
+        "created_at": "2026-11-01T13:19:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Filipe_Aguiar/status/2116882703068938334#m",
+        "metrics": {
+          "like_count": 41,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 7
+        }
+      }
+    }
+  ],
+  "comments": []
+}
