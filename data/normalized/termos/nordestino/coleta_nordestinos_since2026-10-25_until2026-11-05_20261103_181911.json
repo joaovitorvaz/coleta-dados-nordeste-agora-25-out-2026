@@ -1,0 +1,945 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+    "collected_at": "2026-11-03T18:19:11-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 14,
+      "comments": 0,
+      "records_total": 14,
+      "skipped_duplicate": 31
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2117640843091656738",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117640843091656738",
+      "parent_post_id": null,
+      "thread_root_id": "2117640843091656738",
+      "author": {
+        "platform_id": null,
+        "display_name": "dasilvapaulo6",
+        "username": "dasilvapaulo6",
+        "profile_url": "https://x.com/dasilvapaulo6"
+      },
+      "text": "Ataques a petistas e nordestinos leva a afastamento de procuradora em Macaé (RJ) iclnoticias.com.br/?p=133967",
+      "created_at": "2026-11-03T15:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/dasilvapaulo6/status/2117640843091656738#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2117640843091656738",
+        "text": "Ataques a petistas e nordestinos leva a afastamento de procuradora em Macaé (RJ) iclnoticias.com.br/?p=133967",
+        "author_username": "dasilvapaulo6",
+        "author_name": "dasilvapaulo6",
+        "created_at": "2026-11-03T15:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/dasilvapaulo6/status/2117640843091656738#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 109,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117567047194267857",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117567047194267857",
+      "parent_post_id": null,
+      "thread_root_id": "2117567047194267857",
+      "author": {
+        "platform_id": null,
+        "display_name": "paulo47araujo",
+        "username": "paulo47araujo",
+        "profile_url": "https://x.com/paulo47araujo"
+      },
+      "text": "instagram.com/reel/DfM5PHCsl…\nCom a palavra os nordestinos de Fortaleza. Se conseguem digerir as ofensas dos ditos cujos, divirtam-se!",
+      "created_at": "2026-11-03T10:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2117567047194267857#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2117567047194267857",
+        "text": "instagram.com/reel/DfM5PHCsl…\nCom a palavra os nordestinos de Fortaleza. Se conseguem digerir as ofensas dos ditos cujos, divirtam-se!",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-11-03T10:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2117567047194267857#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 134,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117546673463320602",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117546673463320602",
+      "parent_post_id": null,
+      "thread_root_id": "2117546673463320602",
+      "author": {
+        "platform_id": null,
+        "display_name": "paulo47araujo",
+        "username": "paulo47araujo",
+        "profile_url": "https://x.com/paulo47araujo"
+      },
+      "text": "Justo, muito justo, justíssimo!\nNós, os nordestinos não queremos NINGUÉM aqui que não se sinta bem, sobretudo artistas EXTREMISTAS já que aqui o que impera é a ESQUERDISMO.\nSabemos que só a palavra já os deixam desconfortáveis, portanto!\nAQUI NÃO!!!🚩🥂",
+      "created_at": "2026-11-03T09:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2117546673463320602#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2117546673463320602",
+        "text": "Justo, muito justo, justíssimo!\nNós, os nordestinos não queremos NINGUÉM aqui que não se sinta bem, sobretudo artistas EXTREMISTAS já que aqui o que impera é a ESQUERDISMO.\nSabemos que só a palavra já os deixam desconfortáveis, portanto!\nAQUI NÃO!!!🚩🥂",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-11-03T09:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2117546673463320602#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 251,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117429911442825666",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117429911442825666",
+      "parent_post_id": null,
+      "thread_root_id": "2117429911442825666",
+      "author": {
+        "platform_id": null,
+        "display_name": "zenaideBH",
+        "username": "zenaideBH",
+        "profile_url": "https://x.com/zenaideBH"
+      },
+      "text": "Esta corja insana, não têm vergonha na cara, não? Pra quê insistir nesta \"patacoada\" d xingar nordestinos, mineiros e os q votaram em Lula? De certo são pessoas sem brilho, sem sucesso profissional e ignorantes q precisam ser paradas d alguma forma! \n#ForaNazifascistasMalditos 😈",
+      "created_at": "2026-11-03T01:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/zenaideBH/status/2117429911442825666#m",
+      "metrics": {
+        "like_count": 91,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2117429911442825666",
+        "text": "Esta corja insana, não têm vergonha na cara, não? Pra quê insistir nesta \"patacoada\" d xingar nordestinos, mineiros e os q votaram em Lula? De certo são pessoas sem brilho, sem sucesso profissional e ignorantes q precisam ser paradas d alguma forma! \n#ForaNazifascistasMalditos 😈",
+        "author_username": "zenaideBH",
+        "author_name": "zenaideBH",
+        "created_at": "2026-11-03T01:33:00+00:00",
+        "permalink": "https://nitter.meowing.monster/zenaideBH/status/2117429911442825666#m",
+        "metrics": {
+          "like_count": 91,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 279,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117417686581780659",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117417686581780659",
+      "parent_post_id": null,
+      "thread_root_id": "2117417686581780659",
+      "author": {
+        "platform_id": null,
+        "display_name": "LalaRempel",
+        "username": "LalaRempel",
+        "profile_url": "https://x.com/LalaRempel"
+      },
+      "text": "Ataques a petistas e nordestinos leva a afastamento de procuradora em Macaé (RJ) share.google/84D5EjzmcjfsDK3…",
+      "created_at": "2026-11-03T00:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/LalaRempel/status/2117417686581780659#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2117417686581780659",
+        "text": "Ataques a petistas e nordestinos leva a afastamento de procuradora em Macaé (RJ) share.google/84D5EjzmcjfsDK3…",
+        "author_username": "LalaRempel",
+        "author_name": "LalaRempel",
+        "created_at": "2026-11-03T00:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LalaRempel/status/2117417686581780659#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 110,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117356110692913285",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117356110692913285",
+      "parent_post_id": null,
+      "thread_root_id": "2117356110692913285",
+      "author": {
+        "platform_id": null,
+        "display_name": "gustuzumakisa",
+        "username": "gustuzumakisa",
+        "profile_url": "https://x.com/gustuzumakisa"
+      },
+      "text": "Sorte dos nordestinos.",
+      "created_at": "2026-11-02T20:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/gustuzumakisa/status/2117356110692913285#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2117356110692913285",
+        "text": "Sorte dos nordestinos.",
+        "author_username": "gustuzumakisa",
+        "author_name": "gustuzumakisa",
+        "created_at": "2026-11-02T20:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gustuzumakisa/status/2117356110692913285#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117261228338712592",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117261228338712592",
+      "parent_post_id": null,
+      "thread_root_id": "2117261228338712592",
+      "author": {
+        "platform_id": null,
+        "display_name": "Jotapeeoliveira",
+        "username": "Jotapeeoliveira",
+        "profile_url": "https://x.com/Jotapeeoliveira"
+      },
+      "text": "Esse vídeo é uma aula de história. Os idosos nordestinos votam massivamente em Lula pq eles viram as suas vidas melhorarem depois do seu governo. Quem acha que os nordestinos votam por causa do Bolsa Família é ser muito ignorante.",
+      "created_at": "2026-11-02T14:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117261228338712592#m",
+      "metrics": {
+        "like_count": 58,
+        "reply_count": 7,
+        "retweet_count": 1,
+        "quote_count": 7
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2117261228338712592",
+        "text": "Esse vídeo é uma aula de história. Os idosos nordestinos votam massivamente em Lula pq eles viram as suas vidas melhorarem depois do seu governo. Quem acha que os nordestinos votam por causa do Bolsa Família é ser muito ignorante.",
+        "author_username": "Jotapeeoliveira",
+        "author_name": "Jotapeeoliveira",
+        "created_at": "2026-11-02T14:23:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117261228338712592#m",
+        "metrics": {
+          "like_count": 58,
+          "reply_count": 7,
+          "retweet_count": 1,
+          "quote_count": 7
+        }
+      },
+      "normalized": {
+        "text_length": 230,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117101800826241200",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117101800826241200",
+      "parent_post_id": null,
+      "thread_root_id": "2117101800826241200",
+      "author": {
+        "platform_id": null,
+        "display_name": "ecm_foim",
+        "username": "ecm_foim",
+        "profile_url": "https://x.com/ecm_foim"
+      },
+      "text": "Top verbos nordestinos: rebolar (só nós nordestinos sabemos o real significado de REBOLAR).",
+      "created_at": "2026-11-02T03:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/ecm_foim/status/2117101800826241200#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2117101800826241200",
+        "text": "Top verbos nordestinos: rebolar (só nós nordestinos sabemos o real significado de REBOLAR).",
+        "author_username": "ecm_foim",
+        "author_name": "ecm_foim",
+        "created_at": "2026-11-02T03:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ecm_foim/status/2117101800826241200#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 91,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116936812765856204",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116936812765856204",
+      "parent_post_id": null,
+      "thread_root_id": "2116936812765856204",
+      "author": {
+        "platform_id": null,
+        "display_name": "jandira_mata",
+        "username": "jandira_mata",
+        "profile_url": "https://x.com/jandira_mata"
+      },
+      "text": "Isso aí  é  a soberania  do Luladrão. Mas a maioria dos  nordestinos gostam ....  esse problema  não  é meu, eu não votei em ladrão.",
+      "created_at": "2026-11-01T16:54:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/jandira_mata/status/2116936812765856204#m",
+      "metrics": {
+        "like_count": 96,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116936812765856204",
+        "text": "Isso aí  é  a soberania  do Luladrão. Mas a maioria dos  nordestinos gostam ....  esse problema  não  é meu, eu não votei em ladrão.",
+        "author_username": "jandira_mata",
+        "author_name": "jandira_mata",
+        "created_at": "2026-11-01T16:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jandira_mata/status/2116936812765856204#m",
+        "metrics": {
+          "like_count": 96,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 132,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116918570705637750",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116918570705637750",
+      "parent_post_id": null,
+      "thread_root_id": "2116918570705637750",
+      "author": {
+        "platform_id": null,
+        "display_name": "lvndrsunset",
+        "username": "lvndrsunset",
+        "profile_url": "https://x.com/lvndrsunset"
+      },
+      "text": "top xingamentos nordestinos: vai te rear",
+      "created_at": "2026-11-01T15:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/lvndrsunset/status/2116918570705637750#m",
+      "metrics": {
+        "like_count": 774,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 28
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116918570705637750",
+        "text": "top xingamentos nordestinos: vai te rear",
+        "author_username": "lvndrsunset",
+        "author_name": "lvndrsunset",
+        "created_at": "2026-11-01T15:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/lvndrsunset/status/2116918570705637750#m",
+        "metrics": {
+          "like_count": 774,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 28
+        }
+      },
+      "normalized": {
+        "text_length": 40,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116862855987233018",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116862855987233018",
+      "parent_post_id": null,
+      "thread_root_id": "2116862855987233018",
+      "author": {
+        "platform_id": null,
+        "display_name": "EstreladaTardee",
+        "username": "EstreladaTardee",
+        "profile_url": "https://x.com/EstreladaTardee"
+      },
+      "text": "Top adjetivos nordestinos: Buliçoso",
+      "created_at": "2026-11-01T12:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/EstreladaTardee/status/2116862855987233018#m",
+      "metrics": {
+        "like_count": 22,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116862855987233018",
+        "text": "Top adjetivos nordestinos: Buliçoso",
+        "author_username": "EstreladaTardee",
+        "author_name": "EstreladaTardee",
+        "created_at": "2026-11-01T12:00:00+00:00",
+        "permalink": "https://nitter.meowing.monster/EstreladaTardee/status/2116862855987233018#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 35,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116652404791751094",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116652404791751094",
+      "parent_post_id": null,
+      "thread_root_id": "2116652404791751094",
+      "author": {
+        "platform_id": null,
+        "display_name": "vitorizado",
+        "username": "vitorizado",
+        "profile_url": "https://x.com/vitorizado"
+      },
+      "text": "me mijando com o piores: nao da pra entender esses nordestinos",
+      "created_at": "2026-10-31T22:03:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/vitorizado/status/2116652404791751094#m",
+      "metrics": {
+        "like_count": 96,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116652404791751094",
+        "text": "me mijando com o piores: nao da pra entender esses nordestinos",
+        "author_username": "vitorizado",
+        "author_name": "vitorizado",
+        "created_at": "2026-10-31T22:03:00+00:00",
+        "permalink": "https://nitter.meowing.monster/vitorizado/status/2116652404791751094#m",
+        "metrics": {
+          "like_count": 96,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 62,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116580968840491107",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116580968840491107",
+      "parent_post_id": null,
+      "thread_root_id": "2116580968840491107",
+      "author": {
+        "platform_id": null,
+        "display_name": "DNavegacao",
+        "username": "DNavegacao",
+        "profile_url": "https://x.com/DNavegacao"
+      },
+      "text": "Deus tá vendo você boicotando esquerdistas e nordestinos e tomando gaia do pedreiro, petista e cearense.",
+      "created_at": "2026-10-31T17:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/DNavegacao/status/2116580968840491107#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116580968840491107",
+        "text": "Deus tá vendo você boicotando esquerdistas e nordestinos e tomando gaia do pedreiro, petista e cearense.",
+        "author_username": "DNavegacao",
+        "author_name": "DNavegacao",
+        "created_at": "2026-10-31T17:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DNavegacao/status/2116580968840491107#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 104,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116510539753124014",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116510539753124014",
+      "parent_post_id": null,
+      "thread_root_id": "2116510539753124014",
+      "author": {
+        "platform_id": null,
+        "display_name": "danielfonfer",
+        "username": "danielfonfer",
+        "profile_url": "https://x.com/danielfonfer"
+      },
+      "text": "também porque os nordestinos ainda escolhem uns governadores razoáveis e de currículo\n\no do Rio de Janeiro será um zé bunda qualquer sem história nem currículo algum, que dor ☠️",
+      "created_at": "2026-10-31T12:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T18:19:11-03:00",
+      "permalink": "https://nitter.meowing.monster/danielfonfer/status/2116510539753124014#m",
+      "metrics": {
+        "like_count": 80,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2116510539753124014",
+        "text": "também porque os nordestinos ainda escolhem uns governadores razoáveis e de currículo\n\no do Rio de Janeiro será um zé bunda qualquer sem história nem currículo algum, que dor ☠️",
+        "author_username": "danielfonfer",
+        "author_name": "danielfonfer",
+        "created_at": "2026-10-31T12:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/danielfonfer/status/2116510539753124014#m",
+        "metrics": {
+          "like_count": 80,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 177,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
