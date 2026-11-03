@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+    "collected_at": "2026-11-03T16:52:51-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 19
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2117696816305074252",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117696816305074252",
+      "parent_post_id": null,
+      "thread_root_id": "2117696816305074252",
+      "author": {
+        "platform_id": null,
+        "display_name": "LuisLins12",
+        "username": "LuisLins12",
+        "profile_url": "https://x.com/LuisLins12"
+      },
+      "text": "O Nordeste merece respeito! Nossa cultura, nossa história, nosso povo e nossa identidade não são motivo de piada nem de preconceito.\n\nSomos milhões de brasileiros que trabalham, produzem, constroem e fazem parte da história deste país.\n\nRespeitar o Nordeste é respeitar o Brasil!\n\nEu entrei nessa campanha. E você?\n\n📢 Compartilhe essa ideia. O respeito não pode ter fronteiras!\n\nSimbora @oficialmichelea",
+      "created_at": "2026-11-03T19:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T16:52:51-03:00",
+      "permalink": "https://nitter.meowing.monster/LuisLins12/status/2117696816305074252#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "4a97b56d-5244-4402-ba71-da6d66054df0",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2117696816305074252",
+        "text": "O Nordeste merece respeito! Nossa cultura, nossa história, nosso povo e nossa identidade não são motivo de piada nem de preconceito.\n\nSomos milhões de brasileiros que trabalham, produzem, constroem e fazem parte da história deste país.\n\nRespeitar o Nordeste é respeitar o Brasil!\n\nEu entrei nessa campanha. E você?\n\n📢 Compartilhe essa ideia. O respeito não pode ter fronteiras!\n\nSimbora @oficialmichelea",
+        "author_username": "LuisLins12",
+        "author_name": "LuisLins12",
+        "created_at": "2026-11-03T19:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LuisLins12/status/2117696816305074252#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 403,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
