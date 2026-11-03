@@ -1,0 +1,1977 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+    "collected_at": "2026-11-03T15:58:11-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 38,
+      "comments": 0,
+      "records_total": 38,
+      "skipped_duplicate": 2
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2117690502115897519",
+            "text": "Eu por exemplo até cogitava visitar umas praias do Nordeste. Mas depois dessa cambada metendo mais de 70% pra um bandido que tá roubando o país há mais >20 anos, me recuso a pisar em qualquer lugar ali. Prefiro ir em qualquer praia banhada a esgoto no litoral de SP do que lá.",
+            "author_username": "dubhghlas_br",
+            "author_name": "dubhghlas_br",
+            "created_at": "2026-11-03T18:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/dubhghlas_br/status/2117690502115897519#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117689399731241307",
+            "text": "Desgraçado! Nordeste não precisa de vcs.",
+            "author_username": "Fabrici70242229",
+            "author_name": "Fabrici70242229",
+            "created_at": "2026-11-03T18:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2117689399731241307#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117689327777935671",
+            "text": "Vamos boicotar esses caras no Nordeste. Eles já são bilionários. Mais nosso dinheiro eles não podem ver mais",
+            "author_username": "Fabrici70242229",
+            "author_name": "Fabrici70242229",
+            "created_at": "2026-11-03T18:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2117689327777935671#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117683338081128705",
+            "text": "Fora Jorge e Mateus. Não precisamos de vcs aqui no nordeste",
+            "author_username": "Fabrici70242229",
+            "author_name": "Fabrici70242229",
+            "created_at": "2026-11-03T18:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2117683338081128705#m",
+            "metrics": {
+              "like_count": 45,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2117681190794563644",
+            "text": "Jair Messias Bolsonaro \nO maior e melhor presidente do 🇧🇷\nO Nordeste era mais Feliz...",
+            "author_username": "dlrodrigues76",
+            "author_name": "dlrodrigues76",
+            "created_at": "2026-11-03T18:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/dlrodrigues76/status/2117681190794563644#m",
+            "metrics": {
+              "like_count": 325,
+              "reply_count": 0,
+              "retweet_count": 11,
+              "quote_count": 26
+            }
+          },
+          {
+            "id": "2117650249032315176",
+            "text": "Há anos os nordestinos deixam suas cidades natal e vão para outro estado em busca de condições melhores de vida. O percentual que vai pra outro estado do nordeste é baixíssimo, preferindo ir para estados do sudeste do que do sul. O que isso quer dizer? O mesmo que nesse caso, vão pra mais perto dos centros que oferecem emprego, pois são pobres, do que pra mais longe.",
+            "author_username": "alexbat27",
+            "author_name": "alexbat27",
+            "created_at": "2026-11-03T16:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/alexbat27/status/2117650249032315176#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117649932865679870",
+            "text": "Confira como ficou a Tabela de Classificação Atualizada do Brasileirão Série B \n\nAo todo, 4 times sobem da Série B para a Série A",
+            "author_username": "nordeste_liga",
+            "author_name": "nordeste_liga",
+            "created_at": "2026-11-03T16:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nordeste_liga/status/2117649932865679870#m",
+            "metrics": {
+              "like_count": 116,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2117649480589640116",
+            "text": "Cara curti umas postagens do G1 la do nordeste e região norte e maluco como tem tragédias e assassinatos naquela região é um portal do inferno que se abre na terra",
+            "author_username": "FabioPorao99",
+            "author_name": "FabioPorao99",
+            "created_at": "2026-11-03T16:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FabioPorao99/status/2117649480589640116#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2117639916087648421",
+            "text": "PRÁ MIM NORDESTE NUNCA MAIS 🇧🇷🗽🇺🇲",
+            "author_username": "francis38052899",
+            "author_name": "francis38052899",
+            "created_at": "2026-11-03T15:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/francis38052899/status/2117639916087648421#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117637690606723379",
+            "text": "Nordeste tá em terceiro lugar com a agenda deles 🤣",
+            "author_username": "Kabulozocensura",
+            "author_name": "Kabulozocensura",
+            "created_at": "2026-11-03T15:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Kabulozocensura/status/2117637690606723379#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117632316948296191",
+            "text": "olha eu não moro na zona sul, mas sim num bairro da capital mais no extreno oeste, no entando quando vier avise que posso dar uma de guia turístico. Eu nunca fia Bahia, terra mainha que esta no meu roteiro de conhecer o nordeste.",
+            "author_username": "andergsantos9",
+            "author_name": "andergsantos9",
+            "created_at": "2026-11-03T14:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/andergsantos9/status/2117632316948296191#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2117630763877224589",
+            "text": "Cadê a galera que votou e pregou voto no PT lá do Canadá pra comentar o que tá rolando no Nordeste?\n\nCaiu o wi-fi?\n\nOu compraram o silencio de vocês?",
+            "author_username": "lane_veras",
+            "author_name": "lane_veras",
+            "created_at": "2026-11-03T14:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lane_veras/status/2117630763877224589#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2117623302256554208",
+            "text": "João Pessoa/ Paraíba/ Nordeste \nJampa para os mais íntimos!",
+            "author_username": "WveltonA",
+            "author_name": "WveltonA",
+            "created_at": "2026-11-03T14:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/WveltonA/status/2117623302256554208#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117619360030245089",
+            "text": "Não ia acontecer nada. Não é só nordestino que trabalha. Eu queria ver onde vocês iam arrumar salário digno e emprego no Nordeste.",
+            "author_username": "mahtukirenedra",
+            "author_name": "mahtukirenedra",
+            "created_at": "2026-11-03T14:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mahtukirenedra/status/2117619360030245089#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117615629016371638",
+            "text": "Eu sendo criticada no trabalho porque sempre viajo nas férias para rever a família no Nordeste e viajar junto deles.",
+            "author_username": "Silviamae",
+            "author_name": "Silviamae",
+            "created_at": "2026-11-03T13:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Silviamae/status/2117615629016371638#m",
+            "metrics": {
+              "like_count": 192,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117612493090500754",
+            "text": "SE O SUL E SUDESTE SE SEPARAR DO BRASIL QUEM VAI SUSTENTAR OS VAGABUNDOS, MORTO DE FOME DO NORTE E NORDESTE???",
+            "author_username": "DaVauires",
+            "author_name": "DaVauires",
+            "created_at": "2026-11-03T13:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DaVauires/status/2117612493090500754#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117609630482169858",
+            "text": "Só lembrando que o balneário Camboriú é onde tem a nata do extremismo, mas se a maioria quer a independência, primeiro nos devolvam os valores das terras que foram doadas para a agricultura e pecuária. Se o Nordeste deixasse de  consumir o que o sul produz, esse quebrava.",
+            "author_username": "paulo47araujo",
+            "author_name": "paulo47araujo",
+            "created_at": "2026-11-03T13:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2117609630482169858#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117607225178927290",
+            "text": "vocês sabem que vai ter boicote nesse show né? vai floppar tanto que vão sentir vergonha do que falaram do nordeste",
+            "author_username": "excamarata",
+            "author_name": "excamarata",
+            "created_at": "2026-11-03T13:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/excamarata/status/2117607225178927290#m",
+            "metrics": {
+              "like_count": 154,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2117598782913216850",
+            "text": "OLHA AS SEMIS! 👀 Os jogos de ida da Copa do Brasil vão começar nesta terça, com a decisão neste próximo final de semana",
+            "author_username": "nordeste_liga",
+            "author_name": "nordeste_liga",
+            "created_at": "2026-11-03T12:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nordeste_liga/status/2117598782913216850#m",
+            "metrics": {
+              "like_count": 162,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2117581305231659208",
+            "text": "NORDESTE MERECE RESPEITO!",
+            "author_username": "brunobuypantoja",
+            "author_name": "brunobuypantoja",
+            "created_at": "2026-11-03T11:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/brunobuypantoja/status/2117581305231659208#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117554343268298971",
+            "text": "NORDESTE MERECE RESPEITO!\n\nPrefeito, cancele Jorge e Mateus!\nAntes de respeitar as diferenças é preciso preservar nossa dignidade.",
+            "author_username": "brunobuypantoja",
+            "author_name": "brunobuypantoja",
+            "created_at": "2026-11-03T09:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/brunobuypantoja/status/2117554343268298971#m",
+            "metrics": {
+              "like_count": 160,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2117552905016295684",
+            "text": "NORDESTE MERECE RESPEITO!\n\nCancela, Jorge e Mateus!!!",
+            "author_username": "brunobuypantoja",
+            "author_name": "brunobuypantoja",
+            "created_at": "2026-11-03T09:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/brunobuypantoja/status/2117552905016295684#m",
+            "metrics": {
+              "like_count": 415,
+              "reply_count": 3,
+              "retweet_count": 1,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2117478636596936867",
+            "text": "Não, Haddad teve 109.744 a mais. Só que Bolsonaro foi melhor que Aécio no Nordeste em 2018, aí a vantagem do PT diminuiu.",
+            "author_username": "Jotapeeoliveira",
+            "author_name": "Jotapeeoliveira",
+            "created_at": "2026-11-03T04:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117478636596936867#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117477312279011573",
+            "text": "Nordeste tirou onda 👏🏻",
+            "author_username": "Jotapeeoliveira",
+            "author_name": "Jotapeeoliveira",
+            "created_at": "2026-11-03T04:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117477312279011573#m",
+            "metrics": {
+              "like_count": 53,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117450249706893386",
+            "text": "Vai fazer outra campanha pedindo esmola pix pra ir para o nordeste seu atorzinho falido de merda?",
+            "author_username": "jorge_a_oliver",
+            "author_name": "jorge_a_oliver",
+            "created_at": "2026-11-03T02:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jorge_a_oliver/status/2117450249706893386#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117428852934803843",
+            "text": "Nem um pão velho para os mamadores de emenda . Nordeste não!",
+            "author_username": "eijessicalenne",
+            "author_name": "eijessicalenne",
+            "created_at": "2026-11-03T01:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/eijessicalenne/status/2117428852934803843#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117427811707175335",
+            "text": "Há 2 anos, Jão se apresentava no Festival Tamo Junto BB, em Natal.",
+            "author_username": "jaonordeste",
+            "author_name": "jaonordeste",
+            "created_at": "2026-11-03T01:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jaonordeste/status/2117427811707175335#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2117413547831370145",
+            "text": "A Capital mais FODA do Nordeste! ❤️",
+            "author_username": "andrelima77",
+            "author_name": "andrelima77",
+            "created_at": "2026-11-03T00:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/andrelima77/status/2117413547831370145#m",
+            "metrics": {
+              "like_count": 313,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2117398361342902297",
+            "text": "Amo o Nordeste! Amo o Brasil!",
+            "author_username": "mafercosta_1965",
+            "author_name": "mafercosta_1965",
+            "created_at": "2026-11-02T23:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mafercosta_1965/status/2117398361342902297#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2117381545191153673",
+            "text": "O que leva um técnico, seja pra conseguir um acesso ou se livrar de um rebaixamento, improvisar na lateral esquerda, um atleta que não é, e não tem características de ser?! Pensando em usá-los como extremo?! Não! Ala?! Naão!\nCombinaram, Autuori e Daniel? @CearaSC\n@FortalezaEC",
+            "author_username": "HugodoVale1",
+            "author_name": "HugodoVale1",
+            "created_at": "2026-11-02T22:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/HugodoVale1/status/2117381545191153673#m",
+            "metrics": {
+              "like_count": 535,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2117375346354061375",
+            "text": "Espero que ela fique atenta ao nordeste e a Paraíba.",
+            "author_username": "Mariene22",
+            "author_name": "Mariene22",
+            "created_at": "2026-11-02T21:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Mariene22/status/2117375346354061375#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117369281075613910",
+            "text": "Aff como eu não suporto viver no nordeste.",
+            "author_username": "i_belnas",
+            "author_name": "i_belnas",
+            "created_at": "2026-11-02T21:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/i_belnas/status/2117369281075613910#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2117358654051741911",
+            "text": "Os voos para o nordeste foram cancelados, mas o que levou o ladrão tava já planejado.\n\nQue timing.",
+            "author_username": "promovido",
+            "author_name": "promovido",
+            "created_at": "2026-11-02T20:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/promovido/status/2117358654051741911#m",
+            "metrics": {
+              "like_count": 154,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2117358533268173093",
+            "text": "Nordeste mandou bem demais!",
+            "author_username": "Jotapeeoliveira",
+            "author_name": "Jotapeeoliveira",
+            "created_at": "2026-11-02T20:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117358533268173093#m",
+            "metrics": {
+              "like_count": 538,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117356777222115822",
+            "text": "O Nordeste representa demais! 👏🏻",
+            "author_username": "Jotapeeoliveira",
+            "author_name": "Jotapeeoliveira",
+            "created_at": "2026-11-02T20:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117356777222115822#m",
+            "metrics": {
+              "like_count": 984,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2117350836557041995",
+            "text": "Nordeste,mostra a tua força",
+            "author_username": "barrosorg",
+            "author_name": "barrosorg",
+            "created_at": "2026-11-02T20:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/barrosorg/status/2117350836557041995#m",
+            "metrics": {
+              "like_count": 99,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2117336140277596478",
+            "text": "Meu irmão a verdade é que ela poderia falar do Rui e do Wagner, os dois possuem um projeção nacional com seus cargos, mas aí incluir, PT BAHIA, sinceramente, foi leviana... E obrigado pelo burrão. Nós do Nordeste  reconhecemos que apesar da incompetência do PT nos estados do Sudeste, Sul, centro Oeste, vocês que se resolvam... Porque entendemos que já temos muito trabalho e problemas pra resolver... E vcs que se resolvam. Acordem e não fica só de campanhazinha em ano eleitoral não, porque, o PT BAHIA, trabalha todos os dias... Que apesar de sermos chamados de preguiçosos, entendemos que sem trabalho, não venceríamos o Carlismo no nosso Estado.",
+            "author_username": "ericck_soares",
+            "author_name": "ericck_soares",
+            "created_at": "2026-11-02T19:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ericck_soares/status/2117336140277596478#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117332032220971516",
+            "text": "Não vou perder meu tempo... Explicando que o PT no nordeste é um sucesso... E que o Sudeste tem que criar vergonha e resolver seus BO's...",
+            "author_username": "ericck_soares",
+            "author_name": "ericck_soares",
+            "created_at": "2026-11-02T19:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ericck_soares/status/2117332032220971516#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2117325814282789041",
+            "text": "Lula recebeu 24.450.432 votos no Nordeste no segundo turno. Foi a maior votação de um candidato da esquerda na região, em números absolutos, desde 1989.",
+            "author_username": "Jotapeeoliveira",
+            "author_name": "Jotapeeoliveira",
+            "created_at": "2026-11-02T18:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117325814282789041#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 151
+            }
+          },
+          {
+            "id": "2117324374642712593",
+            "text": "Histórico da esquerda no Nordeste 👇🏻",
+            "author_username": "Jotapeeoliveira",
+            "author_name": "Jotapeeoliveira",
+            "created_at": "2026-11-02T18:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117324374642712593#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 15
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 2,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "nordeste_agora_foco_20261028"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2117690502115897519",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117690502115897519",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117690502115897519",
+        "text": "Eu por exemplo até cogitava visitar umas praias do Nordeste. Mas depois dessa cambada metendo mais de 70% pra um bandido que tá roubando o país há mais >20 anos, me recuso a pisar em qualquer lugar ali. Prefiro ir em qualquer praia banhada a esgoto no litoral de SP do que lá.",
+        "author_username": "dubhghlas_br",
+        "author_name": "dubhghlas_br",
+        "created_at": "2026-11-03T18:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/dubhghlas_br/status/2117690502115897519#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117689399731241307",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117689399731241307",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117689399731241307",
+        "text": "Desgraçado! Nordeste não precisa de vcs.",
+        "author_username": "Fabrici70242229",
+        "author_name": "Fabrici70242229",
+        "created_at": "2026-11-03T18:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2117689399731241307#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117689327777935671",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117689327777935671",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117689327777935671",
+        "text": "Vamos boicotar esses caras no Nordeste. Eles já são bilionários. Mais nosso dinheiro eles não podem ver mais",
+        "author_username": "Fabrici70242229",
+        "author_name": "Fabrici70242229",
+        "created_at": "2026-11-03T18:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2117689327777935671#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117683338081128705",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117683338081128705",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117683338081128705",
+        "text": "Fora Jorge e Mateus. Não precisamos de vcs aqui no nordeste",
+        "author_username": "Fabrici70242229",
+        "author_name": "Fabrici70242229",
+        "created_at": "2026-11-03T18:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Fabrici70242229/status/2117683338081128705#m",
+        "metrics": {
+          "like_count": 45,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117681190794563644",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117681190794563644",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117681190794563644",
+        "text": "Jair Messias Bolsonaro \nO maior e melhor presidente do 🇧🇷\nO Nordeste era mais Feliz...",
+        "author_username": "dlrodrigues76",
+        "author_name": "dlrodrigues76",
+        "created_at": "2026-11-03T18:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/dlrodrigues76/status/2117681190794563644#m",
+        "metrics": {
+          "like_count": 325,
+          "reply_count": 0,
+          "retweet_count": 11,
+          "quote_count": 26
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117650249032315176",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117650249032315176",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117650249032315176",
+        "text": "Há anos os nordestinos deixam suas cidades natal e vão para outro estado em busca de condições melhores de vida. O percentual que vai pra outro estado do nordeste é baixíssimo, preferindo ir para estados do sudeste do que do sul. O que isso quer dizer? O mesmo que nesse caso, vão pra mais perto dos centros que oferecem emprego, pois são pobres, do que pra mais longe.",
+        "author_username": "alexbat27",
+        "author_name": "alexbat27",
+        "created_at": "2026-11-03T16:08:00+00:00",
+        "permalink": "https://nitter.meowing.monster/alexbat27/status/2117650249032315176#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117649932865679870",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117649932865679870",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117649932865679870",
+        "text": "Confira como ficou a Tabela de Classificação Atualizada do Brasileirão Série B \n\nAo todo, 4 times sobem da Série B para a Série A",
+        "author_username": "nordeste_liga",
+        "author_name": "nordeste_liga",
+        "created_at": "2026-11-03T16:07:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nordeste_liga/status/2117649932865679870#m",
+        "metrics": {
+          "like_count": 116,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 5
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117649480589640116",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117649480589640116",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117649480589640116",
+        "text": "Cara curti umas postagens do G1 la do nordeste e região norte e maluco como tem tragédias e assassinatos naquela região é um portal do inferno que se abre na terra",
+        "author_username": "FabioPorao99",
+        "author_name": "FabioPorao99",
+        "created_at": "2026-11-03T16:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FabioPorao99/status/2117649480589640116#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117639916087648421",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117639916087648421",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117639916087648421",
+        "text": "PRÁ MIM NORDESTE NUNCA MAIS 🇧🇷🗽🇺🇲",
+        "author_username": "francis38052899",
+        "author_name": "francis38052899",
+        "created_at": "2026-11-03T15:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/francis38052899/status/2117639916087648421#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117637690606723379",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117637690606723379",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117637690606723379",
+        "text": "Nordeste tá em terceiro lugar com a agenda deles 🤣",
+        "author_username": "Kabulozocensura",
+        "author_name": "Kabulozocensura",
+        "created_at": "2026-11-03T15:19:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Kabulozocensura/status/2117637690606723379#m",
+        "metrics": {
+          "like_count": 26,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117632316948296191",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117632316948296191",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117632316948296191",
+        "text": "olha eu não moro na zona sul, mas sim num bairro da capital mais no extreno oeste, no entando quando vier avise que posso dar uma de guia turístico. Eu nunca fia Bahia, terra mainha que esta no meu roteiro de conhecer o nordeste.",
+        "author_username": "andergsantos9",
+        "author_name": "andergsantos9",
+        "created_at": "2026-11-03T14:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/andergsantos9/status/2117632316948296191#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117623302256554208",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117623302256554208",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117623302256554208",
+        "text": "João Pessoa/ Paraíba/ Nordeste \nJampa para os mais íntimos!",
+        "author_username": "WveltonA",
+        "author_name": "WveltonA",
+        "created_at": "2026-11-03T14:21:00+00:00",
+        "permalink": "https://nitter.meowing.monster/WveltonA/status/2117623302256554208#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117615629016371638",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117615629016371638",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117615629016371638",
+        "text": "Eu sendo criticada no trabalho porque sempre viajo nas férias para rever a família no Nordeste e viajar junto deles.",
+        "author_username": "Silviamae",
+        "author_name": "Silviamae",
+        "created_at": "2026-11-03T13:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Silviamae/status/2117615629016371638#m",
+        "metrics": {
+          "like_count": 192,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117612493090500754",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117612493090500754",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117612493090500754",
+        "text": "SE O SUL E SUDESTE SE SEPARAR DO BRASIL QUEM VAI SUSTENTAR OS VAGABUNDOS, MORTO DE FOME DO NORTE E NORDESTE???",
+        "author_username": "DaVauires",
+        "author_name": "DaVauires",
+        "created_at": "2026-11-03T13:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DaVauires/status/2117612493090500754#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117609630482169858",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117609630482169858",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117609630482169858",
+        "text": "Só lembrando que o balneário Camboriú é onde tem a nata do extremismo, mas se a maioria quer a independência, primeiro nos devolvam os valores das terras que foram doadas para a agricultura e pecuária. Se o Nordeste deixasse de  consumir o que o sul produz, esse quebrava.",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-11-03T13:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2117609630482169858#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117607225178927290",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117607225178927290",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117607225178927290",
+        "text": "vocês sabem que vai ter boicote nesse show né? vai floppar tanto que vão sentir vergonha do que falaram do nordeste",
+        "author_username": "excamarata",
+        "author_name": "excamarata",
+        "created_at": "2026-11-03T13:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/excamarata/status/2117607225178927290#m",
+        "metrics": {
+          "like_count": 154,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117598782913216850",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117598782913216850",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117598782913216850",
+        "text": "OLHA AS SEMIS! 👀 Os jogos de ida da Copa do Brasil vão começar nesta terça, com a decisão neste próximo final de semana",
+        "author_username": "nordeste_liga",
+        "author_name": "nordeste_liga",
+        "created_at": "2026-11-03T12:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nordeste_liga/status/2117598782913216850#m",
+        "metrics": {
+          "like_count": 162,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 6
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117581305231659208",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117581305231659208",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117581305231659208",
+        "text": "NORDESTE MERECE RESPEITO!",
+        "author_username": "brunobuypantoja",
+        "author_name": "brunobuypantoja",
+        "created_at": "2026-11-03T11:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/brunobuypantoja/status/2117581305231659208#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117554343268298971",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117554343268298971",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117554343268298971",
+        "text": "NORDESTE MERECE RESPEITO!\n\nPrefeito, cancele Jorge e Mateus!\nAntes de respeitar as diferenças é preciso preservar nossa dignidade.",
+        "author_username": "brunobuypantoja",
+        "author_name": "brunobuypantoja",
+        "created_at": "2026-11-03T09:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/brunobuypantoja/status/2117554343268298971#m",
+        "metrics": {
+          "like_count": 160,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117552905016295684",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117552905016295684",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117552905016295684",
+        "text": "NORDESTE MERECE RESPEITO!\n\nCancela, Jorge e Mateus!!!",
+        "author_username": "brunobuypantoja",
+        "author_name": "brunobuypantoja",
+        "created_at": "2026-11-03T09:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/brunobuypantoja/status/2117552905016295684#m",
+        "metrics": {
+          "like_count": 415,
+          "reply_count": 3,
+          "retweet_count": 1,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117478636596936867",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117478636596936867",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117478636596936867",
+        "text": "Não, Haddad teve 109.744 a mais. Só que Bolsonaro foi melhor que Aécio no Nordeste em 2018, aí a vantagem do PT diminuiu.",
+        "author_username": "Jotapeeoliveira",
+        "author_name": "Jotapeeoliveira",
+        "created_at": "2026-11-03T04:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117478636596936867#m",
+        "metrics": {
+          "like_count": 68,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117477312279011573",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117477312279011573",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117477312279011573",
+        "text": "Nordeste tirou onda 👏🏻",
+        "author_username": "Jotapeeoliveira",
+        "author_name": "Jotapeeoliveira",
+        "created_at": "2026-11-03T04:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117477312279011573#m",
+        "metrics": {
+          "like_count": 53,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117450249706893386",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117450249706893386",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117450249706893386",
+        "text": "Vai fazer outra campanha pedindo esmola pix pra ir para o nordeste seu atorzinho falido de merda?",
+        "author_username": "jorge_a_oliver",
+        "author_name": "jorge_a_oliver",
+        "created_at": "2026-11-03T02:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jorge_a_oliver/status/2117450249706893386#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117428852934803843",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117428852934803843",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117428852934803843",
+        "text": "Nem um pão velho para os mamadores de emenda . Nordeste não!",
+        "author_username": "eijessicalenne",
+        "author_name": "eijessicalenne",
+        "created_at": "2026-11-03T01:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/eijessicalenne/status/2117428852934803843#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117427811707175335",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117427811707175335",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117427811707175335",
+        "text": "Há 2 anos, Jão se apresentava no Festival Tamo Junto BB, em Natal.",
+        "author_username": "jaonordeste",
+        "author_name": "jaonordeste",
+        "created_at": "2026-11-03T01:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jaonordeste/status/2117427811707175335#m",
+        "metrics": {
+          "like_count": 40,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117413547831370145",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117413547831370145",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117413547831370145",
+        "text": "A Capital mais FODA do Nordeste! ❤️",
+        "author_username": "andrelima77",
+        "author_name": "andrelima77",
+        "created_at": "2026-11-03T00:28:00+00:00",
+        "permalink": "https://nitter.meowing.monster/andrelima77/status/2117413547831370145#m",
+        "metrics": {
+          "like_count": 313,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117398361342902297",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117398361342902297",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117398361342902297",
+        "text": "Amo o Nordeste! Amo o Brasil!",
+        "author_username": "mafercosta_1965",
+        "author_name": "mafercosta_1965",
+        "created_at": "2026-11-02T23:28:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mafercosta_1965/status/2117398361342902297#m",
+        "metrics": {
+          "like_count": 37,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117381545191153673",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117381545191153673",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117381545191153673",
+        "text": "O que leva um técnico, seja pra conseguir um acesso ou se livrar de um rebaixamento, improvisar na lateral esquerda, um atleta que não é, e não tem características de ser?! Pensando em usá-los como extremo?! Não! Ala?! Naão!\nCombinaram, Autuori e Daniel? @CearaSC\n@FortalezaEC",
+        "author_username": "HugodoVale1",
+        "author_name": "HugodoVale1",
+        "created_at": "2026-11-02T22:21:00+00:00",
+        "permalink": "https://nitter.meowing.monster/HugodoVale1/status/2117381545191153673#m",
+        "metrics": {
+          "like_count": 535,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117375346354061375",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117375346354061375",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117375346354061375",
+        "text": "Espero que ela fique atenta ao nordeste e a Paraíba.",
+        "author_username": "Mariene22",
+        "author_name": "Mariene22",
+        "created_at": "2026-11-02T21:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Mariene22/status/2117375346354061375#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117369281075613910",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117369281075613910",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117369281075613910",
+        "text": "Aff como eu não suporto viver no nordeste.",
+        "author_username": "i_belnas",
+        "author_name": "i_belnas",
+        "created_at": "2026-11-02T21:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/i_belnas/status/2117369281075613910#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117358654051741911",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117358654051741911",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117358654051741911",
+        "text": "Os voos para o nordeste foram cancelados, mas o que levou o ladrão tava já planejado.\n\nQue timing.",
+        "author_username": "promovido",
+        "author_name": "promovido",
+        "created_at": "2026-11-02T20:50:00+00:00",
+        "permalink": "https://nitter.meowing.monster/promovido/status/2117358654051741911#m",
+        "metrics": {
+          "like_count": 154,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117358533268173093",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117358533268173093",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117358533268173093",
+        "text": "Nordeste mandou bem demais!",
+        "author_username": "Jotapeeoliveira",
+        "author_name": "Jotapeeoliveira",
+        "created_at": "2026-11-02T20:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117358533268173093#m",
+        "metrics": {
+          "like_count": 538,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117356777222115822",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117356777222115822",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117356777222115822",
+        "text": "O Nordeste representa demais! 👏🏻",
+        "author_username": "Jotapeeoliveira",
+        "author_name": "Jotapeeoliveira",
+        "created_at": "2026-11-02T20:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117356777222115822#m",
+        "metrics": {
+          "like_count": 984,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117350836557041995",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117350836557041995",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117350836557041995",
+        "text": "Nordeste,mostra a tua força",
+        "author_username": "barrosorg",
+        "author_name": "barrosorg",
+        "created_at": "2026-11-02T20:19:00+00:00",
+        "permalink": "https://nitter.meowing.monster/barrosorg/status/2117350836557041995#m",
+        "metrics": {
+          "like_count": 99,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117336140277596478",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117336140277596478",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117336140277596478",
+        "text": "Meu irmão a verdade é que ela poderia falar do Rui e do Wagner, os dois possuem um projeção nacional com seus cargos, mas aí incluir, PT BAHIA, sinceramente, foi leviana... E obrigado pelo burrão. Nós do Nordeste  reconhecemos que apesar da incompetência do PT nos estados do Sudeste, Sul, centro Oeste, vocês que se resolvam... Porque entendemos que já temos muito trabalho e problemas pra resolver... E vcs que se resolvam. Acordem e não fica só de campanhazinha em ano eleitoral não, porque, o PT BAHIA, trabalha todos os dias... Que apesar de sermos chamados de preguiçosos, entendemos que sem trabalho, não venceríamos o Carlismo no nosso Estado.",
+        "author_username": "ericck_soares",
+        "author_name": "ericck_soares",
+        "created_at": "2026-11-02T19:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ericck_soares/status/2117336140277596478#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117332032220971516",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117332032220971516",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "pl",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117332032220971516",
+        "text": "Não vou perder meu tempo... Explicando que o PT no nordeste é um sucesso... E que o Sudeste tem que criar vergonha e resolver seus BO's...",
+        "author_username": "ericck_soares",
+        "author_name": "ericck_soares",
+        "created_at": "2026-11-02T19:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ericck_soares/status/2117332032220971516#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117325814282789041",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117325814282789041",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117325814282789041",
+        "text": "Lula recebeu 24.450.432 votos no Nordeste no segundo turno. Foi a maior votação de um candidato da esquerda na região, em números absolutos, desde 1989.",
+        "author_username": "Jotapeeoliveira",
+        "author_name": "Jotapeeoliveira",
+        "created_at": "2026-11-02T18:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117325814282789041#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 151
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2117324374642712593",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117324374642712593",
+      "collected_at": "2026-11-03T15:58:11-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "e38dd814-1d08-4304-aafd-431af85fe821",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117324374642712593",
+        "text": "Histórico da esquerda no Nordeste 👇🏻",
+        "author_username": "Jotapeeoliveira",
+        "author_name": "Jotapeeoliveira",
+        "created_at": "2026-11-02T18:34:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Jotapeeoliveira/status/2117324374642712593#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 15
+        }
+      }
+    }
+  ],
+  "comments": []
+}
