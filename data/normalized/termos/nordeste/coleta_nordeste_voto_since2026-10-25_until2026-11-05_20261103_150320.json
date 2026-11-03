@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste voto",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+    "collected_at": "2026-11-03T15:03:20-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 6
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2117630763877224589",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117630763877224589",
+      "parent_post_id": null,
+      "thread_root_id": "2117630763877224589",
+      "author": {
+        "platform_id": null,
+        "display_name": "lane_veras",
+        "username": "lane_veras",
+        "profile_url": "https://x.com/lane_veras"
+      },
+      "text": "Cadê a galera que votou e pregou voto no PT lá do Canadá pra comentar o que tá rolando no Nordeste?\n\nCaiu o wi-fi?\n\nOu compraram o silencio de vocês?",
+      "created_at": "2026-11-03T14:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T15:03:20-03:00",
+      "permalink": "https://nitter.meowing.monster/lane_veras/status/2117630763877224589#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste voto",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2117630763877224589",
+        "text": "Cadê a galera que votou e pregou voto no PT lá do Canadá pra comentar o que tá rolando no Nordeste?\n\nCaiu o wi-fi?\n\nOu compraram o silencio de vocês?",
+        "author_username": "lane_veras",
+        "author_name": "lane_veras",
+        "created_at": "2026-11-03T14:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/lane_veras/status/2117630763877224589#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 149,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117197319569289542",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117197319569289542",
+      "parent_post_id": null,
+      "thread_root_id": "2117197319569289542",
+      "author": {
+        "platform_id": null,
+        "display_name": "edjogado",
+        "username": "edjogado",
+        "profile_url": "https://x.com/edjogado"
+      },
+      "text": "Ai daqui 4 anos vocês mais um videozinho igual o do Nikolas pedindo voto no Nordeste de novo LKKKKKKKKKKKKKKKKKKKKKKKJKKKKKKKKKKKKK",
+      "created_at": "2026-11-02T10:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T15:03:20-03:00",
+      "permalink": "https://nitter.meowing.monster/edjogado/status/2117197319569289542#m",
+      "metrics": {
+        "like_count": 22,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste voto",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2117197319569289542",
+        "text": "Ai daqui 4 anos vocês mais um videozinho igual o do Nikolas pedindo voto no Nordeste de novo LKKKKKKKKKKKKKKKKKKKKKKKJKKKKKKKKKKKKK",
+        "author_username": "edjogado",
+        "author_name": "edjogado",
+        "created_at": "2026-11-02T10:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/edjogado/status/2117197319569289542#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 131,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
