@@ -1,0 +1,684 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+    "collected_at": "2026-11-03T15:49:53-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 10,
+      "comments": 0,
+      "records_total": 10,
+      "skipped_duplicate": 9
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2117449979782447555",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117449979782447555",
+      "parent_post_id": null,
+      "thread_root_id": "2117449979782447555",
+      "author": {
+        "platform_id": null,
+        "display_name": "AdrianaR15084",
+        "username": "AdrianaR15084",
+        "profile_url": "https://x.com/AdrianaR15084"
+      },
+      "text": "🤣eu sou nordestina e de direita ,eu volto é 💩 oxente !",
+      "created_at": "2026-11-03T02:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T15:49:53-03:00",
+      "permalink": "https://nitter.mie.foundation/AdrianaR15084/status/2117449979782447555#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "direita",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2117449979782447555",
+        "text": "🤣eu sou nordestina e de direita ,eu volto é 💩 oxente !",
+        "author_username": "AdrianaR15084",
+        "author_name": "AdrianaR15084",
+        "created_at": "2026-11-03T02:53:00+00:00",
+        "permalink": "https://nitter.mie.foundation/AdrianaR15084/status/2117449979782447555#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 54,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117435785733390430",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117435785733390430",
+      "parent_post_id": null,
+      "thread_root_id": "2117435785733390430",
+      "author": {
+        "platform_id": null,
+        "display_name": "FTudodebom34317",
+        "username": "FTudodebom34317",
+        "profile_url": "https://x.com/FTudodebom34317"
+      },
+      "text": "Tenho um orgulho arretado da minha Nação Nordestina ❤️🏜️🇧🇷",
+      "created_at": "2026-11-03T01:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T15:49:53-03:00",
+      "permalink": "https://nitter.mie.foundation/FTudodebom34317/status/2117435785733390430#m",
+      "metrics": {
+        "like_count": 21,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2117435785733390430",
+        "text": "Tenho um orgulho arretado da minha Nação Nordestina ❤️🏜️🇧🇷",
+        "author_username": "FTudodebom34317",
+        "author_name": "FTudodebom34317",
+        "created_at": "2026-11-03T01:56:00+00:00",
+        "permalink": "https://nitter.mie.foundation/FTudodebom34317/status/2117435785733390430#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 58,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117288431357186285",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117288431357186285",
+      "parent_post_id": null,
+      "thread_root_id": "2117288431357186285",
+      "author": {
+        "platform_id": null,
+        "display_name": "euoismael",
+        "username": "euoismael",
+        "profile_url": "https://x.com/euoismael"
+      },
+      "text": "Ho amor quando eu disse respondendo o querido que não era nordestina eu me referi que é algo que não se usa em todo o nordeste e sim algo mais local, mas,  se você tá falando que em Alagoas usa também, ok tá tudo bem xeru",
+      "created_at": "2026-11-02T16:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T15:49:53-03:00",
+      "permalink": "https://nitter.mie.foundation/euoismael/status/2117288431357186285#m",
+      "metrics": {
+        "like_count": 42,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2117288431357186285",
+        "text": "Ho amor quando eu disse respondendo o querido que não era nordestina eu me referi que é algo que não se usa em todo o nordeste e sim algo mais local, mas,  se você tá falando que em Alagoas usa também, ok tá tudo bem xeru",
+        "author_username": "euoismael",
+        "author_name": "euoismael",
+        "created_at": "2026-11-02T16:11:00+00:00",
+        "permalink": "https://nitter.mie.foundation/euoismael/status/2117288431357186285#m",
+        "metrics": {
+          "like_count": 42,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 221,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117045529389781207",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117045529389781207",
+      "parent_post_id": null,
+      "thread_root_id": "2117045529389781207",
+      "author": {
+        "platform_id": null,
+        "display_name": "euoismael",
+        "username": "euoismael",
+        "profile_url": "https://x.com/euoismael"
+      },
+      "text": "então não é uma giria nordestina é uma gíria de fortaleza é diferente",
+      "created_at": "2026-11-02T00:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T15:49:53-03:00",
+      "permalink": "https://nitter.mie.foundation/euoismael/status/2117045529389781207#m",
+      "metrics": {
+        "like_count": 968,
+        "reply_count": 7,
+        "retweet_count": 0,
+        "quote_count": 13
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2117045529389781207",
+        "text": "então não é uma giria nordestina é uma gíria de fortaleza é diferente",
+        "author_username": "euoismael",
+        "author_name": "euoismael",
+        "created_at": "2026-11-02T00:06:00+00:00",
+        "permalink": "https://nitter.mie.foundation/euoismael/status/2117045529389781207#m",
+        "metrics": {
+          "like_count": 968,
+          "reply_count": 7,
+          "retweet_count": 0,
+          "quote_count": 13
+        }
+      },
+      "normalized": {
+        "text_length": 69,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116983533470146675",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116983533470146675",
+      "parent_post_id": null,
+      "thread_root_id": "2116983533470146675",
+      "author": {
+        "platform_id": null,
+        "display_name": "AndradeAid84754",
+        "username": "AndradeAid84754",
+        "profile_url": "https://x.com/AndradeAid84754"
+      },
+      "text": "Sou Nordestina e digo: Façam turismo INTERNO no proprio  NORDESTE. \nQuem mora aqui só compra de BOLSONARISTA!",
+      "created_at": "2026-11-01T19:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T15:49:53-03:00",
+      "permalink": "https://nitter.mie.foundation/AndradeAid84754/status/2116983533470146675#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2116983533470146675",
+        "text": "Sou Nordestina e digo: Façam turismo INTERNO no proprio  NORDESTE. \nQuem mora aqui só compra de BOLSONARISTA!",
+        "author_username": "AndradeAid84754",
+        "author_name": "AndradeAid84754",
+        "created_at": "2026-11-01T19:59:00+00:00",
+        "permalink": "https://nitter.mie.foundation/AndradeAid84754/status/2116983533470146675#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 109,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116659605111500850",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116659605111500850",
+      "parent_post_id": null,
+      "thread_root_id": "2116659605111500850",
+      "author": {
+        "platform_id": null,
+        "display_name": "DinnaRb",
+        "username": "DinnaRb",
+        "profile_url": "https://x.com/DinnaRb"
+      },
+      "text": "Verdade! Eu sou nordestina de São Luis/MA, frequento um pequeno empório, que fica dentro da CEASA, de um mineiro chamado Haroldo, toda vez que vou lá comprar os queijos maravilhosos que só o mineiro tem, ele me faz sentar, me enche de bolinhos e de outras delícias e a conversa rola solta, kkkkkk, qndo disse que pretendo conhecer Ouro Preto ela já providenciou até hospedagem na casa da filha, ele e a esposa são dois queridos!",
+      "created_at": "2026-10-31T22:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T15:49:53-03:00",
+      "permalink": "https://nitter.mie.foundation/DinnaRb/status/2116659605111500850#m",
+      "metrics": {
+        "like_count": 44,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2116659605111500850",
+        "text": "Verdade! Eu sou nordestina de São Luis/MA, frequento um pequeno empório, que fica dentro da CEASA, de um mineiro chamado Haroldo, toda vez que vou lá comprar os queijos maravilhosos que só o mineiro tem, ele me faz sentar, me enche de bolinhos e de outras delícias e a conversa rola solta, kkkkkk, qndo disse que pretendo conhecer Ouro Preto ela já providenciou até hospedagem na casa da filha, ele e a esposa são dois queridos!",
+        "author_username": "DinnaRb",
+        "author_name": "DinnaRb",
+        "created_at": "2026-10-31T22:32:00+00:00",
+        "permalink": "https://nitter.mie.foundation/DinnaRb/status/2116659605111500850#m",
+        "metrics": {
+          "like_count": 44,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 428,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116627713968460037",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116627713968460037",
+      "parent_post_id": null,
+      "thread_root_id": "2116627713968460037",
+      "author": {
+        "platform_id": null,
+        "display_name": "CassiusOliveira",
+        "username": "CassiusOliveira",
+        "profile_url": "https://x.com/CassiusOliveira"
+      },
+      "text": "SPORT, a Resistência Nordestina",
+      "created_at": "2026-10-31T20:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T15:49:53-03:00",
+      "permalink": "https://nitter.mie.foundation/CassiusOliveira/status/2116627713968460037#m",
+      "metrics": {
+        "like_count": 58,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2116627713968460037",
+        "text": "SPORT, a Resistência Nordestina",
+        "author_username": "CassiusOliveira",
+        "author_name": "CassiusOliveira",
+        "created_at": "2026-10-31T20:25:00+00:00",
+        "permalink": "https://nitter.mie.foundation/CassiusOliveira/status/2116627713968460037#m",
+        "metrics": {
+          "like_count": 58,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 31,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116598581322813930",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116598581322813930",
+      "parent_post_id": null,
+      "thread_root_id": "2116598581322813930",
+      "author": {
+        "platform_id": null,
+        "display_name": "alecbjr10",
+        "username": "alecbjr10",
+        "profile_url": "https://x.com/alecbjr10"
+      },
+      "text": "Mulher nordestina é um caminho sem volta",
+      "created_at": "2026-10-31T18:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T15:49:53-03:00",
+      "permalink": "https://nitter.mie.foundation/alecbjr10/status/2116598581322813930#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2116598581322813930",
+        "text": "Mulher nordestina é um caminho sem volta",
+        "author_username": "alecbjr10",
+        "author_name": "alecbjr10",
+        "created_at": "2026-10-31T18:30:00+00:00",
+        "permalink": "https://nitter.mie.foundation/alecbjr10/status/2116598581322813930#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 40,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116594150183203221",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116594150183203221",
+      "parent_post_id": null,
+      "thread_root_id": "2116594150183203221",
+      "author": {
+        "platform_id": null,
+        "display_name": "ngelaMariaDiLo1",
+        "username": "ngelaMariaDiLo1",
+        "profile_url": "https://x.com/ngelaMariaDiLo1"
+      },
+      "text": "NAO COMPRA NÃO PIRIGUETE, NORDESTINA DO DIABO.",
+      "created_at": "2026-10-31T18:12:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T15:49:53-03:00",
+      "permalink": "https://nitter.mie.foundation/ngelaMariaDiLo1/status/2116594150183203221#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2116594150183203221",
+        "text": "NAO COMPRA NÃO PIRIGUETE, NORDESTINA DO DIABO.",
+        "author_username": "ngelaMariaDiLo1",
+        "author_name": "ngelaMariaDiLo1",
+        "created_at": "2026-10-31T18:12:00+00:00",
+        "permalink": "https://nitter.mie.foundation/ngelaMariaDiLo1/status/2116594150183203221#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 46,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116552373959110718",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116552373959110718",
+      "parent_post_id": null,
+      "thread_root_id": "2116552373959110718",
+      "author": {
+        "platform_id": null,
+        "display_name": "meire_timbo",
+        "username": "meire_timbo",
+        "profile_url": "https://x.com/meire_timbo"
+      },
+      "text": "Sinto um nó na garganta quando penso que é a última vez que voto no Lula. \nSou brasileira\nSou nordestina\nSou cearense\nSou ipuense ( Ipu, CE)\nSou MEIRE\nSou LULA",
+      "created_at": "2026-10-31T15:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T15:49:53-03:00",
+      "permalink": "https://nitter.mie.foundation/meire_timbo/status/2116552373959110718#m",
+      "metrics": {
+        "like_count": 36,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "5883edf5-c6a1-41e8-a8b3-c2c91620715d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2116552373959110718",
+        "text": "Sinto um nó na garganta quando penso que é a última vez que voto no Lula. \nSou brasileira\nSou nordestina\nSou cearense\nSou ipuense ( Ipu, CE)\nSou MEIRE\nSou LULA",
+        "author_username": "meire_timbo",
+        "author_name": "meire_timbo",
+        "created_at": "2026-10-31T15:26:00+00:00",
+        "permalink": "https://nitter.mie.foundation/meire_timbo/status/2116552373959110718#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 159,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
