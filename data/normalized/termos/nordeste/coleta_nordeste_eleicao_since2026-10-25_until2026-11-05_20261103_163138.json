@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste eleicao",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "42eee853-7659-457d-b2ed-d721dfb22e48",
+    "collected_at": "2026-11-03T16:31:38-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 10
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2116727378839839208",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116727378839839208",
+      "parent_post_id": null,
+      "thread_root_id": "2116727378839839208",
+      "author": {
+        "platform_id": null,
+        "display_name": "jccruz222",
+        "username": "jccruz222",
+        "profile_url": "https://x.com/jccruz222"
+      },
+      "text": "nitter.xitter.cc/fandomscomlula/status/…  \n\nProvavelmente a região norte e nordeste teria peso menor para eleição de presidente do brasil. Voce correria o risco de ter a maioria dos votos para presidente, e não ser eleito!!",
+      "created_at": "2026-11-01T03:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T16:31:38-03:00",
+      "permalink": "https://nitter.xitter.cc/jccruz222/status/2116727378839839208#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "42eee853-7659-457d-b2ed-d721dfb22e48",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2116727378839839208",
+        "text": "nitter.xitter.cc/fandomscomlula/status/…  \n\nProvavelmente a região norte e nordeste teria peso menor para eleição de presidente do brasil. Voce correria o risco de ter a maioria dos votos para presidente, e não ser eleito!!",
+        "author_username": "jccruz222",
+        "author_name": "jccruz222",
+        "created_at": "2026-11-01T03:01:00+00:00",
+        "permalink": "https://nitter.xitter.cc/jccruz222/status/2116727378839839208#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 223,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116727139756085654",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116727139756085654",
+      "parent_post_id": null,
+      "thread_root_id": "2116727139756085654",
+      "author": {
+        "platform_id": null,
+        "display_name": "jccruz222",
+        "username": "jccruz222",
+        "profile_url": "https://x.com/jccruz222"
+      },
+      "text": "Provavelmente a região norte e nordeste teria peso menor para eleição de presidente do brasil. Voce correria o risco de ter a maioria dos votos para presidente, e não ser eleito!!",
+      "created_at": "2026-11-01T03:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T16:31:38-03:00",
+      "permalink": "https://nitter.xitter.cc/jccruz222/status/2116727139756085654#m",
+      "metrics": {
+        "like_count": 28,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "42eee853-7659-457d-b2ed-d721dfb22e48",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2116727139756085654",
+        "text": "Provavelmente a região norte e nordeste teria peso menor para eleição de presidente do brasil. Voce correria o risco de ter a maioria dos votos para presidente, e não ser eleito!!",
+        "author_username": "jccruz222",
+        "author_name": "jccruz222",
+        "created_at": "2026-11-01T03:00:00+00:00",
+        "permalink": "https://nitter.xitter.cc/jccruz222/status/2116727139756085654#m",
+        "metrics": {
+          "like_count": 28,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 179,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116678489021481416",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116678489021481416",
+      "parent_post_id": null,
+      "thread_root_id": "2116678489021481416",
+      "author": {
+        "platform_id": null,
+        "display_name": "manoelpedro",
+        "username": "manoelpedro",
+        "profile_url": "https://x.com/manoelpedro"
+      },
+      "text": "Aos criticos ao PT DO NORDESTE, em especial ao PT da BAHIA, que tem 3 senadores aliados, sendo 2 do pt + governador + maioria dos deputados federais da base de Lula, vocês são governados por quem nos seus estados?\n\nA quanto tempo vocês vencem eleição e fazem maioria? \n\nAh ta. ⭐️🤫",
+      "created_at": "2026-10-31T23:47:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T16:31:38-03:00",
+      "permalink": "https://nitter.xitter.cc/manoelpedro/status/2116678489021481416#m",
+      "metrics": {
+        "like_count": 128,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "quote_count": 7
+      },
+      "matched_terms": [
+        "Nordeste",
+        "eleição",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "42eee853-7659-457d-b2ed-d721dfb22e48",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2116678489021481416",
+        "text": "Aos criticos ao PT DO NORDESTE, em especial ao PT da BAHIA, que tem 3 senadores aliados, sendo 2 do pt + governador + maioria dos deputados federais da base de Lula, vocês são governados por quem nos seus estados?\n\nA quanto tempo vocês vencem eleição e fazem maioria? \n\nAh ta. ⭐️🤫",
+        "author_username": "manoelpedro",
+        "author_name": "manoelpedro",
+        "created_at": "2026-10-31T23:47:00+00:00",
+        "permalink": "https://nitter.xitter.cc/manoelpedro/status/2116678489021481416#m",
+        "metrics": {
+          "like_count": 128,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 7
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116644874204172482",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116644874204172482",
+      "parent_post_id": null,
+      "thread_root_id": "2116644874204172482",
+      "author": {
+        "platform_id": null,
+        "display_name": "AGarciaS1611",
+        "username": "AGarciaS1611",
+        "profile_url": "https://x.com/AGarciaS1611"
+      },
+      "text": "Mas estão lá votando no PT que dá visibilidade aos problemas do nordeste só em época de eleição, depois que ganha somem e somem com o dinheiro que é enviado pra lá.",
+      "created_at": "2026-10-31T21:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T16:31:38-03:00",
+      "permalink": "https://nitter.xitter.cc/AGarciaS1611/status/2116644874204172482#m",
+      "metrics": {
+        "like_count": 183,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "Nordeste",
+        "eleição",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "42eee853-7659-457d-b2ed-d721dfb22e48",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2116644874204172482",
+        "text": "Mas estão lá votando no PT que dá visibilidade aos problemas do nordeste só em época de eleição, depois que ganha somem e somem com o dinheiro que é enviado pra lá.",
+        "author_username": "AGarciaS1611",
+        "author_name": "AGarciaS1611",
+        "created_at": "2026-10-31T21:33:00+00:00",
+        "permalink": "https://nitter.xitter.cc/AGarciaS1611/status/2116644874204172482#m",
+        "metrics": {
+          "like_count": 183,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 164,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
