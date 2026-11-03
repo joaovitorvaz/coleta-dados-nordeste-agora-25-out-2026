@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "a79c66c2-69aa-49b7-9cbc-a5bcb72898c3",
+    "collected_at": "2026-11-03T19:51:11-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 19
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2117747455290749237",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117747455290749237",
+      "parent_post_id": null,
+      "thread_root_id": "2117747455290749237",
+      "author": {
+        "platform_id": null,
+        "display_name": "paulo47araujo",
+        "username": "paulo47araujo",
+        "profile_url": "https://x.com/paulo47araujo"
+      },
+      "text": "instagram.com/p/DfMgM7UG7gs/…\nTá bom pra vocês? \nSei que os sulistas vão se desesperar mas aqui no meu Nordeste querido a educação é prioridade.\nLevamos a sério.\nNordestinos só precisam de uma chance, o resto a gente completa!🚩🥂",
+      "created_at": "2026-11-03T22:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T19:51:11-03:00",
+      "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2117747455290749237#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "a79c66c2-69aa-49b7-9cbc-a5bcb72898c3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2117747455290749237",
+        "text": "instagram.com/p/DfMgM7UG7gs/…\nTá bom pra vocês? \nSei que os sulistas vão se desesperar mas aqui no meu Nordeste querido a educação é prioridade.\nLevamos a sério.\nNordestinos só precisam de uma chance, o resto a gente completa!🚩🥂",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-11-03T22:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2117747455290749237#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 228,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
