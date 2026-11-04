@@ -1,0 +1,900 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+    "collected_at": "2026-11-04T19:31:43-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 13,
+      "comments": 0,
+      "records_total": 13,
+      "skipped_duplicate": 67
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2117805551442624937",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117805551442624937",
+      "parent_post_id": null,
+      "thread_root_id": "2117805551442624937",
+      "author": {
+        "platform_id": null,
+        "display_name": "dubhghlas_br",
+        "username": "dubhghlas_br",
+        "profile_url": "https://x.com/dubhghlas_br"
+      },
+      "text": "Boa! Maceió e João Pessoa salvam o Nordeste. Vou me programar para uma delas rs",
+      "created_at": "2026-11-04T02:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/dubhghlas_br/status/2117805551442624937#m",
+      "metrics": {
+        "like_count": 23,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117805551442624937",
+        "text": "Boa! Maceió e João Pessoa salvam o Nordeste. Vou me programar para uma delas rs",
+        "author_username": "dubhghlas_br",
+        "author_name": "dubhghlas_br",
+        "created_at": "2026-11-04T02:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/dubhghlas_br/status/2117805551442624937#m",
+        "metrics": {
+          "like_count": 23,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 79,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117797235614179520",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117797235614179520",
+      "parent_post_id": null,
+      "thread_root_id": "2117797235614179520",
+      "author": {
+        "platform_id": null,
+        "display_name": "LuisLins12",
+        "username": "LuisLins12",
+        "profile_url": "https://x.com/LuisLins12"
+      },
+      "text": "O Nordeste mostrou que tem voz, tem força e não aceita desrespeito! Recife e Fortaleza se uniram, e essa união representa muito mais do que uma reação: representa a nossa identidade, a nossa cultura e o orgulho de sermos nordestinos.\n\nRespeitar o Nordeste é respeitar o Brasil! 🌵❤️\n\nDeixe seu comentário, reafirme nosso orgulho e compartilhe essa mensagem. O NORDESTE MERECE RESPEITO!\n\n#NordesteUnido #OrgulhoNordestino #RespeitaONordeste #NordesteTemVoz",
+      "created_at": "2026-11-04T01:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/LuisLins12/status/2117797235614179520#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117797235614179520",
+        "text": "O Nordeste mostrou que tem voz, tem força e não aceita desrespeito! Recife e Fortaleza se uniram, e essa união representa muito mais do que uma reação: representa a nossa identidade, a nossa cultura e o orgulho de sermos nordestinos.\n\nRespeitar o Nordeste é respeitar o Brasil! 🌵❤️\n\nDeixe seu comentário, reafirme nosso orgulho e compartilhe essa mensagem. O NORDESTE MERECE RESPEITO!\n\n#NordesteUnido #OrgulhoNordestino #RespeitaONordeste #NordesteTemVoz",
+        "author_username": "LuisLins12",
+        "author_name": "LuisLins12",
+        "created_at": "2026-11-04T01:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LuisLins12/status/2117797235614179520#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 454,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117794571606216882",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117794571606216882",
+      "parent_post_id": null,
+      "thread_root_id": "2117794571606216882",
+      "author": {
+        "platform_id": null,
+        "display_name": "luvan79",
+        "username": "luvan79",
+        "profile_url": "https://x.com/luvan79"
+      },
+      "text": "E como no nordeste só querem viver de bolsa família, vão trazer chinês pra trabalhar",
+      "created_at": "2026-11-04T01:42:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/luvan79/status/2117794571606216882#m",
+      "metrics": {
+        "like_count": 588,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 15
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117794571606216882",
+        "text": "E como no nordeste só querem viver de bolsa família, vão trazer chinês pra trabalhar",
+        "author_username": "luvan79",
+        "author_name": "luvan79",
+        "created_at": "2026-11-04T01:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/luvan79/status/2117794571606216882#m",
+        "metrics": {
+          "like_count": 588,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 15
+        }
+      },
+      "normalized": {
+        "text_length": 84,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117793498225365316",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117793498225365316",
+      "parent_post_id": null,
+      "thread_root_id": "2117793498225365316",
+      "author": {
+        "platform_id": null,
+        "display_name": "aellph_",
+        "username": "aellph_",
+        "profile_url": "https://x.com/aellph_"
+      },
+      "text": "Amolece esse coração, gatinha… está muito estressada, rs. Me referi ao Nordeste como região que de fato é. Quando eu disse que “nunca vi por aqui”, foi referente aos gestos em fotos. Você foi pesquisar um monte de notícia com outro contexto 😅",
+      "created_at": "2026-11-04T01:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/aellph_/status/2117793498225365316#m",
+      "metrics": {
+        "like_count": 119,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117793498225365316",
+        "text": "Amolece esse coração, gatinha… está muito estressada, rs. Me referi ao Nordeste como região que de fato é. Quando eu disse que “nunca vi por aqui”, foi referente aos gestos em fotos. Você foi pesquisar um monte de notícia com outro contexto 😅",
+        "author_username": "aellph_",
+        "author_name": "aellph_",
+        "created_at": "2026-11-04T01:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/aellph_/status/2117793498225365316#m",
+        "metrics": {
+          "like_count": 119,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 242,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117792855645180178",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117792855645180178",
+      "parent_post_id": null,
+      "thread_root_id": "2117792855645180178",
+      "author": {
+        "platform_id": null,
+        "display_name": "GuimaraesLiih",
+        "username": "GuimaraesLiih",
+        "profile_url": "https://x.com/GuimaraesLiih"
+      },
+      "text": "Aê Jorge, sentiu a força do Nordeste de novo? Sai pra lá sertanojo xenófobo!",
+      "created_at": "2026-11-04T01:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/GuimaraesLiih/status/2117792855645180178#m",
+      "metrics": {
+        "like_count": 268,
+        "reply_count": 0,
+        "retweet_count": 4,
+        "quote_count": 7
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117792855645180178",
+        "text": "Aê Jorge, sentiu a força do Nordeste de novo? Sai pra lá sertanojo xenófobo!",
+        "author_username": "GuimaraesLiih",
+        "author_name": "GuimaraesLiih",
+        "created_at": "2026-11-04T01:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GuimaraesLiih/status/2117792855645180178#m",
+        "metrics": {
+          "like_count": 268,
+          "reply_count": 0,
+          "retweet_count": 4,
+          "quote_count": 7
+        }
+      },
+      "normalized": {
+        "text_length": 76,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117791296026755109",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117791296026755109",
+      "parent_post_id": null,
+      "thread_root_id": "2117791296026755109",
+      "author": {
+        "platform_id": null,
+        "display_name": "Elizabettlopes",
+        "username": "Elizabettlopes",
+        "profile_url": "https://x.com/Elizabettlopes"
+      },
+      "text": "Eles devem ser tratados do jeito q eles trataram os nordestinos,o nordeste e o Norte nao devem aceitar nenhum show desses sertanejos preconceituosos.",
+      "created_at": "2026-11-04T01:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/Elizabettlopes/status/2117791296026755109#m",
+      "metrics": {
+        "like_count": 218,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 11
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117791296026755109",
+        "text": "Eles devem ser tratados do jeito q eles trataram os nordestinos,o nordeste e o Norte nao devem aceitar nenhum show desses sertanejos preconceituosos.",
+        "author_username": "Elizabettlopes",
+        "author_name": "Elizabettlopes",
+        "created_at": "2026-11-04T01:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Elizabettlopes/status/2117791296026755109#m",
+        "metrics": {
+          "like_count": 218,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 11
+        }
+      },
+      "normalized": {
+        "text_length": 149,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117789146932527521",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117789146932527521",
+      "parent_post_id": null,
+      "thread_root_id": "2117789146932527521",
+      "author": {
+        "platform_id": null,
+        "display_name": "nordeste_liga",
+        "username": "nordeste_liga",
+        "profile_url": "https://x.com/nordeste_liga"
+      },
+      "text": "E essa reta final do Brasileirão Série B do CRB até o Goiás brigam pela última vaga do playoffs de acesso\n\nVila Nova e , Criciúma e Fortaleza por enquanto estão garantidos no playoffs e brigam pra subir direto",
+      "created_at": "2026-11-04T01:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/nordeste_liga/status/2117789146932527521#m",
+      "metrics": {
+        "like_count": 144,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 6
+      },
+      "matched_terms": [
+        "Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117789146932527521",
+        "text": "E essa reta final do Brasileirão Série B do CRB até o Goiás brigam pela última vaga do playoffs de acesso\n\nVila Nova e , Criciúma e Fortaleza por enquanto estão garantidos no playoffs e brigam pra subir direto",
+        "author_username": "nordeste_liga",
+        "author_name": "nordeste_liga",
+        "created_at": "2026-11-04T01:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nordeste_liga/status/2117789146932527521#m",
+        "metrics": {
+          "like_count": 144,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 6
+        }
+      },
+      "normalized": {
+        "text_length": 209,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117786475211395405",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117786475211395405",
+      "parent_post_id": null,
+      "thread_root_id": "2117786475211395405",
+      "author": {
+        "platform_id": null,
+        "display_name": "aellph_",
+        "username": "aellph_",
+        "profile_url": "https://x.com/aellph_"
+      },
+      "text": "Na capital não tem isso e eu nunca tinha visto nem no interior do estado, antes dessa postagem. Eu sabia disso lá no Nordeste",
+      "created_at": "2026-11-04T01:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/aellph_/status/2117786475211395405#m",
+      "metrics": {
+        "like_count": 964,
+        "reply_count": 3,
+        "retweet_count": 0,
+        "quote_count": 10
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117786475211395405",
+        "text": "Na capital não tem isso e eu nunca tinha visto nem no interior do estado, antes dessa postagem. Eu sabia disso lá no Nordeste",
+        "author_username": "aellph_",
+        "author_name": "aellph_",
+        "created_at": "2026-11-04T01:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/aellph_/status/2117786475211395405#m",
+        "metrics": {
+          "like_count": 964,
+          "reply_count": 3,
+          "retweet_count": 0,
+          "quote_count": 10
+        }
+      },
+      "normalized": {
+        "text_length": 125,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117786331699130850",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117786331699130850",
+      "parent_post_id": null,
+      "thread_root_id": "2117786331699130850",
+      "author": {
+        "platform_id": null,
+        "display_name": "philippini_",
+        "username": "philippini_",
+        "profile_url": "https://x.com/philippini_"
+      },
+      "text": "Não cara. Muita gente votou em bolsonaro pq era a opção que tinha contra o lula/pt.\nIsso não quer dizer que os caras sejam contra o nordeste.",
+      "created_at": "2026-11-04T01:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/philippini_/status/2117786331699130850#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117786331699130850",
+        "text": "Não cara. Muita gente votou em bolsonaro pq era a opção que tinha contra o lula/pt.\nIsso não quer dizer que os caras sejam contra o nordeste.",
+        "author_username": "philippini_",
+        "author_name": "philippini_",
+        "created_at": "2026-11-04T01:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/philippini_/status/2117786331699130850#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 141,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117786180540309582",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117786180540309582",
+      "parent_post_id": null,
+      "thread_root_id": "2117786180540309582",
+      "author": {
+        "platform_id": null,
+        "display_name": "junnior1905",
+        "username": "junnior1905",
+        "profile_url": "https://x.com/junnior1905"
+      },
+      "text": "Óbvio que cancelou pela pressão dos Recifenses e de outros nordestinos, mas pelo menos fez o certo!\nQue seja um marco para as nossas festas. Falou mal do Nordeste e/ou do nosso povo, vá cantar na casa de Chaprego!",
+      "created_at": "2026-11-04T01:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/junnior1905/status/2117786180540309582#m",
+      "metrics": {
+        "like_count": 67,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117786180540309582",
+        "text": "Óbvio que cancelou pela pressão dos Recifenses e de outros nordestinos, mas pelo menos fez o certo!\nQue seja um marco para as nossas festas. Falou mal do Nordeste e/ou do nosso povo, vá cantar na casa de Chaprego!",
+        "author_username": "junnior1905",
+        "author_name": "junnior1905",
+        "created_at": "2026-11-04T01:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/junnior1905/status/2117786180540309582#m",
+        "metrics": {
+          "like_count": 67,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 213,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117777588709966127",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117777588709966127",
+      "parent_post_id": null,
+      "thread_root_id": "2117777588709966127",
+      "author": {
+        "platform_id": null,
+        "display_name": "ericck_soares",
+        "username": "ericck_soares",
+        "profile_url": "https://x.com/ericck_soares"
+      },
+      "text": "Quanta desinformação... \nPrimeiro vamos corrigir a desinformação dos ônibus... Quem segurou os ônibus não foi o governador... Foi o prefeito de Salvador, Bruno Reis. Inclusive o governador, Jerônimo e Rui Costa foram até as garagens para apurar o ocorrido... Fico besta com o excesso de propriedade e a falta de informação...\n\nAgora vamos para a origem do problema.\n\nSobre essa história da invasão de turistas israelenses no litoral da Bahia, porque o negócio é bizarro e tem muito nó na cabeça de como isso aconteceu. E o mais doido: a dinâmica política das cidades não muda em nada o resultado final.\n\nPrimeiro de tudo, isso foi um fenômeno 100% espontâneo e orgânico. Não teve plano mirabolante de governo, nem marketing de prefeitura. O estopim foi uma série de comédia israelense gravada em Morro de São Paulo em 2012, chamada Malabi Express. O negócio estourou por lá e vendeu a Bahia como o paraíso na Terra. E é!\n\nJunte isso à tradição cultural fortíssima deles de fazer um mochilão pelo mundo logo após darem baixa do serviço militar obrigatório em Israel e pronto: a Bahia virou parada obrigatória.\n\nE para quem acha que é só \"meia dúzia de turista\", se liga nos dados. Em Morro de São Paulo, logo após o Carnaval, os israelenses chegaram a representar absurdos 54% de TODOS os turistas internacionais da ilha. Imagina mais da metade dos gringos de um lugar virem do mesmo país! O comércio local teve que mudar completamente para abraçar essa galera: surgiram pousadas temáticas, baladas eletrônicas focadas neles e placas e cardápios inteiramente escritos em hebraico.\n\nE por que ninguém controla ou barra isso? É aí que tá o ponto: o poder público local não tem o que fazer porque quem liberou foi o GOVERNO FEDERAL. Quem manda nas fronteiras do Brasil, na imigração e em quem precisa ou não de visto é Brasília. Nem o Governo da Bahia e nem as prefeituras têm o poder de proibir a entrada de ninguém.\n\nO curioso é ver como essa batata quente cai no colo de políticos de lados totalmente opostos:\n\n• Em Itacaré, quem manda é o prefeito Nego de Saronga, do PT.\n\n• Já em Cairu (que administra Morro de São Paulo), quem governa é o prefeito Hildécio Meireles, do União Brasil, que inclusive se reelegeu atropelando o candidato do PT por lá.\n\nOu seja, ideologicamente eles são água e óleo. Mas na prática? Os dois enfrentam o mesmíssimo dilema.\n\nIsso porque o fato inegável é que eles movimentam fortemente a economia local. O pico da chegada desses jovens acontece bem na baixa temporada do Nordeste (logo depois do Carnaval). Quando o turismo brasileiro dá aquela esvaziada e os comerciantes começam a passar sufoco, os israelenses lotam os hotéis, restaurantes e passeios, salvando as contas de milhares de famílias nativas. Seja o prefeito do PT ou do União Brasil, nenhum deles quer (ou pode) fechar a torneira desse dinheiro.\n\nClaro que o volume gigante de gente e as tensões geopolíticas recentes do Oriente Médio trouxeram atritos e tretas pesadas com moradores e ativistas locais nas praças. Mas o papel do Estado hoje é puramente o de apagar incêndio com a Polícia Militar na segurança pública, enquanto as prefeituras — independentemente de partido — tentam equilibrar os lucros absurdos que entram no comércio com a ordem urbana na comunidade. É dinheiro no bolso, dor de cabeça na gestão e uma dinâmica que ninguém planejou, mas que hoje dita o ritmo do nosso litoral!",
+      "created_at": "2026-11-04T00:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/ericck_soares/status/2117777588709966127#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 8,
+        "retweet_count": 3,
+        "quote_count": 75
+      },
+      "matched_terms": [
+        "Nordeste",
+        "pl",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117777588709966127",
+        "text": "Quanta desinformação... \nPrimeiro vamos corrigir a desinformação dos ônibus... Quem segurou os ônibus não foi o governador... Foi o prefeito de Salvador, Bruno Reis. Inclusive o governador, Jerônimo e Rui Costa foram até as garagens para apurar o ocorrido... Fico besta com o excesso de propriedade e a falta de informação...\n\nAgora vamos para a origem do problema.\n\nSobre essa história da invasão de turistas israelenses no litoral da Bahia, porque o negócio é bizarro e tem muito nó na cabeça de como isso aconteceu. E o mais doido: a dinâmica política das cidades não muda em nada o resultado final.\n\nPrimeiro de tudo, isso foi um fenômeno 100% espontâneo e orgânico. Não teve plano mirabolante de governo, nem marketing de prefeitura. O estopim foi uma série de comédia israelense gravada em Morro de São Paulo em 2012, chamada Malabi Express. O negócio estourou por lá e vendeu a Bahia como o paraíso na Terra. E é!\n\nJunte isso à tradição cultural fortíssima deles de fazer um mochilão pelo mundo logo após darem baixa do serviço militar obrigatório em Israel e pronto: a Bahia virou parada obrigatória.\n\nE para quem acha que é só \"meia dúzia de turista\", se liga nos dados. Em Morro de São Paulo, logo após o Carnaval, os israelenses chegaram a representar absurdos 54% de TODOS os turistas internacionais da ilha. Imagina mais da metade dos gringos de um lugar virem do mesmo país! O comércio local teve que mudar completamente para abraçar essa galera: surgiram pousadas temáticas, baladas eletrônicas focadas neles e placas e cardápios inteiramente escritos em hebraico.\n\nE por que ninguém controla ou barra isso? É aí que tá o ponto: o poder público local não tem o que fazer porque quem liberou foi o GOVERNO FEDERAL. Quem manda nas fronteiras do Brasil, na imigração e em quem precisa ou não de visto é Brasília. Nem o Governo da Bahia e nem as prefeituras têm o poder de proibir a entrada de ninguém.\n\nO curioso é ver como essa batata quente cai no colo de políticos de lados totalmente opostos:\n\n• Em Itacaré, quem manda é o prefeito Nego de Saronga, do PT.\n\n• Já em Cairu (que administra Morro de São Paulo), quem governa é o prefeito Hildécio Meireles, do União Brasil, que inclusive se reelegeu atropelando o candidato do PT por lá.\n\nOu seja, ideologicamente eles são água e óleo. Mas na prática? Os dois enfrentam o mesmíssimo dilema.\n\nIsso porque o fato inegável é que eles movimentam fortemente a economia local. O pico da chegada desses jovens acontece bem na baixa temporada do Nordeste (logo depois do Carnaval). Quando o turismo brasileiro dá aquela esvaziada e os comerciantes começam a passar sufoco, os israelenses lotam os hotéis, restaurantes e passeios, salvando as contas de milhares de famílias nativas. Seja o prefeito do PT ou do União Brasil, nenhum deles quer (ou pode) fechar a torneira desse dinheiro.\n\nClaro que o volume gigante de gente e as tensões geopolíticas recentes do Oriente Médio trouxeram atritos e tretas pesadas com moradores e ativistas locais nas praças. Mas o papel do Estado hoje é puramente o de apagar incêndio com a Polícia Militar na segurança pública, enquanto as prefeituras — independentemente de partido — tentam equilibrar os lucros absurdos que entram no comércio com a ordem urbana na comunidade. É dinheiro no bolso, dor de cabeça na gestão e uma dinâmica que ninguém planejou, mas que hoje dita o ritmo do nosso litoral!",
+        "author_username": "ericck_soares",
+        "author_name": "ericck_soares",
+        "created_at": "2026-11-04T00:34:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ericck_soares/status/2117777588709966127#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 8,
+          "retweet_count": 3,
+          "quote_count": 75
+        }
+      },
+      "normalized": {
+        "text_length": 3389,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117775841073434663",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117775841073434663",
+      "parent_post_id": null,
+      "thread_root_id": "2117775841073434663",
+      "author": {
+        "platform_id": null,
+        "display_name": "fdesouzaalves",
+        "username": "fdesouzaalves",
+        "profile_url": "https://x.com/fdesouzaalves"
+      },
+      "text": "Satisfatório ver bozolóides se fedendo,  tenho dó não...apoiadores de fascista fascistóide é,  OTÁRIOS.\nRESPEITEM O NORDESTE SERTANOJOS XEXELENTOS.🤮🖕🏿🖕🏿\n#BetsNuncaMais \n#Lula",
+      "created_at": "2026-11-04T00:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/fdesouzaalves/status/2117775841073434663#m",
+      "metrics": {
+        "like_count": 597,
+        "reply_count": 2,
+        "retweet_count": 19,
+        "quote_count": 81
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117775841073434663",
+        "text": "Satisfatório ver bozolóides se fedendo,  tenho dó não...apoiadores de fascista fascistóide é,  OTÁRIOS.\nRESPEITEM O NORDESTE SERTANOJOS XEXELENTOS.🤮🖕🏿🖕🏿\n#BetsNuncaMais \n#Lula",
+        "author_username": "fdesouzaalves",
+        "author_name": "fdesouzaalves",
+        "created_at": "2026-11-04T00:28:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fdesouzaalves/status/2117775841073434663#m",
+        "metrics": {
+          "like_count": 597,
+          "reply_count": 2,
+          "retweet_count": 19,
+          "quote_count": 81
+        }
+      },
+      "normalized": {
+        "text_length": 174,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117775380203630986",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117775380203630986",
+      "parent_post_id": null,
+      "thread_root_id": "2117775380203630986",
+      "author": {
+        "platform_id": null,
+        "display_name": "paulo47araujo",
+        "username": "paulo47araujo",
+        "profile_url": "https://x.com/paulo47araujo"
+      },
+      "text": "instagram.com/reel/De1sI6XPD…\nTeresina Piauí no meu Nordeste querido!",
+      "created_at": "2026-11-04T00:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T19:31:43-03:00",
+      "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2117775380203630986#m",
+      "metrics": {
+        "like_count": 38,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "32b102f1-d9c1-407f-a894-5c79a23672a3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117775380203630986",
+        "text": "instagram.com/reel/De1sI6XPD…\nTeresina Piauí no meu Nordeste querido!",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-11-04T00:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2117775380203630986#m",
+        "metrics": {
+          "like_count": 38,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 69,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\".timeline-container\") to be visible\n"
+      ]
+    }
+  ],
+  "comments": []
+}
