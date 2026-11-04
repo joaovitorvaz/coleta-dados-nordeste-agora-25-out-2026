@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste decide",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "6a3fe5b8-b6b8-4464-93a8-ea20e5e8727b",
+    "collected_at": "2026-11-04T20:31:53-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 0,
+      "records_total": 0,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [],
+  "comments": []
+}
