@@ -1,0 +1,19 @@
+{
+  "event_id": "b80b90ec-14b8-4439-84cb-8081843a3529",
+  "event_type": "campaign_nordeste_agora_foco_20261028",
+  "started_at": "2026-11-03T21:57:18-03:00",
+  "finished_at": "2026-11-04T19:03:35-03:00",
+  "status": "partial",
+  "since": "2026-10-25",
+  "until": "2026-11-05",
+  "records_written": 2,
+  "records_skipped_duplicate": 31,
+  "json_files_written": 8,
+  "errors": [
+    {
+      "query": "nordeste voto",
+      "message": "Todas as instâncias falharam. Último erro: TimeoutError('Page.wait_for_selector: Timeout 120000ms exceeded.\\nCall log:\\n  - waiting for locator(\".timeline-container\") to be visible\\n')"
+    }
+  ],
+  "twitee_trends": []
+}
