@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste decide",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "b80b90ec-14b8-4439-84cb-8081843a3529",
+    "collected_at": "2026-11-04T18:50:49-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2117920328353501520",
+            "text": "Bom dia! Hoje no Brasil: Dia da Favela.\n\nTempo: temporais fortes no Sul (risco de granizo e ventos), instabilidade em SP e calor no Nordeste.\n\nPolítica: Senado aprovou a PEC da Segurança Pública.\n\nEconomia: Copom decide a Selic à noite (expectativa de manter 13,75%).\n\nEsportes: Brasil x Nigéria (semi Sub-17 feminina) às 15h. No Brasileirão: Fla x Grêmio e Athletico x Vasco às 19h30; São Paulo x Corinthians e Botafogo x Galo às 21h30.\n\nBom dia e boa quarta!\nFonte: Grok",
+            "author_username": "mestreresende",
+            "author_name": "mestreresende",
+            "created_at": "2026-11-04T10:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mestreresende/status/2117920328353501520#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 3,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "nordeste_agora_foco_20261028"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2117920328353501520",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117920328353501520",
+      "collected_at": "2026-11-04T18:50:49-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste decide",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "b80b90ec-14b8-4439-84cb-8081843a3529",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117920328353501520",
+        "text": "Bom dia! Hoje no Brasil: Dia da Favela.\n\nTempo: temporais fortes no Sul (risco de granizo e ventos), instabilidade em SP e calor no Nordeste.\n\nPolítica: Senado aprovou a PEC da Segurança Pública.\n\nEconomia: Copom decide a Selic à noite (expectativa de manter 13,75%).\n\nEsportes: Brasil x Nigéria (semi Sub-17 feminina) às 15h. No Brasileirão: Fla x Grêmio e Athletico x Vasco às 19h30; São Paulo x Corinthians e Botafogo x Galo às 21h30.\n\nBom dia e boa quarta!\nFonte: Grok",
+        "author_username": "mestreresende",
+        "author_name": "mestreresende",
+        "created_at": "2026-11-04T10:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mestreresende/status/2117920328353501520#m",
+        "metrics": {
+          "like_count": 68,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
