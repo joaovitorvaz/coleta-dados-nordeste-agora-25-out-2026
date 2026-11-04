@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "fe22f9bb-3f4b-4752-aa3d-b6d20a3bd562",
+    "collected_at": "2026-11-03T21:15:40-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 58
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2117770809414402204",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117770809414402204",
+      "parent_post_id": null,
+      "thread_root_id": "2117770809414402204",
+      "author": {
+        "platform_id": null,
+        "display_name": "almeidapl_",
+        "username": "almeidapl_",
+        "profile_url": "https://x.com/almeidapl_"
+      },
+      "text": "Cara, Ciro fez o Ceará ter um dos melhores transportes do Norte/Nordeste e ter a melhor educação do Brasil",
+      "created_at": "2026-11-04T00:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T21:15:40-03:00",
+      "permalink": "https://nitter.mie.foundation/almeidapl_/status/2117770809414402204#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "fe22f9bb-3f4b-4752-aa3d-b6d20a3bd562",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117770809414402204",
+        "text": "Cara, Ciro fez o Ceará ter um dos melhores transportes do Norte/Nordeste e ter a melhor educação do Brasil",
+        "author_username": "almeidapl_",
+        "author_name": "almeidapl_",
+        "created_at": "2026-11-04T00:08:00+00:00",
+        "permalink": "https://nitter.mie.foundation/almeidapl_/status/2117770809414402204#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 106,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2117769076839711179",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117769076839711179",
+      "parent_post_id": null,
+      "thread_root_id": "2117769076839711179",
+      "author": {
+        "platform_id": null,
+        "display_name": "paulo47araujo",
+        "username": "paulo47araujo",
+        "profile_url": "https://x.com/paulo47araujo"
+      },
+      "text": "instagram.com/p/DfMvRj6m8RS/…\nTenho que postar pra que o meu Nordeste querido não seja esquecido.",
+      "created_at": "2026-11-04T00:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-03T21:15:40-03:00",
+      "permalink": "https://nitter.mie.foundation/paulo47araujo/status/2117769076839711179#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "fe22f9bb-3f4b-4752-aa3d-b6d20a3bd562",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117769076839711179",
+        "text": "instagram.com/p/DfMvRj6m8RS/…\nTenho que postar pra que o meu Nordeste querido não seja esquecido.",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-11-04T00:01:00+00:00",
+        "permalink": "https://nitter.mie.foundation/paulo47araujo/status/2117769076839711179#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 97,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
