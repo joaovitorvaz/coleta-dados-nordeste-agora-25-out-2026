@@ -1,0 +1,19 @@
+{
+  "event_id": "8faa3606-b9be-4269-b85e-db66adbd144f",
+  "event_type": "campaign_nordeste_agora_foco_20261028",
+  "started_at": "2026-11-04T19:03:15-03:00",
+  "finished_at": "2026-11-04T19:47:51-03:00",
+  "status": "partial",
+  "since": "2026-10-25",
+  "until": "2026-11-05",
+  "records_written": 0,
+  "records_skipped_duplicate": 14,
+  "json_files_written": 9,
+  "errors": [
+    {
+      "query": "\"região Nordeste\"",
+      "message": "Todas as instâncias falharam. Último erro: TimeoutError('Page.wait_for_selector: Timeout 120000ms exceeded.\\nCall log:\\n  - waiting for locator(\".timeline-container\") to be visible\\n    - waiting for \"https://nitter.xitter.cc/.within.website/x/cmd/anubis/api/pass-challenge?id=01a1a8b6-23bf-7305-854b-b2ca4301f9a8&response=0000932a4a1ea48f33260ce4a503a096829b6c6e5b41a713ac0bd6d7840a26a6&nonce=227158…\" navigation to finish...\\n    - navigated to \"https://nitter.xitter.cc/search?f=tweets&q=%22regi%C3%A3o+Nordeste%22+lang%3Apt+place_country%3ABR+since%3A2026-10-25+until%3A2026-11-05&e-nativeretweets=on\"\\n')"
+    }
+  ],
+  "twitee_trends": []
+}
