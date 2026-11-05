@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinas",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "6a3fe5b8-b6b8-4464-93a8-ea20e5e8727b",
+    "collected_at": "2026-11-04T21:01:50-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 16
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2117787871272747157",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117787871272747157",
+      "parent_post_id": null,
+      "thread_root_id": "2117787871272747157",
+      "author": {
+        "platform_id": null,
+        "display_name": "mersinho2010",
+        "username": "mersinho2010",
+        "profile_url": "https://x.com/mersinho2010"
+      },
+      "text": "Quando vê isso,vem passar as férias nas praias nordestinas",
+      "created_at": "2026-11-04T01:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T21:01:50-03:00",
+      "permalink": "https://nitter.xitter.cc/mersinho2010/status/2117787871272747157#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinas",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "6a3fe5b8-b6b8-4464-93a8-ea20e5e8727b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2117787871272747157",
+        "text": "Quando vê isso,vem passar as férias nas praias nordestinas",
+        "author_username": "mersinho2010",
+        "author_name": "mersinho2010",
+        "created_at": "2026-11-04T01:15:00+00:00",
+        "permalink": "https://nitter.xitter.cc/mersinho2010/status/2117787871272747157#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 58,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2116937639769088248",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116937639769088248",
+      "parent_post_id": null,
+      "thread_root_id": "2116937639769088248",
+      "author": {
+        "platform_id": null,
+        "display_name": "iyorrann",
+        "username": "iyorrann",
+        "profile_url": "https://x.com/iyorrann"
+      },
+      "text": "Top girias nordestinas\n\nInfeliz das costa oca",
+      "created_at": "2026-11-01T16:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-11-04T21:01:50-03:00",
+      "permalink": "https://nitter.xitter.cc/iyorrann/status/2116937639769088248#m",
+      "metrics": {
+        "like_count": 67,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinas",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "6a3fe5b8-b6b8-4464-93a8-ea20e5e8727b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2116937639769088248",
+        "text": "Top girias nordestinas\n\nInfeliz das costa oca",
+        "author_username": "iyorrann",
+        "author_name": "iyorrann",
+        "created_at": "2026-11-01T16:57:00+00:00",
+        "permalink": "https://nitter.xitter.cc/iyorrann/status/2116937639769088248#m",
+        "metrics": {
+          "like_count": 67,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 45,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

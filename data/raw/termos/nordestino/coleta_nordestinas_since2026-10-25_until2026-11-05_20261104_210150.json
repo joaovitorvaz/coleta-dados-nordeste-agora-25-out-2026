@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinas",
+    "since": "2026-10-25",
+    "until": "2026-11-05",
+    "source": "twitter_x",
+    "run_id": "6a3fe5b8-b6b8-4464-93a8-ea20e5e8727b",
+    "collected_at": "2026-11-04T21:01:50-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 16
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2117787871272747157",
+            "text": "Quando vê isso,vem passar as férias nas praias nordestinas",
+            "author_username": "mersinho2010",
+            "author_name": "mersinho2010",
+            "created_at": "2026-11-04T01:15:00+00:00",
+            "permalink": "https://nitter.xitter.cc/mersinho2010/status/2117787871272747157#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117386306955145656",
+            "text": "Mas errar e reconhecer é uma das coisas mais lindas que existe, ninguém é obrigado a saber como funciona as políticas nordestinas. Enfim, acho foda demais ela se retratar. Feio é a outra negar negar e no fundo todo mundo sabendo a verdade.",
+            "author_username": "wIeyner",
+            "author_name": "wIeyner",
+            "created_at": "2026-11-02T22:40:00+00:00",
+            "permalink": "https://nitter.xitter.cc/wIeyner/status/2117386306955145656#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117352334384619979",
+            "text": "Top expressões nordestinas: Mugango",
+            "author_username": "Dihhsenna",
+            "author_name": "Dihhsenna",
+            "created_at": "2026-11-02T20:25:00+00:00",
+            "permalink": "https://nitter.xitter.cc/Dihhsenna/status/2117352334384619979#m",
+            "metrics": {
+              "like_count": 376,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2117348636375834918",
+            "text": "Top ações nordestinas: estar emansebada",
+            "author_username": "mirlabeatrizz",
+            "author_name": "mirlabeatrizz",
+            "created_at": "2026-11-02T20:10:00+00:00",
+            "permalink": "https://nitter.xitter.cc/mirlabeatrizz/status/2117348636375834918#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117328605219078477",
+            "text": "top gírias nordestinas: catrevage",
+            "author_username": "antylopes",
+            "author_name": "antylopes",
+            "created_at": "2026-11-02T18:50:00+00:00",
+            "permalink": "https://nitter.xitter.cc/antylopes/status/2117328605219078477#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 53,
+              "retweet_count": 248,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2117298087412523015",
+            "text": "Top gírias nordestinas: Quandefé  (quando dei fé)",
+            "author_username": "JandiellisonS2",
+            "author_name": "JandiellisonS2",
+            "created_at": "2026-11-02T16:49:00+00:00",
+            "permalink": "https://nitter.xitter.cc/JandiellisonS2/status/2117298087412523015#m",
+            "metrics": {
+              "like_count": 135,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2117290022755774593",
+            "text": "Sério que estão defendendo um certo político da Bahia que comparou um policial responsável por uma chacina de 16 pessoas a um craque de futebol? Entendo a falta de espaço para figuras nordestinas no PT, mas esse querido definitivamente não é exemplo!",
+            "author_username": "_teteupaiv4",
+            "author_name": "_teteupaiv4",
+            "created_at": "2026-11-02T16:17:00+00:00",
+            "permalink": "https://nitter.xitter.cc/_teteupaiv4/status/2117290022755774593#m",
+            "metrics": {
+              "like_count": 63,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2117039806731501684",
+            "text": "Top ações nordestinas: capar o gato",
+            "author_username": "antylopes",
+            "author_name": "antylopes",
+            "created_at": "2026-11-01T23:43:00+00:00",
+            "permalink": "https://nitter.xitter.cc/antylopes/status/2117039806731501684#m",
+            "metrics": {
+              "like_count": 78,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2117021216447827985",
+            "text": "Top gírias nordestinas: espiá",
+            "author_username": "israelped2224",
+            "author_name": "israelped2224",
+            "created_at": "2026-11-01T22:29:00+00:00",
+            "permalink": "https://nitter.xitter.cc/israelped2224/status/2117021216447827985#m",
+            "metrics": {
+              "like_count": 46,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2117016481263243356",
+            "text": "Top gírias nordestinas: gota miau",
+            "author_username": "Maxxxmovie",
+            "author_name": "Maxxxmovie",
+            "created_at": "2026-11-01T22:10:00+00:00",
+            "permalink": "https://nitter.xitter.cc/Maxxxmovie/status/2117016481263243356#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2116937639769088248",
+            "text": "Top girias nordestinas\n\nInfeliz das costa oca",
+            "author_username": "iyorrann",
+            "author_name": "iyorrann",
+            "created_at": "2026-11-01T16:57:00+00:00",
+            "permalink": "https://nitter.xitter.cc/iyorrann/status/2116937639769088248#m",
+            "metrics": {
+              "like_count": 67,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2116932623130116253",
+            "text": "Top gírias nordestinas: “aí dento, conversando água, teu cu” ✨✨",
+            "author_username": "izmarl0n",
+            "author_name": "izmarl0n",
+            "created_at": "2026-11-01T16:37:00+00:00",
+            "permalink": "https://nitter.xitter.cc/izmarl0n/status/2116932623130116253#m",
+            "metrics": {
+              "like_count": 41,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2116927019854262322",
+            "text": "Top gírias nordestinas: vai pra puta q pariu e o corno que amassou! \nUm salve tb pra: pra/vai/na baixa da égua!",
+            "author_username": "peitodenostodos",
+            "author_name": "peitodenostodos",
+            "created_at": "2026-11-01T16:15:00+00:00",
+            "permalink": "https://nitter.xitter.cc/peitodenostodos/status/2116927019854262322#m",
+            "metrics": {
+              "like_count": 561,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2116895599056257425",
+            "text": "Top gírias nordestinas: arre égua.",
+            "author_username": "ecm_foim",
+            "author_name": "ecm_foim",
+            "created_at": "2026-11-01T14:10:00+00:00",
+            "permalink": "https://nitter.xitter.cc/ecm_foim/status/2116895599056257425#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2116884080121835931",
+            "text": "top gírias nordestinas:\nem especial do Ceará: valha",
+            "author_username": "diariodoitalo",
+            "author_name": "diariodoitalo",
+            "created_at": "2026-11-01T13:24:00+00:00",
+            "permalink": "https://nitter.xitter.cc/diariodoitalo/status/2116884080121835931#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2116877196081954904",
+            "text": "top gírias nordestinas: diabeisso",
+            "author_username": "areli_areli3",
+            "author_name": "areli_areli3",
+            "created_at": "2026-11-01T12:57:00+00:00",
+            "permalink": "https://nitter.xitter.cc/areli_areli3/status/2116877196081954904#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2116780050741596435",
+            "text": "Top gírias nordestinas: Mili-boba da peste",
+            "author_username": "ScornOfDiana",
+            "author_name": "ScornOfDiana",
+            "created_at": "2026-11-01T06:31:00+00:00",
+            "permalink": "https://nitter.xitter.cc/ScornOfDiana/status/2116780050741596435#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2115451637070168386",
+            "text": "Evento impossível. Nem em seções nordestinas isto seria possível.",
+            "author_username": "FBF271179",
+            "author_name": "FBF271179",
+            "created_at": "2026-10-28T14:32:00+00:00",
+            "permalink": "https://nitter.xitter.cc/FBF271179/status/2115451637070168386#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 3,
+          "instance_used": "https://nitter.xitter.cc"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "nordeste_agora_foco_20261028"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2117787871272747157",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2117787871272747157",
+      "collected_at": "2026-11-04T21:01:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinas",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "6a3fe5b8-b6b8-4464-93a8-ea20e5e8727b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2117787871272747157",
+        "text": "Quando vê isso,vem passar as férias nas praias nordestinas",
+        "author_username": "mersinho2010",
+        "author_name": "mersinho2010",
+        "created_at": "2026-11-04T01:15:00+00:00",
+        "permalink": "https://nitter.xitter.cc/mersinho2010/status/2117787871272747157#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2116937639769088248",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2116937639769088248",
+      "collected_at": "2026-11-04T21:01:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinas",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "6a3fe5b8-b6b8-4464-93a8-ea20e5e8727b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2116937639769088248",
+        "text": "Top girias nordestinas\n\nInfeliz das costa oca",
+        "author_username": "iyorrann",
+        "author_name": "iyorrann",
+        "created_at": "2026-11-01T16:57:00+00:00",
+        "permalink": "https://nitter.xitter.cc/iyorrann/status/2116937639769088248#m",
+        "metrics": {
+          "like_count": 67,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      }
+    }
+  ],
+  "comments": []
+}
