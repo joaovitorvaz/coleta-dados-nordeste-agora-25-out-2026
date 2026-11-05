@@ -1,0 +1,19 @@
+{
+  "event_id": "68d3f5ce-3fbd-4be0-aebf-c3de5f96d9db",
+  "event_type": "campaign_nordeste_agora_foco_20261028",
+  "started_at": "2026-11-04T20:42:58-03:00",
+  "finished_at": "2026-11-04T21:45:26-03:00",
+  "status": "partial",
+  "since": "2026-10-25",
+  "until": "2026-11-05",
+  "records_written": 0,
+  "records_skipped_duplicate": 25,
+  "json_files_written": 8,
+  "errors": [
+    {
+      "query": "Nordeste",
+      "message": "Todas as instâncias falharam. Último erro: Error('Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nitter.xitter.cc/search?f=tweets&q=Nordeste+lang%3Apt+place_country%3ABR+since%3A2026-10-25+until%3A2026-11-05&e-nativeretweets=on\\nCall log:\\n  - navigating to \"https://nitter.xitter.cc/search?f=tweets&q=Nordeste+lang%3Apt+place_country%3ABR+since%3A2026-10-25+until%3A2026-11-05&e-nativeretweets=on\", waiting until \"networkidle\"\\n')"
+    }
+  ],
+  "twitee_trends": []
+}
